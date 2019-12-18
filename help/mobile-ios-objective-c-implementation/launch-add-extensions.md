@@ -97,7 +97,7 @@ Adobe Target에는 두 개의 공식 익스텐션인 Adobe Target 익스텐션�
 
 1. Adobe Target **[!UICONTROL 확장]** 프로그램을 찾아 설치를 **[!UICONTROL 클릭합니다]**
 
-   ![Extensions 카탈로그로 이동하고 [설치]를 클릭하여 Target 확장을 추가합니다](images/mobile-extensions-catalog-installTarget.png)
+   ![Extensions 카탈로그로 이동하고 \[설치\]를 클릭하여 Target 확장을 추가합니다](images/mobile-extensions-catalog-installTarget.png)
 
 1. 클라이언트 **[!UICONTROL 코드가]** 미리 채워집니다.
 1. 환경 **[!UICONTROL ID를]** 비워 둡니다. 이 설정은 Adobe Target의 [호스트](https://docs.adobe.com/help/en/target/using/administer/hosts.html) 기능과 함께 사용되며, 이를 통해 데이터를 다른 보고 환경(예: 개발, 스테이징, 프로덕션)으로 전송할 수 있습니다. 기본적으로 데이터는 프로덕션 환경으로 전송됩니다.
