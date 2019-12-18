@@ -119,7 +119,7 @@ Adobe Target에는 두 개의 공식 익스텐션인 Adobe Target 익스텐션�
 
 1. Adobe Target **[!UICONTROL VEC]** 익스텐션을 찾아 설치를 **[!UICONTROL 클릭합니다]**
 
-   ![Extensions 카탈로그로 이동하고 [설치]를 클릭하여 Target 확장을 추가합니다](images/mobile-extensions-catalog-installTargetVEC.png)
+   ![Extensions 카탈로그로 이동하고 \[설치\]를 클릭하여 Target 확장을 추가합니다](images/mobile-extensions-catalog-installTargetVEC.png)
 
 1. 타겟 **[!UICONTROL 캠페인 자동 가져오기]**&#x200B;를 설정합니다`ON` . 이렇게 하면 앱이 처음 로드될 때 모든 Target 활동이 미리 반입되므로 수행해야 하는 요청 수가 줄어듭니다.
 1. 백그라운드에서 **[!UICONTROL 가져오기]**&#x200B;작업을`OFF`수행합니다. 이 설정은 `Auto-Fetch Target Campaigns` 사용될 때만 나타납니다.  이 설정을 `OFF` 종료하면 앱의 홈 화면에서 VEC 활동을 실행할 수 있지만, 홈 화면이 표시되기 전에 Target 요청이 완료되었거나 시간 초과되었는지 확인하기 위해 앱 시작에 지연을 추가할 수 있습니다. 홈 화면에서 활동을 실행할 `OFF` 때 이 설정을 그대로 두고 그렇지 않을 `ON` 때 전환하는 것이 좋습니다.  이 설정은 앱을 업데이트하지 않고 론치 인터페이스에서 언제든지 변경할 수 있습니다.
