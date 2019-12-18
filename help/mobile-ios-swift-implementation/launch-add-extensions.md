@@ -83,7 +83,7 @@ Adobe 솔루션(예: Target, Analytics 및 Audience Manager)을 구현하게 되
 1. 이전 세션 정보를 **[!UICONTROL 소급 적용하는 확인란을 선택합니다.]**
 1. 저장 **[!UICONTROL 단추를]** 클릭합니다
 
-   ![Extensions 카탈로그로 이동하고 [설치]를 클릭하여 Analytics 확장 기능을 추가합니다](images/mobile-extensions-analytics-settings.png)
+   ![Extensions 카탈로그로 이동하고 \[설치\]를 클릭하여 Analytics 확장 기능을 추가합니다](images/mobile-extensions-analytics-settings.png)
 
 ### Target 확장 추가
 
