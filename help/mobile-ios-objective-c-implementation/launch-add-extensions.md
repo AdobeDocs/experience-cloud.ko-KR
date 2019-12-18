@@ -74,7 +74,7 @@ Adobe 솔루션(예: Target, Analytics 및 Audience Manager)을 구현하게 되
 
 1. Adobe Analytics **[!UICONTROL 확장]** 프로그램을 찾아 설치를 **[!UICONTROL 클릭합니다]**
 
-   ![Extensions 카탈로그로 이동하고 [설치]를 클릭하여 Analytics 확장 기능을 추가합니다](images/mobile-extensions-catalog-installAnalytics.png)
+   ![Extensions 카탈로그로 이동하고 \[설치\]를 클릭하여 Analytics 확장 기능을 추가합니다](images/mobile-extensions-catalog-installAnalytics.png)
 
 1. 미리 채워진 **[!UICONTROL 목록에서]** 보고서 세트를 선택합니다. 앱이 데이터를 전송할 보고서 세트입니다. 개발, 스테이징 및 프로덕션 환경에 대해 다른 보고서 세트를 선택할 수 있습니다.
 1. Analytics **[!UICONTROL 추적]** 서버를 미리 채우거나 미리 채워진 목록에서 선택하거나 수동으로 입력해야 할 수 있습니다. 이것은 비콘이 전송될 도메인입니다(일반적으로 형식) `yoursite.sc.omtrdc.net`.
