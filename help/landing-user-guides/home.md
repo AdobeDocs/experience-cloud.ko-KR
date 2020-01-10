@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 역량 강화 사용자 가이드 및 자습서의 포괄적인 목록이 포함되어 있습니다.
 translation-type: tm+mt
-source-git-commit: e3e9c587efc6228bc1465fca4141ce246a5cb310
+source-git-commit: 9a25d2e82e33e979d74b270e54f099a55cc6fd8f
 
 ---
 
@@ -207,7 +207,7 @@ source-git-commit: e3e9c587efc6228bc1465fca4141ce246a5cb310
 </tbody>
 </table>
 
-## ![아이콘](/help/assets/experience-cloud.png) Adobe Experience Platform
+## ![아이콘](/help/assets/platform.png) Adobe Experience Platform
 
 <table>
 <thead>
