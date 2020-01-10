@@ -2,14 +2,16 @@
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 역량 강화 사용자 가이드 및 자습서의 포괄적인 목록이 포함되어 있습니다.
 translation-type: tm+mt
-source-git-commit: 0ead691624a9a9e2e4f42333ac3ed5bb9f11ef68
+source-git-commit: e3e9c587efc6228bc1465fca4141ce246a5cb310
 
 ---
 
 
 # Adobe Experience Cloud 설명서
 
-이 페이지에는 모든 Adobe Experience Cloud 설명서 및 역량 강화 사용자 가이드 및 자습서의 포괄적인 목록이 포함되어 있습니다.
+![배너](/help/assets/experience-cloud-banner-notext.png)
+
+이 페이지에는 Adobe Experience Cloud 사용자 가이드 및 자습서의 포괄적인 목록이 포함되어 있습니다.
 
 ## ![아이콘](/help/assets/experience-cloud.png) 릴리스 노트
 
@@ -256,6 +258,7 @@ source-git-commit: 0ead691624a9a9e2e4f42333ac3ed5bb9f11ef68
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> DTM 안내서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> 위치 서비스</a></li>
     </ul>
   </td>
   <td>
