@@ -158,10 +158,6 @@ source-git-commit: 4375979361d0040943d6bae968c3319040b16ee3
 <tbody>
 <tr>
   <td>
-    <p><strong>클라우드 서비스로 AEM 사용</strong></p>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html"> 클라우드 서비스 사용 안내서로서 Experience Manager</a></li>
-    </ul>
     <p><strong>AEM 6.5</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html"> AEM 6.5 사용 안내서 허브</a></li>
@@ -180,6 +176,10 @@ source-git-commit: 4375979361d0040943d6bae968c3319040b16ee3
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> AEM 6.4 사용 안내서 허브</a></li>
       <li><a href="https://helpx.adobe.com/support/experience-manager/6-3.html"> 이전 AEM 버전에 대한 사용자 안내서</a></li>
+    </ul>
+    <p><strong>클라우드 서비스로 AEM 사용</strong></p>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html"> 클라우드 서비스 사용 안내서로서 Experience Manager</a></li>
     </ul>
     <p><strong>추가 AEM 안내서</strong></p>
     <ul>
