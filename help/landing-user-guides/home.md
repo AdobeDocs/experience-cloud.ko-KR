@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 역량 강화 사용자 가이드 및 자습서의 포괄적인 목록이 포함되어 있습니다.
 translation-type: tm+mt
-source-git-commit: 9a25d2e82e33e979d74b270e54f099a55cc6fd8f
+source-git-commit: 4375979361d0040943d6bae968c3319040b16ee3
 
 ---
 
@@ -158,6 +158,10 @@ source-git-commit: 9a25d2e82e33e979d74b270e54f099a55cc6fd8f
 <tbody>
 <tr>
   <td>
+    <p><strong>클라우드 서비스로 AEM 사용</strong></p>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html"> 클라우드 서비스 사용 안내서로서 Experience Manager</a></li>
+    </ul>
     <p><strong>AEM 6.5</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html"> AEM 6.5 사용 안내서 허브</a></li>
@@ -207,37 +211,6 @@ source-git-commit: 9a25d2e82e33e979d74b270e54f099a55cc6fd8f
 </tbody>
 </table>
 
-## ![아이콘](/help/assets/platform.png) Adobe Experience Platform
-
-<table>
-<thead>
-  <tr>
-    <th>사용자 안내서</th>
-    <th>자습서 및 개발</th>
-  </tr>
-</thead>
-<tbody>
-<tr>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> 실시간 고객 데이터 플랫폼 가이드</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> 감사기</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> 디버거</a></li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> 경험 플랫폼 자습서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html"> 구현 안내서 시작</a></li>
-      <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform 개발자 API</a></li>
-      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html"> Experience Platform Web SDK</a></li>
-    </ul>
-  </td>
-</tr>
-</tbody>
-</table>
-
 ## ![아이콘](/help/assets/experience-cloud.png) 관리, 구현 및 핵심 서비스
 
 <table>
@@ -274,6 +247,65 @@ source-git-commit: 9a25d2e82e33e979d74b270e54f099a55cc6fd8f
 </tbody>
 </table>
 
+## ![아이콘](/help/assets/platform.png) 경험 플랫폼
+
+<table>
+<thead>
+  <tr>
+    <th>사용자 안내서</th>
+    <th>자습서 및 개발</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+  <td>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> 실시간 고객 데이터 플랫폼 가이드</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> 감사기</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> 디버거</a></li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> 경험 플랫폼 자습서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html"> 구현 안내서 시작</a></li>
+      <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform 개발자 API</a></li>
+      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html"> Experience Platform Web SDK</a></li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
+
+## ![Experience](/help/assets/experience-cloud.png) Platform 기반의 아이콘 애플리케이션 서비스
+
+<table>
+<thead>
+  <tr>
+    <th>사용자 안내서</th>
+    <th>자습서</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+  <td>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> 고객 여정 분석</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> 실시간 고객 데이터 플랫폼 가이드</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> 여정 운영 사용 안내서</a></li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> 여정 통합 운영 튜토리얼</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> 경험 플랫폼 자습서</a></li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
+
 ## ![아이콘](/help/assets/experience-cloud.png) 위치 서비스
 
 <table>
@@ -291,31 +323,6 @@ source-git-commit: 9a25d2e82e33e979d74b270e54f099a55cc6fd8f
     </ul>
   </td>
   <td>
-  </td>
-</tr>
-</tbody>
-</table>
-
-## ![아이콘](/help/assets/experience-cloud.png) 여정 통합 운영
-
-<table>
-<thead>
-  <tr>
-    <th>사용자 안내서</th>
-    <th>자습서</th>
-  </tr>
-</thead>
-<tbody>
-<tr>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> 여정 운영 사용 안내서</a></li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> 여정 통합 운영 튜토리얼</a></li>
-    </ul>
   </td>
 </tr>
 </tbody>
