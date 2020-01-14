@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 역량 강화 사용자 가이드 및 자습서의 포괄적인 목록이 포함되어 있습니다.
 translation-type: tm+mt
-source-git-commit: 4375979361d0040943d6bae968c3319040b16ee3
+source-git-commit: c5870d5c3bd3409b2553d52cb29f53e103275cc2
 
 ---
 
@@ -49,7 +49,7 @@ source-git-commit: 4375979361d0040943d6bae968c3319040b16ee3
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/landing/home.html">Analytics 기본 안내서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Analytics 분석 가이드</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Analytics 도구 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> 관리 가이드</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html"> 구성 요소 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html"> 내보내기 안내서</a></li>
