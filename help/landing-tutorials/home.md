@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 자습서
 description: 모든 Experience Cloud 튜토리얼 및 학습 가이드에 대한 링크
 translation-type: tm+mt
-source-git-commit: 61959d68f9d9ae4c656b81b4c91017a5d179627b
+source-git-commit: bea2fb5fe61711dcb8902569f4dc15dfb5546542
 
 ---
 
@@ -25,10 +25,10 @@ source-git-commit: 61959d68f9d9ae4c656b81b4c91017a5d179627b
 
 * [핵심 서비스 학습 자습서](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)
 * [플랫폼 학습 자습서](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
-* [구현 안내서 시작](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
-* [모바일 iOS Swift 애플리케이션에서 Experience Cloud 구현](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-* [Mobile iOS Objective-C 애플리케이션에서 Experience Cloud 구현](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
-* [모바일 Android 앱에서 Experience Cloud 구현](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
+* [구현 안내서 시작](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html)
+* [모바일 iOS Swift 애플리케이션에서 Experience Cloud 구현](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+* [Mobile iOS Objective-C 애플리케이션에서 Experience Cloud 구현](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+* [모바일 Android 앱에서 Experience Cloud 구현](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html)
 
 ## 캠페인
 
@@ -61,40 +61,3 @@ Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있�
 >* [커뮤니티 포럼](https://forums.adobe.com/community/experience-cloud/)
 >* [Adobe 교육 및 자습서](https://helpx.adobe.com/learning.html?promoid=KAUDK)
 
-
-<!--
-<table>
-<tr>
-  <td>
-    <a href="https://helpx.adobe.com/support/experience-cloud.html">
-    <img alt="Learn & Support" src="/assets/roles.png"/>
-    </a>
-    <div>
-    <a href="https://helpx.adobe.com/support/experience-cloud.html"><strong>Learn & Support</strong></a>
-    </div>
-    <em>Discover resources for learning Experience Cloud solutions.</em>
-    <br>
-  </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/">
-      <img alt="experience league" src="/assets/design.png">
-    </a>
-    <div>
-    <a href="https://experienceleague.adobe.com/"><strong>Experience League</strong></a>
-    </div>
-    <em>Learn about key learning resources and upcoming events.</em>
-    <br>
-  </td>
-  <td>
-    <a href="https://forums.adobe.com/community/experience-cloud/">
-      <img alt="form" src="/assets/dev.png">
-    </a>
-    <div>
-    <a href="https://forums.adobe.com/community/experience-cloud/"><strong>Community Forums</strong></a>
-    </div>
-    <em>Interact with the Experience Cloud community.</em>
-    <br>
-  </td>
-</tr>
-</table>
--->
