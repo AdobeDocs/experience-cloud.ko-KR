@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 역량 강화 사용자 가이드 및 자습서의 포괄적인 목록이 포함되어 있습니다.
 translation-type: tm+mt
-source-git-commit: c5870d5c3bd3409b2553d52cb29f53e103275cc2
+source-git-commit: bea2fb5fe61711dcb8902569f4dc15dfb5546542
 
 ---
 
@@ -225,10 +225,10 @@ source-git-commit: c5870d5c3bd3409b2553d52cb29f53e103275cc2
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html"> 핵심 서비스 자습서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html"> 구현 안내서 시작</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> 모바일 iOS Swift 애플리케이션에서 Experience Cloud 구현</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> Mobile iOS Objective-C 애플리케이션에서 Experience Cloud 구현</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html"> 모바일 Android 앱에서 Experience Cloud 구현</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> 구현 안내서 시작</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> 모바일 iOS Swift 애플리케이션에서 Experience Cloud 구현</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> Mobile iOS Objective-C 애플리케이션에서 Experience Cloud 구현</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html"> 모바일 Android 앱에서 Experience Cloud 구현</a></li>
     </ul>
   </td>
 </tr>
@@ -264,7 +264,7 @@ source-git-commit: c5870d5c3bd3409b2553d52cb29f53e103275cc2
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> 경험 플랫폼 자습서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html"> 구현 안내서 시작</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> 구현 안내서 시작</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform 개발자 API</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html"> Experience Platform Web SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> 여정 통합 운영 튜토리얼</a></li>
@@ -273,58 +273,6 @@ source-git-commit: c5870d5c3bd3409b2553d52cb29f53e103275cc2
 </tr>
 </tbody>
 </table>
-
-<!-- Trying out as subsection of Platform above
-## ![Icon](/help/assets/experience-cloud.png) Application Services Powered by Experience Platform
-
-<table>
-<thead>
-  <tr>
-    <th>User Guides</th>
-    <th>Tutorials</th>
-  </tr>
-</thead>
-<tbody>
-<tr>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> Real-time Customer Data Platform Guide</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> Journey Orchestration User Guide</a></li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Journey Orchestration Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Experience Platform Tutorials</a></li>
-    </ul>
-  </td>
-</tr>
-</tbody>
-</table>
-
-## ![Icon](/help/assets/experience-cloud.png) Location Service
-
-<table>
-<thead>
-  <tr>
-    <th>User Guide</th>
-    <th></th>
-  </tr>
-</thead>
-<tbody>
-<tr>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Location Service Help</a></li>
-    </ul>
-  </td>
-  <td>
-  </td>
-</tr>
-</tbody>
-</table>
--->
 
 ## ![Icon](/help/assets/primetime.png) Primetime
 
