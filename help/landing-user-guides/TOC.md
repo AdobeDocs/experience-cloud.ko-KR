@@ -8,7 +8,7 @@ getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: 자습서
 tutorials-url: https://docs.adobe.com/content/help/en/experience-cloud/tutorials/home.html
 translation-type: tm+mt
-source-git-commit: a3d8b1f191c5b6e6a1d2fce991726b5b7a4e0185
+source-git-commit: a5114af3af79b307d127745d4ecb8f1574ded9e8
 
 ---
 
