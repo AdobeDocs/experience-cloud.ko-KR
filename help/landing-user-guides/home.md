@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 역량 강화 사용자 가이드 및 자습서의 포괄적인 목록이 포함되어 있습니다.
 translation-type: tm+mt
-source-git-commit: bea2fb5fe61711dcb8902569f4dc15dfb5546542
+source-git-commit: 7802a6b11d6b358d8106f004212709b497c9ab2b
 
 ---
 
@@ -215,7 +215,8 @@ source-git-commit: bea2fb5fe61711dcb8902569f4dc15dfb5546542
       <li><a href="https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html"> 핵심 서비스 인터페이스</a></li>
       <li><a href="https://helpx.adobe.com/enterprise/using/admin-console.html"> 관리 콘솔</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/id-service/using/home.html"> ECID 서비스 안내서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Mobile Services v4 SDK</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> 모바일 서비스 안내서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> Mobile Services v4 SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> DTM 안내서</a></li>
