@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 역량 강화 사용자 가이드 및 자습서의 포괄적인 목록이 포함되어 있습니다.
 translation-type: tm+mt
-source-git-commit: 7802a6b11d6b358d8106f004212709b497c9ab2b
+source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
 
 ---
 
@@ -75,7 +75,7 @@ source-git-commit: 7802a6b11d6b358d8106f004212709b497c9ab2b
 <thead>
   <tr>
     <th>사용자 안내서</th>
-    <th>자습서</th>
+    <th>자습서 및 개발</th>
   </tr>
 </thead>
 <tbody>
@@ -88,6 +88,11 @@ source-git-commit: 7802a6b11d6b358d8106f004212709b497c9ab2b
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Target 자습서</a></li>
+      <li><a href="https://developers.adobetarget.com/api/delivery-api/"> 대상 서버측 API</a></li>
+      <li><a href="https://github.com/adobe/target-nodejs-sdk"> Target NodeJS SDK</a></li>
+      <li><a href="https://github.com/adobe/target-java-sdk"> Target Java SDK</a></li>
+      <li><a href="https://developers.adobetarget.com/api/recommendations/"> Target Recommendations API</a></li>
+      <li><a href="http://developers.adobetarget.com/api/#introduction"> Target Adobe.IO 설명서</a></li>
     </ul>
   </td>
 </tr>
