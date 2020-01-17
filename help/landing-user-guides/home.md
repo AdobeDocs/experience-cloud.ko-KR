@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 역량 강화 사용자 가이드 및 자습서의 포괄적인 목록이 포함되어 있습니다.
 translation-type: tm+mt
-source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
+source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
 
 ---
 
@@ -225,7 +225,7 @@ source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> DTM 안내서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> 위치 서비스</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> 장소 서비스(이전 위치 서비스)</a></li>
     </ul>
   </td>
   <td>
@@ -265,6 +265,7 @@ source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> 고객 여정 분석</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> 실시간 고객 데이터 플랫폼 가이드</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> 여정 운영 사용 안내서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places Service</a></li>
     </ul>
   </td>
   <td>
