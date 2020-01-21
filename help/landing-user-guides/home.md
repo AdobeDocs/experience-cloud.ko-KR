@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 역량 강화 사용자 가이드 및 자습서의 포괄적인 목록이 포함되어 있습니다.
 translation-type: tm+mt
-source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
+source-git-commit: 86b60471cb3fc660eb6c36469fedb77e9034dd78
 
 ---
 
@@ -41,7 +41,7 @@ source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
 <thead>
   <tr>
     <th>사용자 안내서</th>
-    <th>자습서 및 개발</th>
+    <th>자습서 및 리소스</th>
   </tr>
 </thead>
 <tbody>
@@ -56,12 +56,15 @@ source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
       <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html"> 구현 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html"> 가져오기 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html"> 통합 안내서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html"> 미디어 분석 가이드</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> 데이터 워크벤치 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> 고객 여정 분석</a></li>
     </ul>
   </td>
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html"> 분석 자습서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/technotes/home.html"> Analytics 기술 노트</a></li>
       <li><a href="https://www.adobe.io/apis/experiencecloud/analytics/docs.html"> Analytics API</a></li>
     </ul>
   </td>
@@ -163,7 +166,7 @@ source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
 <tbody>
 <tr>
   <td>
-    <p><strong>클라우드 서비스로 AEM 사용</strong></p>
+    <p><strong>AEM을 클라우드 서비스로 사용</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html"> 클라우드 서비스 사용 안내서로서 Experience Manager</a></li>
     </ul>
