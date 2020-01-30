@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 역량 강화 사용자 가이드 및 자습서의 포괄적인 목록이 포함되어 있습니다.
 translation-type: tm+mt
-source-git-commit: a7ee26aed10bb7d1460372731068e053a2d6bc31
+source-git-commit: 4fd6ab9c97bc830c5d11c8fc8694d3d9a1316f1c
 
 ---
 
@@ -168,12 +168,12 @@ source-git-commit: a7ee26aed10bb7d1460372731068e053a2d6bc31
   <td>
     <p><strong>AEM을 클라우드 서비스로 사용</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html"> 클라우드 서비스 사용 안내서로서 Experience Manager</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html"> 클라우드 서비스 사용 안내서로서 AEM</a></li>
     </ul>
     <p><strong>AEM 버전</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html"> AEM 6.5 사용 안내서 허브</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> AEM 6.4 사용 안내서 허브</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html"> AEM 6.5 사용자 안내서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> AEM 6.4 사용자 안내서</a></li>
       <li><a href="https://helpx.adobe.com/support/experience-manager/6-3.html"> 이전 AEM 버전에 대한 사용자 안내서</a></li>
     </ul>
     <p><strong>추가 AEM 안내서</strong></p>
@@ -222,12 +222,12 @@ source-git-commit: a7ee26aed10bb7d1460372731068e053a2d6bc31
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html"> 핵심 서비스 인터페이스</a></li>
       <li><a href="https://helpx.adobe.com/enterprise/using/admin-console.html"> 관리 콘솔</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/id-service/using/home.html"> ECID 서비스 안내서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/id-service/using/home.html"> Experience Cloud ID 서비스 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> 모바일 서비스 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> Mobile Services v4 SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op 안내서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> DTM 안내서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> 다이내믹 태그 관리 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> 장소 서비스(이전 위치 서비스)</a></li>
     </ul>
   </td>
@@ -260,7 +260,7 @@ source-git-commit: a7ee26aed10bb7d1460372731068e053a2d6bc31
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/landing/home.html"> 경험 플랫폼 설명서</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html"> 플랫폼 릴리스 노트</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> 감사기</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> 디버거</a></li>
     </ul>
