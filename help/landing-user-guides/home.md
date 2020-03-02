@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 역량 강화 사용자 가이드 및 자습서의 포괄적인 목록이 포함되어 있습니다.
 translation-type: tm+mt
-source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
+source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 
 ---
 
@@ -121,8 +121,8 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html"> Campaign Classic 자습서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html"> Campaign Standard 자습서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Campaign Classic 자습서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Campaign Standard 자습서</a></li>
     </ul>
   </td>
 </tr>
