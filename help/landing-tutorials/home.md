@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 자습서
 description: 모든 Experience Cloud 튜토리얼 및 학습 가이드에 대한 링크
 translation-type: tm+mt
-source-git-commit: bea2fb5fe61711dcb8902569f4dc15dfb5546542
+source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 
 ---
 
@@ -32,8 +32,8 @@ source-git-commit: bea2fb5fe61711dcb8902569f4dc15dfb5546542
 
 ## 캠페인
 
-* [Campaign Classic 학습 자습서](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
-* [Campaign Standard 학습 자습서](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
+* [Campaign Classic 학습 자습서](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html)
+* [Campaign Standard 학습 자습서](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html)
 
 ## Adobe Experience Manager
 
