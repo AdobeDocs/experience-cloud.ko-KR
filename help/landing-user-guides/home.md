@@ -1,8 +1,8 @@
 ---
 title: Adobe Experience Cloud 설명서
-description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 역량 강화 사용자 가이드 및 자습서의 포괄적인 목록이 포함되어 있습니다.
+description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 지원 사용자 안내서 및 자습서에 대한 전체 목록이 포함되어 있습니다.
 translation-type: tm+mt
-source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
+source-git-commit: 77f00aaf2984d22e69e262432a66b526e8129a84
 
 ---
 
@@ -50,7 +50,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/landing/home.html">Analytics 기본 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Analytics 도구 안내서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> 관리 가이드</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> 관리 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html"> 구성 요소 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html"> 내보내기 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html"> 구현 안내서</a></li>
@@ -85,7 +85,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/target/using/target-home.html"> 타겟 가이드</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/target/using/target-home.html"> Target 안내서</a></li>
     </ul>
   </td>
   <td>
@@ -147,7 +147,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html">  Audience Manager 자습서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html"> Audience Manager 자습서</a></li>
     </ul>
   </td>
 </tr>
@@ -174,12 +174,12 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html"> AEM 6.5 사용자 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> AEM 6.4 사용자 안내서</a></li>
-      <li><a href="https://helpx.adobe.com/support/experience-manager/6-3.html"> 이전 AEM 버전에 대한 사용자 안내서</a></li>
+      <li><a href="https://helpx.adobe.com/support/experience-manager/6-3.html"> 이전 AEM 버전용 사용 안내서</a></li>
     </ul>
-    <p><strong>추가 AEM 안내서</strong></p>
+    <p><strong>추가적인 AEM 안내서</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/aem-screens-introduction.html"> AEM Screens 사용 안내서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/using/about-guide.html"> AEM Screens에 대한 모범 사례 가이드</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/using/about-guide.html"> AEM Screens용 우수 사례 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-htl/using/overview.html"> AEM HTL</a></li></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-dispatcher/using/dispatcher.html"> AEM Dispatcher</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html"> AEM Cloud Manager</a></li>
@@ -188,7 +188,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> AEM Desktop App</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> AEM Forms 자동화된 변환 서비스</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html"> Dynamic Media Classic</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Dynamic Media 개발자 가이드</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Dynamic Media 개발자 안내서</a></li>
     </ul>
   </td>
   <td>
@@ -200,7 +200,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html"> AEM Sites WKND 자습서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> AEM Foundation 자습서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/dispatcher-tutorial/overview.html"> AEM Dispatcher 캐시 자습서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-with-aem-headless/overview.html"> AEM 헤드리스 자습서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-with-aem-headless/overview.html"> AEM Headless 자습서</a></li>
     </ul>
   </td>
 </tr>
@@ -234,17 +234,17 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html"> 핵심 서비스 자습서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> 구현 안내서 시작</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> 모바일 iOS Swift 애플리케이션에서 Experience Cloud 구현</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> Mobile iOS Objective-C 애플리케이션에서 Experience Cloud 구현</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html"> 모바일 Android 앱에서 Experience Cloud 구현</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 구현 안내서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> 모바일 iOS Swift 애플리케이션에서의 Experience Cloud 구현</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> 모바일 iOS Objective-C 애플리케이션에서의 Experience Cloud 구현</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html"> 모바일 Android 앱에서의 Experience Cloud 구현</a></li>
     </ul>
   </td>
 </tr>
 </tbody>
 </table>
 
-## ![아이콘](/help/assets/platform.png) 경험 플랫폼
+## ![아이콘](/help/assets/platform.png) Experience Platform
 
 <table>
 <thead>
@@ -267,7 +267,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
     <p><strong>Adobe Experience Platform 기반의 애플리케이션 서비스</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> 고객 여정 분석</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> 실시간 고객 데이터 플랫폼 가이드</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> 실시간 고객 데이터 플랫폼 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> 여정 운영 사용 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places Service</a></li>
     </ul>
@@ -275,9 +275,9 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> 경험 플랫폼 자습서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> 구현 안내서 시작</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 구현 안내서</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform 개발자 API</a></li>
-      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html"> Experience Platform Web SDK</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/edge/home.html"> Experience Platform 웹 DK</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> 여정 통합 운영 튜토리얼</a></li>
     </ul>
   </td>
@@ -298,7 +298,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/programming/home.html"> Primetime 프로그래밍 가이드</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/programming/home.html"> Primetime 프로그래밍 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/primetime/drm/home.html"> Primetime 디지털 저작권 관리</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/primetime/video-playback/home.html"> Primetime 비디오 재생</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/primetime/ad-insertion/home.html"> Primetime 광고 삽입</a></li>
@@ -314,7 +314,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 
 ## ![아이콘](/help/assets/advertising-cloud.png) Advertising Cloud
 
-Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있는 도움말 아이콘(?)을 클릭합니다.
+Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있는 Help 아이콘(?)을 클릭합니다.
 
 <table>
 <thead>
@@ -350,9 +350,9 @@ Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있�
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.marketo.com/"> Marketing To Product (Classic)</a></li>
-      <li><a href="https://help.marketo.com/hc/en-us"> Marketing To Sky</a></li>
-      <li><a href="https://docs.marketo.com/display/BIZ/Bizible"> Bizible Docs</a></li>
+      <li><a href="https://docs.marketo.com/"> Marketo Product(Classic)</a></li>
+      <li><a href="https://help.marketo.com/hc/en-us"> Marketo Sky</a></li>
+      <li><a href="https://docs.marketo.com/display/BIZ/Bizible"> Bizible 설명서</a></li>
     </ul>
   </td>
   <td>
@@ -384,7 +384,7 @@ Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있�
 </tbody>
 </table>
 
-## ![아이콘](/help/assets/experience-cloud.png) 추가 Experience Cloud 가이드
+## ![아이콘](/help/assets/experience-cloud.png) 추가적인 Experience Cloud 안내서
 
 <table>
 <thead>
