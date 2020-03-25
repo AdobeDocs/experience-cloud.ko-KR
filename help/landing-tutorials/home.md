@@ -1,8 +1,8 @@
 ---
 title: Adobe Experience Cloud 자습서
-description: 모든 Experience Cloud 튜토리얼 및 학습 가이드에 대한 링크
+description: 모든 Experience Cloud 자습서 및 학습 안내서에 대한 링크
 translation-type: tm+mt
-source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
+source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
 
 ---
 
@@ -15,7 +15,9 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 
 ## Target
 
-[Target 학습 자습서](https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html)
+* [Target 학습 자습서](https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html)
+* [웹 사이트에서 Recommendations 사용](https://docs.adobe.com/content/help/en/target-learn/recommendations-in-a-website/overview.html)
+* [Android용 Adobe Mobile Services SDK v4가 포함된 Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html)
 
 ## Audience Manager
 
@@ -25,10 +27,10 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 
 * [핵심 서비스 학습 자습서](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)
 * [플랫폼 학습 자습서](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
-* [구현 안내서 시작](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html)
-* [모바일 iOS Swift 애플리케이션에서 Experience Cloud 구현](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-* [Mobile iOS Objective-C 애플리케이션에서 Experience Cloud 구현](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
-* [모바일 Android 앱에서 Experience Cloud 구현](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html)
+* [Launch 구현 안내서](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html)
+* [모바일 iOS Swift 애플리케이션에서의 Experience Cloud 구현](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+* [모바일 iOS Objective-C 애플리케이션에서의 Experience Cloud 구현](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+* [모바일 Android 앱에서의 Experience Cloud 구현](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html)
 
 ## 캠페인
 
@@ -43,11 +45,11 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 * [AEM Sites WKND 자습서](https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 * [AEM Foundation 학습 자습서](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html)
 * [AEM Dispatcher 캐시 자습서](https://docs.adobe.com/content/help/en/experience-manager-learn/dispatcher-tutorial/overview.html)
-* [AEM 헤드리스 자습서](https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-with-aem-headless/overview.html)
+* [AEM Headless 자습서](https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-with-aem-headless/overview.html)
 
 ## Advertising Cloud
 
-Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있는 도움말 아이콘(?)을 클릭합니다.
+Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있는 Help 아이콘(?)을 클릭합니다.
 
 * [Advertising Cloud 릴리스 노트](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#adcloud)
 
