@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 지원 사용자 안내서 및 자습서에 대한 전체 목록이 포함되어 있습니다.
 translation-type: tm+mt
-source-git-commit: 2c27fc142ae16c5dc985b6790d7de2393c7cd863
+source-git-commit: 94b17629897a888d3df601dbba632afbd99905af
 
 ---
 
@@ -259,7 +259,7 @@ source-git-commit: 2c27fc142ae16c5dc985b6790d7de2393c7cd863
     <p><strong>Experience Platform</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/landing/home.html"> 경험 플랫폼 설명서</a></li>
-      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html"> 플랫폼 릴리스 노트</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/release-notes/latest.html"> 플랫폼 릴리스 노트</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> 감사기</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> 디버거</a></li>
