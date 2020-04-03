@@ -2,18 +2,18 @@
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 지원 사용자 안내서 및 자습서에 대한 전체 목록이 포함되어 있습니다.
 translation-type: tm+mt
-source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
+source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
 
 ---
 
 
 # Adobe Experience Cloud 설명서
 
-![배너](/help/assets/experience-cloud-banner-3.png)
+![배너](/help/assets/experience-cloud-banner-4.png)
 
 이 페이지에는 Adobe Experience Cloud 사용자 가이드 및 자습서의 포괄적인 목록이 포함되어 있습니다.
 
-## ![아이콘](/help/assets/experience-cloud.png) 릴리스 노트
+## 릴리스 노트
 
 <table>
 <thead>
@@ -35,7 +35,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![아이콘](/help/assets/analytics.png) 분석
+## Analytics
 
 <table>
 <thead>
@@ -72,7 +72,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![아이콘](/help/assets/target.png) 타겟
+## Target
 
 <table>
 <thead>
@@ -102,7 +102,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![아이콘](/help/assets/campaign.png) 캠페인
+## 캠페인
 
 <table>
 <thead>
@@ -129,7 +129,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![아이콘](/help/assets/audience-manager.png) Audience Manager
+## Audience Manager
 
 <table>
 <thead>
@@ -154,7 +154,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![아이콘](/help/assets/aem.png) Adobe Experience Manager
+## Adobe Experience Manager
 
 <table>
 <thead>
@@ -207,7 +207,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![아이콘](/help/assets/experience-cloud.png) 핵심 서비스, 관리 및 구현
+## 핵심 서비스, 관리 및 구현
 
 <table>
 <thead>
@@ -244,7 +244,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![아이콘](/help/assets/platform.png) Experience Platform
+## Experience Platform
 
 <table>
 <thead>
@@ -286,7 +286,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![Icon](/help/assets/primetime.png) Primetime
+## Primetime
 
 <table>
 <thead>
@@ -313,7 +313,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![아이콘](/help/assets/advertising-cloud.png) Advertising Cloud
+## Advertising Cloud
 
 Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있는 Help 아이콘(?)을 클릭합니다.
 
@@ -338,7 +338,7 @@ Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있�
 </tbody>
 </table>
 
-## ![아이콘](/help/assets/marketo.png) 마케팅
+## Marketing to
 
 <table>
 <thead>
@@ -362,7 +362,7 @@ Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있�
 </tbody>
 </table>
 
-## ![아이콘](/help/assets/magento.png) 마젠토
+## Magento
 
 <table>
 <thead>
@@ -385,7 +385,7 @@ Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있�
 </tbody>
 </table>
 
-## ![아이콘](/help/assets/experience-cloud.png) 추가적인 Experience Cloud 안내서
+## 추가 Experience Cloud 가이드
 
 <table>
 <thead>
