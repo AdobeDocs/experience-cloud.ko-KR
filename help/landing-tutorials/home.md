@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 자습서
 description: 모든 Experience Cloud 자습서 및 학습 안내서에 대한 링크
 translation-type: tm+mt
-source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
+source-git-commit: 9fc6495b20ed5aaedbe3ff2881fb13feabaf34f7
 
 ---
 
@@ -26,7 +26,8 @@ source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
 ## 핵심 서비스 및 플랫폼 서비스
 
 * [핵심 서비스 학습 자습서](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)
-* [플랫폼 학습 자습서](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [플랫폼 비디오 자습서](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [플랫폼 자습서](https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html)
 * [Launch 구현 안내서](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html)
 * [모바일 iOS Swift 애플리케이션에서의 Experience Cloud 구현](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
 * [모바일 iOS Objective-C 애플리케이션에서의 Experience Cloud 구현](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
