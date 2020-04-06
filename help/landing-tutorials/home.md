@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 자습서
 description: 모든 Experience Cloud 자습서 및 학습 안내서에 대한 링크
 translation-type: tm+mt
-source-git-commit: 9fc6495b20ed5aaedbe3ff2881fb13feabaf34f7
+source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
 
 ---
 
@@ -17,7 +17,7 @@ source-git-commit: 9fc6495b20ed5aaedbe3ff2881fb13feabaf34f7
 
 * [Target 학습 자습서](https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html)
 * [웹 사이트에서 Recommendations 사용](https://docs.adobe.com/content/help/en/target-learn/recommendations-in-a-website/overview.html)
-* [Android용 Adobe Mobile Services SDK v4가 포함된 Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html)
+* [Android용 Adobe Mobile Services SDK v4가 포함된 Adobe Target](https://docs.adobe.com/content/help/ko-KR/target-learn/mobile-sdk-v4-android/overview.html)
 
 ## Audience Manager
 
@@ -52,15 +52,15 @@ source-git-commit: 9fc6495b20ed5aaedbe3ff2881fb13feabaf34f7
 
 Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있는 Help 아이콘(?)을 클릭합니다.
 
-* [Advertising Cloud 릴리스 노트](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#adcloud)
+* [Advertising Cloud 릴리스 노트](https://docs.adobe.com/content/help/ko-KR/release-notes/experience-cloud/current.html#adcloud)
 
 ## 추가 리소스
 
-> [!MORELIKETHIS]
+>[!MORELIKETHIS]
 >
->* [Experience Cloud 설명서](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)
->* [Experience Cloud 학습 및 지원](https://helpx.adobe.com/support/experience-cloud.html)
+>* [Experience Cloud 설명서](https://docs.adobe.com/content/help/ko-KR/experience-cloud/user-guides/home.html)
+>* [Experience Cloud 학습 및 지원](https://helpx.adobe.com/kr/support/experience-cloud.html)
 >* [Experience League](https://experienceleague.adobe.com/)
 >* [커뮤니티 포럼](https://forums.adobe.com/community/experience-cloud/)
->* [Adobe 교육 및 자습서](https://helpx.adobe.com/learning.html?promoid=KAUDK)
+>* [Adobe 교육 및 자습서](https://helpx.adobe.com/kr/learning.html?promoid=KAUDK)
 
