@@ -1,8 +1,8 @@
 ---
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 지원 사용자 안내서 및 자습서에 대한 전체 목록이 포함되어 있습니다.
-translation-type: ht
-source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
+translation-type: tm+mt
+source-git-commit: d718636d9c81bc6166bbe72f998b106f4a9efee0
 
 ---
 
@@ -299,12 +299,14 @@ source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/programming/home.html"> Primetime 프로그래밍 안내서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/drm/home.html"> Primetime 디지털 저작권 관리</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/video-playback/home.html"> Primetime 비디오 재생</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/ad-insertion/home.html"> Primetime 광고 삽입</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/migration/home.html"> Primetime 마이그레이션 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/primetime/release-notes/home.html"> Primetime 릴리스 노트</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/programming/home.html"> Primetime 프로그래밍 안내서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/migration/home.html"> Primetime 마이그레이션 및 전환 가이드</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/reference-implementation/home.html"> Primetime 참조 구현</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/ad-insertion/home.html"> Primetime 동적 광고 삽입</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/drm/home.html"> Primetime 디지털 저작권 관리</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/reference/api-references.html"> Primetime API 참조</a></li>
+      <li><a href="https://helpx.adobe.com/primetime/archives.html"> Primetime 아카이브 설명서</a></li>
     </ul>
   </td>
   <td>
