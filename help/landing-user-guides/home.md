@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 지원 사용자 안내서 및 자습서에 대한 전체 목록이 포함되어 있습니다.
 translation-type: tm+mt
-source-git-commit: d5c08d95c032b642d1510a02ed859049fc3149d1
+source-git-commit: 16d9ff51e0d0a99f6f87981dbd84fe44453962f3
 
 ---
 
@@ -16,8 +16,10 @@ source-git-commit: d5c08d95c032b642d1510a02ed859049fc3149d1
 >[!NOTE]
 >
 >이 페이지의 검색 기능은 작은 컨텐츠 세트로 제한됩니다. 특정 사용자 안내서(예: Analytics 또는 Target)로 이동하여 해당 영역을 검색하는 것이 좋습니다. Adobe는 Experience League로 향후 이동과 함께 검색 기능을 개선할 것입니다.
->
->Experience League에서 스테이징된 설명서의 미리 보기를 보려면 Experience League [로 이동](/help/landing-user-guides/experience-league-preview.md) (진행 중)을 참조하십시오.
+
+<!--
+To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
+-->
 
 ## 릴리스 노트
 
