@@ -18,7 +18,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->설명서 컨텐츠를 마이그레이션하는 동안 최상의 검색 경험을 위해 아래 제품 섹션을 탐색하고 가이드 수준에서 검색을 수행하는 것이 좋습니다
+>설명서 컨텐츠를 마이그레이션하는 동안 최상의 검색 경험을 위해 아래 제품 섹션을 탐색하고 가이드 수준에서 검색을 수행하는 것이 좋습니다.
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
