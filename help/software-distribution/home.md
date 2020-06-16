@@ -1,33 +1,33 @@
 ---
-title: Software Distribution
+title: 소프트웨어 배포
 description: Adobe Experience Cloud 소프트웨어 배포 사용 방법
 translation-type: tm+mt
 source-git-commit: 91c7ff4c452beb19193f35e65161743b418a3f73
 workflow-type: tm+mt
 source-wordcount: '513'
-ht-degree: 2%
+ht-degree: 56%
 
 ---
 
 
-# Software Distribution
+# 소프트웨어 배포
 
 ## 소개
 
-2020년 6월 현재, Experience Cloud 솔루션 소프트웨어 배포는 AEM용 패키지 공유 및 Campaign용 Neolane용 다운로드 플랫폼을 대체하며, 소프트웨어를 찾고 다운로드할 수 있는 보다 효율적인 환경을 제공합니다. 직관적인 유저 인터페이스(UI), 간소화된 검색 기능 및 대폭 향상된 다운로드 속도를 통해 Experience Cloud 제품에 대한 소프트웨어 패키지를 다운로드하여 탁월한 사용자 경험을 제공할 수 있습니다. Adobe에서 승인한 소프트웨어 패키지와 파트너 회사의 패키지를 현재 다음 제품에 사용할 수 있습니다.
+2020년 6월 현재, Experience Cloud 솔루션 소프트웨어 배포는 AEM용 패키지 공유 및 Campaign용 Neolane 다운로드 플랫폼을 대체하며 보다 효율적인 소프트웨어 검색 및 다운로드 경험을 제공합니다. 직관적인 사용자 인터페이스, 간소화된 검색 기능 및 대폭 향상된 다운로드 속도를 통해 Experience Cloud 제품에 대한 소프트웨어 패키지를 다운로드하여 탁월한 사용자 환경을 제공할 수 있습니다. Adobe에서 승인한 소프트웨어 패키지와 파트너 회사의 패키지를 현재 다음 제품에 사용할 수 있습니다.
 
-1. **Adobe Experience Manager** - 지원되는 모든 AEM 버전에 대한 서비스 및 유지 관리, 보안, 도구 등과 관련된 모든 것
-1. **클라우드 서비스로서의 Adobe Experience Manager** - AEM Cloud SDK, AEM Cloud 마이그레이션 툴 등
+1. **Adobe Experience Manager** - 지원되는 모든 AEM 버전에 대한 서비스 및 유지 관리, 보안, 도구 등과 관련된 모든 항목.
+1. **클라우드 서비스로서의 Adobe Experience Manager** - AEM Cloud SDK, AEM Cloud 마이그레이션 도구 등.
 1. **Adobe Campaign** - 모든 최신 Campaign 설치 프로그램 버전 및 관련 도구.
 1. **일반** - Adobe 고객을 위한 Oracle JDK를 비롯한 일반 용도 도구.
 
-## 소프트웨어 배포 이용
+## 소프트웨어 배포 액세스
 
-https://experience.adobe.com/downloads [으로](https://experience.adobe.com/downloads) 이동하여 Adobe ID로 소프트웨어 배포에 로그인합니다.
+[https://experience.adobe.com/downloads](https://experience.adobe.com/downloads)로 이동하여 Adobe ID로 소프트웨어 배포에 로그인합니다.
 
 >[!IMPORTANT]
 >
->패키지 공유 또는 Neolane의 로그인 자격 증명은 Adobe 전체 보안 표준을 사용하여 로그인할 수 있는 기능을 제공하는 소프트웨어 배포에서는 작동하지 않습니다. Adobe ID를 모르는 경우 조직 내의 지원 관리자에게 문의하십시오.
+>패키지 공유 또는 Neolane의 로그인 자격 증명은 Adobe 전체 보안 표준을 사용하여 로그인할 수 있는 기능을 제공하는 소프트웨어 배포에서는 작동하지 않습니다. 귀하의 Adobe ID을 모르는 경우 조직 내의 지원 관리자에게 문의하십시오.
 
 ## 탐색
 
@@ -37,7 +37,7 @@ https://experience.adobe.com/downloads [으로](https://experience.adobe.com/dow
 
 ### 다운로드 찾기
 
-원하는 제품 다운로드 페이지에 접속하면 해당 페이지에 나열된 모든 제품 관련 다운로드가 표시됩니다. 다운로드 목록이 너무 길어서 다운로드를 처음 볼 수 없습니다. Software Distribution은 간단하면서도 강력한 다운로드 방법을 제공합니다. 대부분의 경우 왼쪽에 있는 검색 필터를 사용하여 다운로드 목록을 귀하와 관련이 있는 목록으로 필터링하면 편리합니다. 제품에 따라 버전, 솔루션 또는 소프트웨어 유형과 같은 필터가 검색됩니다.
+원하는 제품 다운로드 페이지에 접속하면 해당 페이지에 나열된 모든 제품 관련 다운로드가 표시됩니다. 다운로드 목록이 너무 길어서 다운로드를 처음 볼 수 없습니다. 소프트웨어 배포는 간단하면서도 강력한 다운로드 방법을 제공합니다. 대부분의 경우 왼쪽에 있는 검색 필터를 사용하여 다운로드 목록을 귀하와 관련이 있는 목록으로 필터링하면 편리합니다. 제품에 따라 버전, 솔루션 또는 소프트웨어 유형과 같은 필터를 찾을 수 있습니다.
 
 다른 검색 옵션은 오른쪽 상단의 자유 텍스트 검색입니다.
 
@@ -45,7 +45,7 @@ Experience Cloud 솔루션 제품군의 일부인 소프트웨어 배포를 사�
 
 ### 소프트웨어 다운로드
 
-표시된 소프트웨어 다운로드를 두 번 클릭하면 대화 상자가 열리고 자세한 내용이 표시됩니다. 예를 들어 다운로드 버튼을 클릭하여 다운로드를 계속 진행하려면 먼저 승인해야 하는 설명, 공급자 이름 및 EULA가 **표시됩니다** .
+표시된 소프트웨어 다운로드를 두 번 클릭하면 대화 상자가 열리고 자세한 내용이 표시됩니다. For instance, you will be able to see a description, the provider name and the EULA, which you need to accept before you can proceed further with your download by clicking the **Download** button.
 
 특정 다운로드에 대한 링크를 공유할 수도 있습니다. [ **공유** ] 단추를 클릭하여 URL을 복사합니다.
 
