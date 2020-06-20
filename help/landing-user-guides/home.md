@@ -5,7 +5,7 @@ translation-type: tm+mt
 source-git-commit: c97f610c2ea231b40bfd59e7998557768070a108
 workflow-type: tm+mt
 source-wordcount: '1280'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->설명서 컨텐츠를 마이그레이션하는 동안 최상의 검색 경험을 위해 아래 제품 섹션을 탐색하고 가이드 수준에서 검색을 수행하는 것이 좋습니다.
+>설명서 컨텐츠를 마이그레이션하는 동안 최상의 검색 경험을 위해 아래 제품 섹션을 탐색하고 안내서 수준에서 검색을 수행하는 것이 좋습니다.
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
@@ -411,7 +411,7 @@ Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있�
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html"> 소프트웨어 배포</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-cloud/software-distribution/home.html"> 소프트웨어 배포</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/search-promote/using/sp-home.html"> Search&amp;Promote</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/livefyre/using/home.html"> Livefyre 사용 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/livefyre/implementation/home.html"> Livefyre 구현 안내서</a></li>
