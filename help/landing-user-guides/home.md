@@ -1,11 +1,11 @@
 ---
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 지원 사용자 안내서 및 자습서에 대한 전체 목록이 포함되어 있습니다.
-translation-type: ht
-source-git-commit: c97f610c2ea231b40bfd59e7998557768070a108
-workflow-type: ht
-source-wordcount: '1280'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 1acfc2c352199022f1bd6c9d043ccc6714c6148b
+workflow-type: tm+mt
+source-wordcount: '1291'
+ht-degree: 99%
 
 ---
 
@@ -274,6 +274,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/ko-KR/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/debugger/using/experience-cloud-debugger.html"> 디버거</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/debugger/using-v2/experience-cloud-debugger.html"> 디버거 v2(베타)</a></li>
     </ul>
     <p><strong>Experience Platform 기반의 애플리케이션 서비스</strong></p>
     <ul>
