@@ -1,11 +1,11 @@
 ---
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 지원 사용자 안내서 및 자습서에 대한 전체 목록이 포함되어 있습니다.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1acfc2c352199022f1bd6c9d043ccc6714c6148b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1291'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -69,7 +69,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/ko-KR/analytics/integration/home.html"> 통합 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/media-analytics/using/media-overview.html"> 미디어 분석 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> Data Workbench 안내서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> 고객 여정 분석</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
     </ul>
   </td>
   <td>
@@ -132,7 +132,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/ko-KR/campaign-classic-learn/tutorials/overview.html"> Campaign Classic 튜토리얼</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Campaign Classic 튜토리얼</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/campaign-standard-learn/tutorials/overview.html"> Campaign Standard 튜토리얼</a></li>
     </ul>
   </td>
@@ -197,7 +197,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-core-components/using/introduction.html"> AEM 코어 구성 요소</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-desktop-app/using/introduction.html"> AEM Desktop App</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-brand-portal/using/home.html"> AEM Brand Portal</a></li>
-      <li><a href="https://docs.adobe.com/content/help/ko-KR/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> AEM Forms 자동화된 변환 서비스</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> AEM Forms 자동화된 변환 서비스</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/dynamic-media-classic/using/home.html"> Dynamic Media Classic</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Dynamic Media 개발자 안내서</a></li>
     </ul>
@@ -232,7 +232,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/core-services/interface/experience-cloud.html"> Experience Cloud 인터페이스</a></li>
-      <li><a href="https://helpx.adobe.com/kr/enterprise/using/admin-console.html"> 관리 콘솔</a></li>
+      <li><a href="https://helpx.adobe.com/kr/enterprise/using/admin-console.html"> Admin Console</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/id-service/using/home.html"> Experience Cloud ID 서비스 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/mobile-services/using/home.html"> Mobile Services 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> Mobile Services v4 SDK</a></li>
@@ -246,9 +246,9 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html"> 핵심 서비스 튜토리얼</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 구현 안내서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/ko-KR/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> 모바일 iOS Swift 애플리케이션에서의 Experience Cloud 구현</a></li>
-      <li><a href="https://docs.adobe.com/content/help/ko-KR/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> 모바일 iOS Objective-C 애플리케이션에서의 Experience Cloud 구현</a></li>
-      <li><a href="https://docs.adobe.com/content/help/ko-KR/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html"> 모바일 Android 앱에서의 Experience Cloud 구현</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> 모바일 iOS Swift 애플리케이션에서의 Experience Cloud 구현</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> 모바일 iOS Objective-C 애플리케이션에서의 Experience Cloud 구현</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html"> 모바일 Android 앱에서의 Experience Cloud 구현</a></li>
     </ul>
   </td>
 </tr>
@@ -273,8 +273,8 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-platform/release-notes/latest.html"> Platform 릴리스 노트</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/auditor/using/overview.html"> Auditor</a></li>
-      <li><a href="https://docs.adobe.com/content/help/ko-KR/debugger/using/experience-cloud-debugger.html"> 디버거</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/debugger/using-v2/experience-cloud-debugger.html"> 디버거 v2(베타)</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ko-KR/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ko-KR/debugger/using-v2/experience-cloud-debugger.html"> Debugger v2(베타)</a></li>
     </ul>
     <p><strong>Experience Platform 기반의 애플리케이션 서비스</strong></p>
     <ul>
@@ -288,10 +288,10 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Experience Platform 비디오 튜토리얼</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-platform/tutorials/home.html"> Experience Platform 튜토리얼</a></li>
-      <li><a href="https://docs.adobe.com/content/help/ko-KR/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 구현 안내서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 구현 안내서</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform 개발자 API</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-platform/edge/home.html"> Experience Platform 웹 DK</a></li>
-      <li><a href="https://docs.adobe.com/content/help/ko-KR/platform-learn/tutorials/journey-orchestration/introduction.html"> Journey Orchestration 튜토리얼</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Journey Orchestration 튜토리얼</a></li>
     </ul>
   </td>
 </tr>
