@@ -1,9 +1,9 @@
 ---
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 지원 사용자 안내서 및 자습서에 대한 전체 목록이 포함되어 있습니다.
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1295'
 ht-degree: 100%
 
@@ -177,9 +177,9 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tbody>
 <tr>
   <td>
-    <p><strong>AEM을 클라우드 서비스로 사용</strong></p>
+    <p><strong>AEM as a Cloud Service</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-cloud-service/landing/home.html"> Cloud 서비스 사용 안내서로서의 AEM</a></li>
+      <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-manager-cloud-service/landing/home.html"> AEM as a Cloud Service 사용 안내서</a></li>
     </ul>
     <p><strong>AEM 버전</strong></p>
     <ul>
@@ -204,7 +204,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html"> Cloud 서비스 튜토리얼로서의 AEM</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html"> AEM as a Cloud Service 튜토리얼</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> AEM Assets 튜토리얼</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html"> AEM Forms 튜토리얼</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/sites/overview.html"> AEM Sites 튜토리얼</a></li>
