@@ -1,8 +1,11 @@
 ---
 title: Experience League로 이동 정보
 description: 이 페이지에서는 Experience League로의 마이그레이션에 대해 설명하고 준비된 사용 안내서에 대한 링크 목록을 제공합니다.
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: d5c08d95c032b642d1510a02ed859049fc3149d1
+workflow-type: tm+mt
+source-wordcount: '363'
+ht-degree: 100%
 
 ---
 
