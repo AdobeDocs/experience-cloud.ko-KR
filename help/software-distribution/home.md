@@ -1,9 +1,9 @@
 ---
 title: 소프트웨어 배포
 description: Adobe Experience Cloud 소프트웨어 배포 사용 방법
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 7a6397fa27deb3bb59372754104bd2a7115acedf
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 100%
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 2020년 6월 현재 Experience Cloud 솔루션 [!UICONTROL 소프트웨어 배포] 페이지는 다운로드 플랫폼의 AEM용 [!UICONTROL PackageShare] 및 [!DNL Campaign]용 [!DNL Neolane]을 대체합니다. 소프트웨어를 보다 효율적으로 찾아 다운로드할 수 있는 환경을 제공합니다. 직관적인 사용자 인터페이스, 간소화된 검색 기능 및 대폭 향상된 다운로드 속도를 통해 Experience Cloud 제품에 대한 소프트웨어 패키지를 다운로드하여 탁월한 사용자 환경을 제공할 수 있습니다. Adobe에서 승인한 소프트웨어 패키지와 파트너 회사의 패키지를 현재 다음 제품에 사용할 수 있습니다.
 
 1. **Adobe Experience Manager** - 지원되는 모든 AEM 버전에 대한 서비스 및 유지 관리, 보안, 도구 등과 관련된 모든 항목.
-1. **[!UICONTROL 클라우드 서비스로서의 Adobe Experience Manager ]**-[!UICONTROL AEM Cloud SDK],[!UICONTROL AEM Cloud]마이그레이션 도구 등.
+1. **[!UICONTROL 클라우드 서비스로서의 Adobe Experience Manager]** - [!UICONTROL AEM Cloud SDK], [!UICONTROL AEM Cloud] 마이그레이션 도구 등.
 1. **Adobe**[!DNL Campaign] - 모든 최신 Campaign 설치 프로그램 버전 및 관련 도구.
 1. **일반**[!DNL Oracle] - Adobe 고객을 위한 JDK를 비롯한 일반 용도 도구.
 
