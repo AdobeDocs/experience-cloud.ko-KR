@@ -1,14 +1,14 @@
 ---
 title: Adobe Experience Cloud 자습서
 description: 모든 Experience Cloud 자습서 및 학습 안내서에 대한 링크
-translation-type: tm+mt
-source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
-workflow-type: tm+mt
+exl-id: 4e92dc16-553f-4dda-9705-c33b99c0b8f3
+translation-type: ht
+source-git-commit: e98b6985c8e24e56e021422f8e32cad0d823d440
+workflow-type: ht
 source-wordcount: '374'
 ht-degree: 100%
 
 ---
-
 
 # Adobe Experience Cloud 자습서
 
