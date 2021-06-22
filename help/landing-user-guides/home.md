@@ -2,11 +2,10 @@
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 지원 사용자 안내서 및 자습서에 대한 전체 목록이 포함되어 있습니다.
 exl-id: fef60cd5-62e1-48cb-9779-af3944951c62
-translation-type: ht
-source-git-commit: e98b6985c8e24e56e021422f8e32cad0d823d440
-workflow-type: ht
+source-git-commit: fd3086f279572ccc2b61db1c6902ef7f7ab9591f
+workflow-type: tm+mt
 source-wordcount: '1295'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -237,9 +236,9 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/ko-KR/mobile-services/using/home.html"> Mobile Services 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> Mobile Services v4 SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/device-co-op/using/home.html"> Device Co-op 안내서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/ko-KR/launch/using/overview.html"> Experience Platform Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/launch/using/home.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/dtm/using/dtm-home.html"> Dynamic Tag Management 안내서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/ko-KR/places/using/home.html"> 장소 서비스(이전 위치 서비스)</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> 장소 서비스(이전 위치 서비스)</a></li>
     </ul>
   </td>
   <td>
@@ -271,7 +270,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-platform/landing/home.html"> Experience Platform 설명서</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-platform/release-notes/latest.html"> Platform 릴리스 노트</a></li>
-      <li><a href="https://docs.adobe.com/content/help/ko-KR/launch/using/overview.html"> Experience Platform Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/launch/using/home.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/debugger/using-v2/experience-cloud-debugger.html"> Debugger v2(베타)</a></li>
@@ -281,7 +280,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> 고객 여정 분석</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> 실시간 고객 데이터 플랫폼 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/journeys/using/journey-orchestration-home.html"> Journey Orchestration 사용 안내서</a></li>
-      <li><a href="https://docs.adobe.com/content/help/ko-KR/places/using/home.html"> Places Service</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places Service</a></li>
     </ul>
   </td>
   <td>
@@ -414,7 +413,7 @@ Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있�
     <ul>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/experience-cloud/software-distribution/home.html"> 소프트웨어 배포</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/search-promote/using/sp-home.html"> Search&amp;Promote</a></li>
-      <li><a href="https://docs.adobe.com/content/help/ko-KR/livefyre/using/home.html"> Livefyre 사용 안내서</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/livefyre/using/home.html"> Livefyre 사용 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/livefyre/implementation/home.html"> Livefyre 구현 안내서</a></li>
       <li><a href="https://docs.adobe.com/content/help/ko-KR/social/using/home.html"> Social(이제 제품을 사용할 수 없음)</a></li>
     </ul>
