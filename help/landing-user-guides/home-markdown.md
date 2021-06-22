@@ -1,11 +1,10 @@
 ---
 title: Adobe Experience Cloud 설명서
 description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 지원 사용자 안내서 및 자습서에 대한 전체 목록이 포함되어 있습니다.
-translation-type: tm+mt
-source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
+source-git-commit: fd3086f279572ccc2b61db1c6902ef7f7ab9591f
 workflow-type: tm+mt
 source-wordcount: '1148'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -56,17 +55,17 @@ ht-degree: 100%
 
 | 사용자 안내서 | 자습서 및 개발 |
 |--- |--- |
-| <ul><li>[실시간 고객 데이터 플랫폼 안내서](https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html)</li><li>[Launch](https://docs.adobe.com/content/help/ko-KR/launch/using/overview.html)</li><li>[감사기](https://docs.adobe.com/content/help/ko-KR/auditor/using/overview.html)</li><li>[디버거](https://docs.adobe.com/content/help/ko-KR/debugger/using/experience-cloud-debugger.html)</li></ul> | <ul><li>[Experience Platform 튜토리얼](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)</li><li>[Launch 구현 안내서](https://docs.adobe.com/content/help/ko-KR/experience-cloud/implementing-in-websites-with-launch/index.html)</li><li>[Experience Platform 개발자 API](https://www.adobe.io/apis/experienceplatform/home/)</li><li>[Experience Platform 웹 DK](https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html)</li></ul> |
+| <ul><li>[실시간 고객 데이터 플랫폼 안내서](https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html)</li><li>[Launch](https://docs.adobe.com/content/help/en/launch/using/home.html)</li><li>[감사기](https://docs.adobe.com/content/help/ko-KR/auditor/using/overview.html)</li><li>[디버거](https://docs.adobe.com/content/help/ko-KR/debugger/using/experience-cloud-debugger.html)</li></ul> | <ul><li>[Experience Platform 튜토리얼](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)</li><li>[Launch 구현 안내서](https://docs.adobe.com/content/help/ko-KR/experience-cloud/implementing-in-websites-with-launch/index.html)</li><li>[Experience Platform 개발자 API](https://www.adobe.io/apis/experienceplatform/home/)</li><li>[Experience Platform 웹 DK](https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html)</li></ul> |
 
 ## ![아이콘](/help/assets/experience-cloud.png) 관리, 구현 및 핵심 서비스
 
 | 사용자 안내서 | 자습서 |
 |--- |--- |
-| <ul><li>[관리 콘솔](https://helpx.adobe.com/kr/enterprise/using/admin-console.html)</li><li>[핵심 서비스 인터페이스](https://docs.adobe.com/content/help/ko-KR/core-services/interface/experience-cloud.html)</li><li>[ECID 서비스 안내서](https://docs.adobe.com/content/help/ko-KR/id-service/using/home.html)</li><li>[Mobile Services v4 SDK](https://docs.adobe.com/content/help/ko-KR/mobile-services/using/home.html)</li><li>[Device Co-op 안내서](https://docs.adobe.com/content/help/ko-KR/device-co-op/using/home.html)</li><li>[Launch](https://docs.adobe.com/content/help/ko-KR/launch/using/overview.html)</li><li>[DTM 안내서](https://docs.adobe.com/content/help/ko-KR/dtm/using/dtm-home.html)</li></ul> | <ul><li>[핵심 서비스 튜토리얼](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)</li><li>[Launch 구현 안내서](https://docs.adobe.com/content/help/ko-KR/experience-cloud/implementing-in-websites-with-launch/index.html)</li><li>[모바일 iOS Swift 애플리케이션에서의 Experience Cloud 구현](https://docs.adobe.com/content/help/ko-KR/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)</li><li>[모바일 iOS Objective-C 애플리케이션에서의 Experience Cloud 구현](https://docs.adobe.com/content/help/ko-KR/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)</li><li>[모바일 Android 앱에서의 Experience Cloud 구현](https://docs.adobe.com/content/help/ko-KR/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)</li></ul> |
+| <ul><li>[관리 콘솔](https://helpx.adobe.com/kr/enterprise/using/admin-console.html)</li><li>[핵심 서비스 인터페이스](https://docs.adobe.com/content/help/ko-KR/core-services/interface/experience-cloud.html)</li><li>[ECID 서비스 안내서](https://docs.adobe.com/content/help/ko-KR/id-service/using/home.html)</li><li>[Mobile Services v4 SDK](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)</li><li>[Device Co-op 안내서](https://docs.adobe.com/content/help/en/device-co-op/using/home.html)</li><li>[Launch](https://docs.adobe.com/content/help/en/launch/using/home.html)</li><li>[DTM 안내서](https://docs.adobe.com/content/help/ko/dtm/using/dtm-home.html)</li></ul> | <ul><li>[핵심 서비스 튜토리얼](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)</li><li>[Launch 구현 안내서](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)</li><li>[모바일 iOS Swift 애플리케이션에서의 Experience Cloud 구현](https://docs.adobe.com/content/help/ko-KR/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)</li><li>[모바일 iOS Objective-C 애플리케이션에서의 Experience Cloud 구현](https://docs.adobe.com/content/help/ko-KR/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)</li><li>[모바일 Android 앱에서의 Experience Cloud 구현](https://docs.adobe.com/content/help/ko-KR/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)</li></ul> |
 
 ## ![아이콘](/help/assets/experience-cloud.png) 위치 서비스
 
-* [위치 서비스 도움말](https://docs.adobe.com/content/help/ko-KR/places/using/home.html)
+* [위치 서비스 도움말](https://docs.adobe.com/content/help/en/places/using/home.html)
 
 ## ![아이콘](/help/assets/experience-cloud.png) Journey Orchestration
 
@@ -102,7 +101,7 @@ Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있�
 ## ![아이콘](/help/assets/experience-cloud.png) 추가적인 Experience Cloud 안내서
 
 * [Search&amp;Promote](https://docs.adobe.com/content/help/en/search-promote/using/sp-home.html)
-* [Livefyre 사용 안내서](https://docs.adobe.com/content/help/ko-KR/livefyre/using/home.html)
+* [Livefyre 사용 안내서](https://docs.adobe.com/content/help/en/livefyre/using/home.html)
 * [Livefyre 구현 안내서](https://docs.adobe.com/content/help/ko-KR/livefyre/implementation/home.html)
 * [Social](https://docs.adobe.com/content/help/ko-KR/social/using/home.html)
 
