@@ -1,11 +1,11 @@
 ---
 title: Adobe Experience Cloud 설명서
-description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 지원 사용자 안내서 및 자습서에 대한 전체 목록이 포함되어 있습니다.
+description: 이 페이지에는 모든 Adobe Experience Cloud 설명서 및 지원 사용 안내서 및 자습서에 대한 전체 목록이 포함되어 있습니다.
 exl-id: fef60cd5-62e1-48cb-9779-af3944951c62
 source-git-commit: 80a329ad610ee4c1806c97680dc5e15ec5e7aeb0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1283'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ko-KR"> 릴리스 노트 안내서</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en"> 릴리스 정보 안내서</a></li>
     </ul>
   </td>
   <td>
@@ -58,9 +58,9 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://experienceleague.adobe.com/docs/analytics.html?lang=ko-KR">Analytics 기본 안내서</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en"> Analytics 툴 안내서</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ko-KR"> 관리 안내서</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/analytics.html?lang=en">Analytics 기본 안내서</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en"> Analytics 도구 안내서</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en"> 관리자 안내서</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en"> 구성 요소 안내서</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=en"> 내보내기 안내서</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en"> 구현 안내서</a></li>
@@ -87,7 +87,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <table>
 <thead>
   <tr>
-    <th>사용자 안내서</th>
+    <th>사용 안내서</th>
     <th>자습서 및 개발</th>
   </tr>
 </thead>
@@ -117,7 +117,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <table>
 <thead>
   <tr>
-    <th>사용자 안내서</th>
+    <th>사용 안내서</th>
     <th>자습서</th>
   </tr>
 </thead>
@@ -125,14 +125,14 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko-KR"> Campaign Standard</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ko-KR"> Campaign Classic</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en"> Campaign Standard</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en"> Campaign Classic</a></li>
     </ul>
   </td>
   <td>
     <ul>
       <li><a href="https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en"> Campaign Classic 튜토리얼</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko-KR"> Campaign Standard 튜토리얼</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en"> Campaign Standard 튜토리얼</a></li>
     </ul>
   </td>
 </tr>
@@ -144,7 +144,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <table>
 <thead>
   <tr>
-    <th>사용자 안내서</th>
+    <th>사용 안내서</th>
     <th>자습서</th>
   </tr>
 </thead>
@@ -169,7 +169,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <table>
 <thead>
   <tr>
-    <th>사용자 안내서</th>
+    <th>사용 안내서</th>
     <th>자습서</th>
   </tr>
 </thead>
@@ -178,22 +178,22 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <p><strong>AEM as a Cloud Service</strong></p>
     <ul>
-      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ko-KR"> AEM as a Cloud Service 사용 안내서</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en"> AEM as a Cloud Service 사용 안내서</a></li>
     </ul>
     <p><strong>AEM 버전</strong></p>
     <ul>
       <li><a href="https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/home.html?lang=en"> AEM 6.5 사용 안내서</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/experience-manager-64/user-guide/home.html?lang=en"> AEM 6.4 사용 안내서</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ko-KR"> 이전 AEM 버전용 사용 안내서</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html"> 이전 AEM 버전용 사용 안내서</a></li>
     </ul>
     <p><strong>추가적인 AEM 안내서</strong></p>
     <ul>
       <li><a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/aem-screens-introduction.html?lang=en"> AEM Screens 사용 안내서</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html?lang=en"> AEM Screens용 우수 사례 안내서</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html?lang=en"> AEM Screens에 대한 모범 사례 안내서</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/experience-manager-htl/using/overview.html?lang=en"> AEM HTL</a></li></li>
       <li><a href="https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en"> AEM Dispatcher</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=ko-KR"> AEM Cloud Manager</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=ko-KR"> AEM 코어 구성 요소</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en"> AEM Cloud Manager</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en"> AEM 코어 구성 요소</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html?lang=en"> AEM 데스크탑 앱</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en"> AEM Brand Portal</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/introduction.html?lang=en"> AEM Forms 자동화된 변환 서비스</a></li>
@@ -222,7 +222,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <table>
 <thead>
   <tr>
-    <th>사용자 안내서</th>
+    <th>사용 안내서</th>
     <th>자습서</th>
   </tr>
 </thead>
@@ -230,15 +230,15 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=ko-KR"> Experience Cloud 인터페이스</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en"> Experience Cloud 인터페이스</a></li>
       <li><a href="https://helpx.adobe.com/kr/enterprise/using/admin-console.html"> Admin Console</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ko-KR"> Experience Cloud ID 서비스 안내서</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en"> Experience Cloud ID 서비스 안내서</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/mobile-services/using/home.html?lang=en"> Mobile Services 안내서</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/mobile-services/using/home.html?lang=en"> Mobile Services v4 SDK</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=ko-KR"> Device Co-op 안내서</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lank=ko-KR"> Experience Platform Launch</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=en"> Device Co-op 안내서</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en"> Experience Platform Launch</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en"> Dynamic Tag Management 안내서</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/places/using/home.html?lang=en"> 장소 서비스(이전 위치 서비스)</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/places/using/home.html?lang=en"> 장소 서비스 (이전 위치 서비스)</a></li>
     </ul>
   </td>
   <td>
@@ -259,7 +259,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <table>
 <thead>
   <tr>
-    <th>사용자 안내서</th>
+    <th>사용 안내서</th>
     <th>자습서 및 개발</th>
   </tr>
 </thead>
@@ -268,19 +268,19 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <p><strong>Experience Platform</strong></p>
     <ul>
-      <li><a href="https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ko-KR"> Experience Platform 설명서</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ko-KR"> Platform 릴리스 정보</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=en"> Experience Platform 설명서</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=en"> Platform 릴리스 정보</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en"> Experience Platform Launch</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/auditor/using/overview.html?lang=ko-KR"> Auditor</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=ko-KR"> Debugger</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=ko-kr"> Debugger v2(베타)</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/auditor/using/overview.html?lang=en"> Auditor</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=en"> Debugger</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=en"> Debugger v2 (Beta)</a></li>
     </ul>
     <p><strong>Experience Platform 기반의 애플리케이션 서비스</strong></p>
     <ul>
       <li><a href="https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=en"> Customer Journey Analytics</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=en"> 실시간 고객 데이터 플랫폼 안내서</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ko"> Journey Orchestration 사용 안내서</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/places/using/home.html?lang=en"> Places Service</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=en"> Real-time Customer Data Platform 안내서</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=en"> Journey Orchestration 사용 안내서</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/places/using/home.html?lang=en"> 장소 서비스</a></li>
     </ul>
   </td>
   <td>
@@ -290,7 +290,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en"> Launch 구현 안내서</a></li>
       <li><a href="https://developer.adobe.com/experience-platform-apis/"> Experience Platform 개발자 API</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en"> Experience Platform Web SDK</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ko-KR"> Journey Orchestration 튜토리얼</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=en"> Journey Orchestration 튜토리얼</a></li>
     </ul>
   </td>
 </tr>
@@ -310,11 +310,11 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=ko-KR"> Primetime 릴리스 노트</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=en"> Primetime 릴리스 정보</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/primetime/programming/home.html?lang=en"> Primetime 프로그래밍 안내서</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/primetime/migration/home.html?lang=en"> Primetime 마이그레이션 및 전환 안내서</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/primetime/reference-implementation/home.html?lang=en"> Primetime 참조 구현</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/primetime/ad-insertion/home.html?lang=en"> Primetime 광고 삽입</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/primetime/ad-insertion/home.html?lang=en"> Primetime 동적 광고 삽입</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/primetime/drm/home.html?lang=en"> Primetime 디지털 저작권 관리</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/primetime/reference/api-references.html?lang=en"> Primetime API 참조</a></li>
       <li><a href="https://helpx.adobe.com/kr/primetime/archives.html"> Primetime 아카이브 설명서</a></li>
@@ -364,7 +364,7 @@ Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있�
 <tr>
   <td>
     <ul>
-      <li><a href="https://experienceleague.adobe.com/docs/marketo/using/home.html"> Marketo Product(Classic)</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/marketo/using/home.html"> Marketo 제품 (Classic)</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html?lang=en"> Marketo Sky</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/marketo/using/home.html"> Bizible 설명서</a></li>
     </ul>
@@ -415,7 +415,7 @@ Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있�
       <li><a href="https://experienceleague.adobe.com/docs/search-promote/using/sp-home.html?lang=en"> Search&amp;Promote</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/livefyre/using/home.html?lang=en"> Livefyre 사용 안내서</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/livefyre/implementation/home.html?lang=en"> Livefyre 구현 안내서</a></li>
-      <li><a href="https://experienceleague.adobe.com/docs/social/using/home.html?lang=en"> Social(이제 제품을 사용할 수 없음)</a></li>
+      <li><a href="https://experienceleague.adobe.com/docs/social/using/home.html?lang=en"> Social (더 이상 제품을 사용할 수 없음)</a></li>
     </ul>
   </td>
   <td>
