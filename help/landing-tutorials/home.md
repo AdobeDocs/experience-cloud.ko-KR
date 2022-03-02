@@ -3,9 +3,9 @@ title: Adobe Experience Cloud 자습서
 description: 모든 Experience Cloud 자습서 및 학습 안내서에 대한 링크
 exl-id: 4e92dc16-553f-4dda-9705-c33b99c0b8f3
 source-git-commit: 80a329ad610ee4c1806c97680dc5e15ec5e7aeb0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '366'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 62%
 ## Target
 
 * [Target 학습 자습서](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en)
-* [Recommendations 사용](https://experienceleague.adobe.com/docs/target-learn/tutorials/recommendations/use-recommendations-offers.html)
+* [Recommendations 사용하기](https://experienceleague.adobe.com/docs/target-learn/tutorials/recommendations/use-recommendations-offers.html)
 * [Android용 Adobe Mobile Services SDK v4가 포함된 Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/mobile/overview.html)
 
 ## Audience Manager
@@ -27,7 +27,7 @@ ht-degree: 62%
 
 ## 핵심 서비스 및 플랫폼 서비스
 
-* [핵심 서비스 학습 자습서](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/overview.html?lang=ko-KR)
+* [핵심 서비스 학습 자습서](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/overview.html?lang=en)
 * [Platform 비디오 튜토리얼](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
 * [Platform 튜토리얼](https://experienceleague.adobe.com/docs/experience-platform/tutorials/home.html?lang=en)
 * [Launch 구현 안내서](https://experienceleague.adobe.com/docs/core-services-learn/implementing-in-websites-with-launch/index.html?lang=en)
@@ -38,7 +38,7 @@ ht-degree: 62%
 ## Campaign
 
 * [Campaign Classic 학습 자습서](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
-* [Campaign Standard 학습 자습서](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko-KR)
+* [Campaign Standard 학습 자습서](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en)
 
 ## Adobe Experience Manager
 
@@ -54,7 +54,7 @@ ht-degree: 62%
 
 Advertising Cloud에 대한 도움말을 보려면 페이지의 맨 위에 있는 Help 아이콘(?)을 클릭합니다.
 
-* [Advertising Cloud 릴리스 노트](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ko-KR)
+* [Advertising Cloud 릴리스 노트](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)
 
 ## 추가 리소스
 
