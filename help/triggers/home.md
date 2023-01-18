@@ -1,12 +1,12 @@
 ---
-title: 알 수 없음
-description: 알 수 없음
-exl-id: 8a277a28-c1ec-499b-9c57-e1f67ffdf327
-source-git-commit: 9a903c2c485bbe3c16d07c8495674856e8f26972
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+title: Experience Cloud 트리거 만들기 및 관리자
+description: Adobe Experience Cloud Triggers UI 살펴보기
+source-git-commit: fb41c2e26a4945a9d9f24fec7f4c68a35af2c428
+workflow-type: tm+mt
+source-wordcount: '16'
+ht-degree: 25%
 
 ---
 
-# 알 수 없음
+
+# Adobe Experience Cloud 트리거{#triggers-home}

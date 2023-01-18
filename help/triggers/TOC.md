@@ -1,15 +1,15 @@
 ---
-user-guide-title: 알 수 없음
-user-guide-description: 알 수 없음
-breadcrumb-title: 알 수 없음
+user-guide-title: Adobe Experience Cloud 트리거
+user-guide-description: Adobe Experience Cloud 트리거
+breadcrumb-title: Adobe Experience Cloud 트리거
 solution: Experience Cloud
-source-git-commit: 9a903c2c485bbe3c16d07c8495674856e8f26972
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: fb41c2e26a4945a9d9f24fec7f4c68a35af2c428
+workflow-type: tm+mt
+source-wordcount: '14'
 ht-degree: 100%
 
 ---
 
-# 알 수 없음 {#unknown}
+# 트리거 {#triggers}
 
 * [홈](home.md)
