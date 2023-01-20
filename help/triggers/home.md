@@ -1,14 +1,14 @@
 ---
-title: Experience Cloud 트리거 만들기 및 관리자
-description: Adobe Experience Cloud Triggers UI 살펴보기
+title: Experience Cloud 트리거 만들기 및 관리
+description: Adobe Experience Cloud 트리거 UI 살펴보기
 hide: true
-source-git-commit: 5243940cc97621257e6ce4f41bfe837d1bc5530c
+exl-id: aad9c013-6671-4e3b-adfc-fab79f2a3ef7
+source-git-commit: 5051c89be0a571df6528ce599c398e174a6d7280
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 3%
+ht-degree: 13%
 
 ---
-
 
 # Adobe Experience Cloud 트리거{#triggers-home}
 
