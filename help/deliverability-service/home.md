@@ -1,11 +1,11 @@
 ---
-title: Adobe 게재 기능 서비스 관리자
+title: Adobe 게재 가능성 서비스 관리자
 description: Adobe 게재 가능성 서비스 살펴보기
 hide: true
 source-git-commit: 58d7982b28ec82c34076e52afd0a0edfc9bfd90f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
