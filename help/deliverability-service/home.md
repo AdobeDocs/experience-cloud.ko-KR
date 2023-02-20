@@ -1,17 +1,19 @@
 ---
-title: Adobe 게재 가능성 서비스 관리자
+title: Adobe 게재 가능성 서비스
 description: Adobe 게재 가능성 서비스 살펴보기
 hide: true
-source-git-commit: 58d7982b28ec82c34076e52afd0a0edfc9bfd90f
-workflow-type: ht
-source-wordcount: '71'
-ht-degree: 100%
+exl-id: 31ea97e7-b0a0-4a92-bc69-a458fdbc1d7c
+source-git-commit: b5436d4e713f2f358a86f039820072225d1686f2
+workflow-type: tm+mt
+source-wordcount: '170'
+ht-degree: 7%
 
 ---
 
 # Adobe 게재 가능성 서비스 {#deliv-home}
 
-새로운 트리거 UI를 살펴보고 사용 방법을 알아보십시오.
+게재 능력 컨설턴트 및 운영 팀은 고객이 전자 메일 게재 능력을 향상시킬 수 있도록 여러 활동을 수행해야 합니다. 모든 게재 기능 분석 후, 대부분의 기능을 고객이 직접 액세스할 수 있지만 일부 기능은 Adobe 게재 가능성 팀으로만 제한되어야 합니다. 고객에게 보다 빠르고 나은 게재 기능 서비스를 제공하기 위해 Adobe에서는 게재 가능성 팀을 위한 단일 스톱 솔루션인 UI 기반 게재 기능 애플리케이션을 작성하기로 결정했습니다. 게재 가능성 팀은 이 애플리케이션을 사용하여 Journey Optimizer, 캠페인 및 Marketo 등 고객 여정 관리 제품군의 여러 제품의 고객에게 서비스를 제공할 수 있습니다.
 
-Experience Cloud 트리거를 사용하여 파이프라인을 통해 Adobe Campaign과 Adobe Analytics 간에 데이터를 연결할 수 있습니다. 파이프라인은 웹 사이트에서 사용자의 작업 또는 트리거를 검색합니다. 장바구니 비우기는 트리거의 한 예입니다. 트리거는 거의 실시간으로 이메일을 전송하기 위해 Adobe Campaign에서 처리됩니다.
+현재 다음 기능을 사용할 수 있습니다.
 
+**전역 제외 목록** - 이 기능은 고객에게 노출되지 않으며, 업데이트도 볼 수 없습니다. 그러나 목록을 지속적으로 모니터링하고 업데이트해야 하는데 (게재 가능성 팀이 수동으로) 그리고 자동으로(타사 공급업체가 제공) 합니다. Blackbox) 를 사용할 수 있습니다. [자세히 알아보기](global-suppression-list.md)
