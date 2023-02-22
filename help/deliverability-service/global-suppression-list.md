@@ -69,6 +69,7 @@ ht-degree: 100%
    EMAIL,abc@somedomain.com,Comment
    DOMAIN,somedomain.com,Comment
    ```
+
    >[!CAUTION]
    >
    >CSV 템플릿의 열 이름을 변경하지 마십시오.
