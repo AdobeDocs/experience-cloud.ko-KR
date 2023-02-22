@@ -1,19 +1,19 @@
 ---
-title: Adobe 게재 가능성 서비스
-description: Adobe 게재 가능성 서비스 살펴보기
+title: Adobe Deliverability Services
+description: Adobe Deliverability Services 살펴보기
 hide: true
 exl-id: 31ea97e7-b0a0-4a92-bc69-a458fdbc1d7c
 source-git-commit: b5436d4e713f2f358a86f039820072225d1686f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '170'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
-# Adobe 게재 가능성 서비스 {#deliv-home}
+# Adobe Deliverability Services {#deliv-home}
 
-게재 능력 컨설턴트 및 운영 팀은 고객이 전자 메일 게재 능력을 향상시킬 수 있도록 여러 활동을 수행해야 합니다. 모든 게재 기능 분석 후, 대부분의 기능을 고객이 직접 액세스할 수 있지만 일부 기능은 Adobe 게재 가능성 팀으로만 제한되어야 합니다. 고객에게 보다 빠르고 나은 게재 기능 서비스를 제공하기 위해 Adobe에서는 게재 가능성 팀을 위한 단일 스톱 솔루션인 UI 기반 게재 기능 애플리케이션을 작성하기로 결정했습니다. 게재 가능성 팀은 이 애플리케이션을 사용하여 Journey Optimizer, 캠페인 및 Marketo 등 고객 여정 관리 제품군의 여러 제품의 고객에게 서비스를 제공할 수 있습니다.
+게재 가능성 컨설턴트 및 운영 팀은 고객이 이메일 게재 가능성을 개선할 수 있도록 다양한 활동을 수행해야 합니다. 모든 게재 가능성 기능을 분석한 결과, 대부분의 기능은 고객이 직접 액세스할 수 있지만 일부 기능은 Adobe 게재 가능성 팀에만 제한되어야 합니다. 고객에게 보다 신속하고 우수한 게재 서비스를 제공하기 위해 게재 가능성 팀의 원스톱 솔루션 역할을 할 UI 기반 게재 가능성 서비스를 만들기로 결정했습니다. 이 애플리케이션을 사용하여 게재 가능성 팀은 고객 여정 관리 제품군(예: Journey Optimizer, Campaign, Marketo)에 속한 여러 제품의 고객에게 서비스를 제공할 수 있습니다.
 
-현재 다음 기능을 사용할 수 있습니다.
+현재 사용 가능한 기능은 다음과 같습니다.
 
-**전역 제외 목록** - 이 기능은 고객에게 노출되지 않으며, 업데이트도 볼 수 없습니다. 그러나 목록을 지속적으로 모니터링하고 업데이트해야 하는데 (게재 가능성 팀이 수동으로) 그리고 자동으로(타사 공급업체가 제공) 합니다. Blackbox) 를 사용할 수 있습니다. [자세히 알아보기](global-suppression-list.md)
+**글로벌 금지 목록** – 이 기능은 고객에게 노출되지 않으며, 보거나 업데이트할 수 없습니다. 그러나 목록은 수동(게재 가능성 팀)과 자동(서드파티 공급업체: Blackbox) 모두 지속적으로 모니터링하고 업데이트해야 합니다. [자세히 알아보기](global-suppression-list.md)
