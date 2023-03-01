@@ -2,9 +2,10 @@
 title: 글로벌 금지 목록
 description: 글로벌 금지 목록 살펴보기
 hide: true
-source-git-commit: a946cfb1027896f6e45aaf88d25ad7114d6b5ac6
+exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
+source-git-commit: b66e2525694c771ebb7ac5190b7259ef5658d81a
 workflow-type: ht
-source-wordcount: '628'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -109,4 +110,3 @@ ht-degree: 100%
 >[!CAUTION]
 >
 >서드파티 서비스 제공업체 Blackbox에서 자동으로 추가한 주소나 도메인은 컨설턴트가 인터페이스를 통해 제거할 수 없습니다. 이 작업은 백엔드 티켓을 통해서만 수행할 수 있습니다.
-
