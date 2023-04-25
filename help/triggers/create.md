@@ -3,10 +3,11 @@ title: Experience Cloud 트리거 만들기 및 관리
 description: Adobe Experience Cloud 트리거 UI 살펴보기
 hide: true
 hidefromtoc: true
-source-git-commit: ce0faf9fab45c931feb666ac0c77f5ab5c231746
-workflow-type: ht
-source-wordcount: '483'
-ht-degree: 100%
+exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
+source-git-commit: 743244e72cfe2dfb44a6c9adba699f90db1fe04d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +19,7 @@ ht-degree: 100%
 
 트리거를 생성하고 트리거 조건을 구성합니다. 예를 들어 장바구니 포기와 같은 지표 또는 제품 이름과 같은 차원과 같이, 방문 중의 트리거 규칙에 대한 기준을 지정할 수 있습니다. 규칙이 충족되면 트리거가 실행됩니다.
 
-1. Experience Cloud에서 고급 메뉴를 선택하고 이어서 트리거를 선택합니다.
+1. Experience Cloud에서 솔루션 전환기 메뉴를 선택한 다음 **[!UICONTROL Triggers]**.
 
    ![](assets/triggers_7.png)
 
@@ -38,7 +39,7 @@ ht-degree: 100%
 
 1. 이 트리거에 사용된 Analytics **[!UICONTROL 보고서 세트]**&#x200B;를 선택합니다. 이 설정은 사용할 보고 데이터를 식별합니다.
 
-   [보고서 세트 더 알아보기](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html)
+   [보고서 세트에 대해 자세히 알아보기](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html){target="_blank"}.
 
 1. 유효 기간 동안 **[!UICONTROL 액션이 없을 경우 트리거]**&#x200B;를 선택합니다.
 

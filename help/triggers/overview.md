@@ -1,18 +1,18 @@
 ---
 title: Experience Cloud 트리거 만들기 및 관리
 description: Adobe Experience Cloud 트리거 UI 살펴보기
-hide: true
-hidefromtoc: true
-source-git-commit: 9f1b3257e49c34d2909d457c098a2081a2fb69a3
-workflow-type: ht
-source-wordcount: '271'
-ht-degree: 100%
+source-git-commit: 743244e72cfe2dfb44a6c9adba699f90db1fe04d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 트리거 개요 {#overview}
+# Experience Cloud 트리거 기본 정보 {#overview}
 
-Experience Cloud 트리거는 중요한 소비자 행태를 확인하고, 정의하고, 모니터링하기 위한 종합적인 솔루션을 제시합니다. 이들 트리거를 통해서 애플리케이션 간 커뮤니케이션을 생성하여 방문자를 다시 끌어들이고 더 개인화되고 흥미로운 사용자 경험을 선사할 수 있습니다. 예를 들면 실시간 의사 결정 및 개인화에서 트리거를 사용할 수 있습니다.
+Experience Cloud 트리거는 중요한 소비자 행태를 확인하고, 정의하고, 모니터링하기 위한 종합적인 솔루션을 제시합니다. 이들 트리거를 통해서 애플리케이션 간 커뮤니케이션을 생성하여 방문자를 다시 끌어들이고 더 개인화되고 흥미로운 사용자 경험을 선사할 수 있습니다. 
+
+예를 들면 실시간 의사 결정 및 개인화에서 트리거를 사용할 수 있습니다.
 
 * 장바구니 포기 또는 제품이 삭제된 장바구니 포기를 위한 신속한 리마케팅 캠페인을 구성하여 전환과 수익을 증대할 수 있습니다.
 * 미작성된 양식과 신청서를 파악하여 개인화된 후속 대응을 통하여 신청이 완료되도록 하고 포기율을 줄일 수 있습니다.
