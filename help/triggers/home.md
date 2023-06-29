@@ -3,8 +3,8 @@ title: Experience Cloud 트리거 만들기 및 관리
 description: Adobe Experience Cloud 트리거 UI 살펴보기
 exl-id: aad9c013-6671-4e3b-adfc-fab79f2a3ef7
 source-git-commit: 3edbf7991e19d524ce5284a0cdd46676b9640062
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
