@@ -2,14 +2,18 @@
 title: Experience Cloud 트리거 만들기 및 관리
 description: Adobe Experience Cloud 트리거 UI 살펴보기
 exl-id: aad9c013-6671-4e3b-adfc-fab79f2a3ef7
-source-git-commit: 3edbf7991e19d524ce5284a0cdd46676b9640062
+source-git-commit: 9cdff509e07f1e01b6c6a403288093998e5db152
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '152'
+ht-degree: 88%
 
 ---
 
 # Adobe Experience Cloud 트리거{#triggers-home}
+
+>[!AVAILABILITY]
+>
+>Adobe Experience Cloud 트리거 새로운 사용자 인터페이스는 모든 고객에게 점진적으로 배포됩니다. 자세한 내용은 Adobe 담당자에게 문의하십시오.
 
 Experience Cloud 트리거를 위한 새로운 사용자 인터페이스를 통해서 직관적으로 소비자 행태를 관리하고 사용자 경험을 개인화할 수 있습니다.
 

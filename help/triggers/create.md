@@ -2,20 +2,24 @@
 title: Experience Cloud 트리거 만들기 및 관리
 description: Adobe Experience Cloud 트리거 UI 살펴보기
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
-source-git-commit: 3edbf7991e19d524ce5284a0cdd46676b9640062
+source-git-commit: 9cdff509e07f1e01b6c6a403288093998e5db152
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 100%
+source-wordcount: '505'
+ht-degree: 95%
 
 ---
 
 # Experience Cloud 트리거 만들기 {#create-triggers}
 
+>[!AVAILABILITY]
+>
+>Adobe Experience Cloud Triggers 새 사용자 인터페이스는 모든 고객에게 점진적으로 배포됩니다. 자세한 내용은 Adobe 담당자에게 문의하십시오.
+
+트리거를 생성하고 트리거 조건을 구성합니다. 예를 들어 장바구니 포기와 같은 지표 또는 제품 이름과 같은 차원과 같이, 방문 중의 트리거 규칙에 대한 기준을 지정할 수 있습니다. 규칙이 충족되면 트리거가 실행됩니다.
+
 >[!NOTE]
 >
 > Experience Cloud 트리거를 위한 새로운 사용자 인터페이스를 통해서 직관적으로 소비자 행태를 관리하고 사용자 경험을 개인화할 수 있습니다. 이전 인터페이스로 전환하려면 **[!UICONTROL 클래식 모드로 이동]** 버튼을 클릭하십시오.
-
-트리거를 생성하고 트리거 조건을 구성합니다. 예를 들어 장바구니 포기와 같은 지표 또는 제품 이름과 같은 차원과 같이, 방문 중의 트리거 규칙에 대한 기준을 지정할 수 있습니다. 규칙이 충족되면 트리거가 실행됩니다.
 
 1. Experience Cloud에서 솔루션 전환기 메뉴를 선택한 다음 **[!UICONTROL 트리거]**&#x200B;를 선택합니다.
 
