@@ -1,25 +1,25 @@
 ---
-title: Experience Cloud 트리거 만들기 및 관리
-description: Adobe Experience Cloud 트리거 UI 살펴보기
+title: Experience Cloud Triggers 만들기 및 관리
+description: Adobe Experience Cloud Triggers UI 살펴보기
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
 source-git-commit: 9cdff509e07f1e01b6c6a403288093998e5db152
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '505'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
-# Experience Cloud 트리거 만들기 {#create-triggers}
+# Experience Cloud Triggers 만들기 {#create-triggers}
 
 >[!AVAILABILITY]
 >
->Adobe Experience Cloud Triggers 새 사용자 인터페이스는 모든 고객에게 점진적으로 배포됩니다. 자세한 내용은 Adobe 담당자에게 문의하십시오.
+>Adobe Experience Cloud Triggers의 새로운 사용자 인터페이스가 모든 고객들에게 점진적으로 출시됩니다. 자세한 내용은 Adobe 담당자에게 문의하십시오.
 
 트리거를 생성하고 트리거 조건을 구성합니다. 예를 들어 장바구니 포기와 같은 지표 또는 제품 이름과 같은 차원과 같이, 방문 중의 트리거 규칙에 대한 기준을 지정할 수 있습니다. 규칙이 충족되면 트리거가 실행됩니다.
 
 >[!NOTE]
 >
-> Experience Cloud 트리거를 위한 새로운 사용자 인터페이스를 통해서 직관적으로 소비자 행태를 관리하고 사용자 경험을 개인화할 수 있습니다. 이전 인터페이스로 전환하려면 **[!UICONTROL 클래식 모드로 이동]** 버튼을 클릭하십시오.
+> Experience Cloud Triggers를 위한 새로운 사용자 인터페이스를 통해서 직관적으로 소비자 행태를 관리하고 사용자 경험을 개인화할 수 있습니다. 이전 인터페이스로 전환하려면 **[!UICONTROL 클래식 모드로 이동]** 버튼을 클릭하십시오.
 
 1. Experience Cloud에서 솔루션 전환기 메뉴를 선택한 다음 **[!UICONTROL 트리거]**&#x200B;를 선택합니다.
 
@@ -31,7 +31,7 @@ ht-degree: 95%
 
    * **[!UICONTROL 포기]**: 방문자가 제품을 보고 장바구니에 아무 것도 담지 않을 경우에 사용할 트리거를 생성할 수 있습니다.
 
-   * **[!UICONTROL 액션]**: 예를 들면 뉴스레터 신청, 이메일 구독 또는 신용카드 신청(확인) 후에 사용할 트리거를 생성할 수 있습니다. 유통업의 경우 회원 프로그램에 등록한 방문자를 대상으로 트리거를 만들 수 있습니다. 미디어 및 엔터테인먼트에서는 특정 프로그램을 시청하고 설문 조사에 응답하기를 원하는 방문자를 대상으로 트리거를 만들 수 있습니다.
+   * **[!UICONTROL 액션]**: 예를 들어 뉴스레터 등록, 이메일 구독 또는 신용카드 신청(확인) 후에 동작할 트리거를 만들 수 있습니다. 유통업의 경우 회원 프로그램에 등록한 방문자를 대상으로 트리거를 만들 수 있습니다. 미디어 및 엔터테인먼트에서는 특정 프로그램을 시청하고 설문 조사에 응답하기를 원하는 방문자를 대상으로 트리거를 만들 수 있습니다.
 
    * **[!UICONTROL 세션 시작 및 세션 종료]**: 세션 시작 및 세션 종료 이벤트를 위한 트리거를 생성합니다.
 
