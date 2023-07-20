@@ -2,10 +2,10 @@
 title: Experience Cloud Triggers 만들기 및 관리
 description: Adobe Experience Cloud Triggers UI 살펴보기
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
-source-git-commit: 9cdff509e07f1e01b6c6a403288093998e5db152
-workflow-type: ht
+source-git-commit: 94ca96baaef706ace2ed131a5c2974371a5e0e57
+workflow-type: tm+mt
 source-wordcount: '505'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 100%
 
    각 컨테이너의 프로세스가 독립적으로 히트 레벨에서 진행, 즉 두 컨테이너가 **[!UICONTROL And]** 연산자로 결합된 경우 규칙은 두 히트가 요건을 충족할 때만 유효합니다.
 
-1. **[!UICONTROL 메타데이터]** 필드에서 **[!UICONTROL + 차원]**&#x200B;을 클릭해서 특정 캠페인 차원 또는 방문자의 행태와 관련된 변수를 선택합니다.
+1. 다음에서 **[!UICONTROL 메타데이터]** 필드, 클릭 **[!UICONTROL + DIMENSION]** 방문자 행동과 관련된 특정 Campaign 차원 또는 변수를 선택합니다.
 
    ![](assets/triggers_3.png)
 
