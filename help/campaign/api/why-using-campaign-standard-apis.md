@@ -7,8 +7,7 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-exl-id: ef045e5d-cd02-44a0-9a1e-d468483a38d9
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 2%
@@ -36,7 +35,7 @@ Adobe Campaign Standard은 기존 시스템을 Campaign 플랫폼과 통합하�
 
    ![대체 텍스트](assets/apis_uc1.png)
 
-1. 확인란을 기반으로 수행할 사용자 지정 작업입니다. &quot;이메일 특별 오퍼&quot;를 선택하는 고객은 일반 등록 프로세스와 비교하여 선물 쿠폰이 포함된 다른 사용자 정의 메일을 받게 됩니다.
+1. 확인란을 기반으로 수행할 사용자 지정 작업입니다. &quot;이메일 특별 행사&quot;를 선택하는 고객은 일반 등록 프로세스와 비교하여 선물 쿠폰이 포함된 다른 사용자 정의 메일을 받게 됩니다.
 
    ![대체 텍스트](assets/apis_uc2.png)
 

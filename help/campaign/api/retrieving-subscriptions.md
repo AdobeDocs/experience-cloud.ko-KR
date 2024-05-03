@@ -4,8 +4,7 @@ description: API로 구독을 검색하는 방법 알아보기
 role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-exl-id: 6d935074-3196-45c5-97cd-ccb7c80bbba8
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%

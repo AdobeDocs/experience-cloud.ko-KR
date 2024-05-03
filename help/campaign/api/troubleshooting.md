@@ -4,8 +4,7 @@ description: Campaign Standard API와 관련된 일반적인 문제에 대해 �
 role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-exl-id: 404356cd-021f-4739-a88f-b8b1b79e19bc
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 0%
@@ -86,7 +85,7 @@ Adobe.io가 잘못된 URI를 선언합니다. 요청하는 URI가 유효하지 �
 
 인스턴스 구성에 따라 생성된 프로필을 **orgUnit**. 작성에서 이 필드를 추가하는 방법을 이해하려면 다음을 참조하십시오. [이 섹션](creating-profiles-api.md).
 
-<!-- * (error duplicate key : quand tu crées un profile qui existe déjà , il faut faire un patch pour updater le profile plutôt qu’un POST)
+<!-- * (error duplicate key : quand tu crées un profile qui existe déjà , il faut faire un patch pour updater le profile plutôt qu'un POST)
 
 With Curl
 List all profiles

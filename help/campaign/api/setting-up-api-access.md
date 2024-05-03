@@ -7,8 +7,7 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-exl-id: efbbd0cd-9c56-4ad0-8bcb-efba4b63c28b
-source-git-commit: 3e7af8a9ba41ab54738fff2f69388595041a8574
+source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
 workflow-type: tm+mt
 source-wordcount: '451'
 ht-degree: 31%
