@@ -2,15 +2,15 @@
 title: Adobe Campaign 웹 사용자 인터페이스
 description: Adobe Campaign 웹 사용자 인터페이스 살펴보기
 badge: label="제한된 가용성" type="Informative" url="campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: d63ad47dc2fc7836956234d812001b06172d06a4
+exl-id: eecf4e13-820d-4454-9f11-f50be565bb79
+source-git-commit: ba22719c91d44e537020d17a53ff7f8f6a929111
 workflow-type: tm+mt
 source-wordcount: '276'
-ht-degree: 8%
+ht-degree: 11%
 
 ---
 
-
-# Campaign v8로 Campaign Standard 전환 {#triggers-home}
+# Campaign Standard에서 Campaign v8로의 전환 {#triggers-home}
 
 이제 Campaign Standard 사용자가 Campaign v8로 전환하면 새로운 버전의 Adobe Campaign Web User Interface와 강력한 v8 콘솔을 사용할 수 있습니다. 전환은 보여 주지 않으며 개인화된 크로스 채널 캠페인 생성을 단순화하기 위해 설계된 모든 직관적인 기능을 사용할 수 있습니다. 또한 Campaign 웹 사용자 인터페이스는 통합 경험을 위해 Adobe Experience Platform과 연결된 캔버스를 제공합니다.
 
@@ -21,7 +21,7 @@ ht-degree: 8%
 * Adobe Experience Platform과 통합
 * 일관된 사용자 인터페이스 및 경험
 
-주요 기능 및 개념 차이에 대한 자세한 내용은 [이 페이지](https://experienceleague.adobe.com/en/docs/campaign-web/v8/rn/acs-migration.html).
+주요 기능 및 개념 차이에 대한 자세한 내용은 [이 페이지](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/release-notes/acs-migration).
 
 ## 새로운 기능
 
