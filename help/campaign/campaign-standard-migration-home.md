@@ -3,10 +3,10 @@ title: Adobe Campaign 웹 사용자 인터페이스
 description: Adobe Campaign 웹 사용자 인터페이스 살펴보기
 badge: label="제한된 가용성" type="Informative" url="campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
 exl-id: eecf4e13-820d-4454-9f11-f50be565bb79
-source-git-commit: ba22719c91d44e537020d17a53ff7f8f6a929111
+source-git-commit: 619453901147f83d691156a3b870d36b6caa1868
 workflow-type: tm+mt
 source-wordcount: '276'
-ht-degree: 11%
+ht-degree: 10%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 11%
 * Adobe Experience Platform과 통합
 * 일관된 사용자 인터페이스 및 경험
 
-주요 기능 및 개념 차이에 대한 자세한 내용은 [이 페이지](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/release-notes/acs-migration).
+주요 기능 및 개념 차이에 대한 자세한 내용은 [이 페이지](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration).
 
 ## 새로운 기능
 
-에서 제공하는 모든 기능 및 성능을 확인합니다. [Campaign 웹 사용자 인터페이스](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/campaign-web-home) 및 [Campaign v8](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home).
+에서 제공하는 모든 기능 및 성능을 확인합니다. [Campaign 웹 사용자 인터페이스](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/campaign-web-home) 및 [Campaign v8](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/campaign-home).
 
 Campaign Standard에서 v8로 주요 기능을 추가하여 원활하게 전환할 수 있습니다.
 
