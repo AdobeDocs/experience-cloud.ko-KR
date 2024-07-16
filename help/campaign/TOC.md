@@ -4,17 +4,17 @@ user-guide-description: Adobe Campaign v8
 breadcrumb-title: Adobe Campaign v8
 solution: Experience Cloud
 role: User
-source-git-commit: dfe80854447b2a49b53908947b7814c7b8e29fa5
+source-git-commit: 0650d42102216c353c5843322d01af5af80d2e5c
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 72%
+source-wordcount: '159'
+ht-degree: 71%
 
 ---
 
 # Adobe Campaign v8 {#campaign}
 
 + [홈](campaign-standard-migration-home.md)
-+ 다이내믹 보고 {#reporting}
++ 동적 보고 {#reporting}
    + [동적 보고서 시작](reporting/get-started-reporting.md)
    + 보고 기본 정보 {#about-reporting}
       + [동적 보고서 기본 정보](reporting/about-dynamic-reports.md)
@@ -39,6 +39,7 @@ ht-degree: 72%
       + [시각화 추가](reporting/adding-visualizations.md)
       + [구성 요소 추가](reporting/adding-components.md)
       + [사용자 정의 프로필 차원 만들기](reporting/creating-a-custom-profile-dimension.md)
+      + [동적 보고 사용 계약](reporting/pii-agreement.md)
 + 브랜딩 {#branding}
    + [브랜딩 기본 정보](branding/branding-gs.md)
    + [브랜드 구성](branding/branding-configure.md)
@@ -64,7 +65,7 @@ ht-degree: 72%
       + [프로필 검색](api/retrieving-profiles.md)
       + [프로필 업데이트](api/updating-profiles.md)
       + [프로필 만들기](api/creating-profiles-api.md)
-   + 서비스 및 구독 관리 {#managing-services-and-subscriptiopns}
+   + 서비스 및 구독 {#managing-services-and-subscriptiopns} 관리
       + [서비스 만들기](api/creating-a-service.md)
       + [구독 검색](api/retrieving-subscriptions.md)
       + [구독 수행](api/perform-subscriptions.md)
