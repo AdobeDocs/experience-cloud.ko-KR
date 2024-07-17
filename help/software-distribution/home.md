@@ -4,7 +4,7 @@ description: Adobe Experience Cloud 소프트웨어 배포 사용 방법
 exl-id: ac559a28-4444-4326-ba92-78afd10ed9ab
 source-git-commit: e98b6985c8e24e56e021422f8e32cad0d823d440
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '497'
 ht-degree: 100%
 
 ---

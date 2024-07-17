@@ -7,7 +7,8 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: 9f94e98f-fe04-4369-8946-1380e02cdece
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 2%
@@ -16,9 +17,9 @@ ht-degree: 2%
 
 # 신호 활동 트리거 {#triggering-a-signal-activity}
 
-Adobe Campaign Standard 워크플로우에는 하나 이상이 있을 수 있습니다 **외부 신호** 활동. 이러한 활동은 트리거되기를 기다리는 &#39;리스너&#39;입니다.
+Adobe Campaign Standard 워크플로에서는 하나 이상의 **외부 신호** 활동이 있을 수 있습니다. 이러한 활동은 트리거되기를 기다리는 &#39;리스너&#39;입니다.
 
-Campaign Standard API를 사용하면 다음을 트리거할 수 있습니다. **외부 신호** 활동을 사용하여 워크플로우를 호출합니다. API 호출에는 워크플로우의 이벤트 변수(타겟팅할 대상 이름, 가져올 파일 이름, 메시지 콘텐츠의 일부 등)에 수집될 매개 변수가 포함될 수 있습니다. 이렇게 하면 Campaign 자동화를 외부 시스템과 쉽게 통합할 수 있습니다.
+Campaign Standard API를 사용하면 워크플로우를 호출하는 **외부 신호** 활동을 트리거할 수 있습니다. API 호출에는 워크플로우의 이벤트 변수(타겟팅할 대상 이름, 가져올 파일 이름, 메시지 콘텐츠의 일부 등)에 수집될 매개 변수가 포함될 수 있습니다. 이렇게 하면 Campaign 자동화를 외부 시스템과 쉽게 통합할 수 있습니다.
 
 >[!NOTE]
 >
@@ -26,13 +27,13 @@ Campaign Standard API를 사용하면 다음을 트리거할 수 있습니다. *
 
 워크플로우를 트리거하려면 아래 단계를 수행합니다.
 
-1. 수행 **GET** 외부 신호 활동 트리거 URL을 검색하도록 워크플로우에 대한 요청.
+1. 워크플로우에서 **GET** 요청을 수행하여 외부 신호 활동 트리거 URL을 검색합니다.
 
    `GET https://mc.adobe.io/<ORGANIZATION>/campaign/workflow/execution/<workflowID>`
 
-1. 수행 **POST** 신호 활동을 트리거하기 위해 반환된 URL에 대한 요청입니다. **&quot;source&quot;** 페이로드의 매개 변수입니다. 이 속성은 필수이며 트리거 요청 소스를 나타낼 수 있도록 해줍니다.
+1. 페이로드에 **&quot;source&quot;** 매개 변수를 사용하여 반환된 URL에서 **POST** 요청을 수행하여 신호 활동을 트리거합니다. 이 속성은 필수이며 트리거 요청 소스를 나타낼 수 있도록 해줍니다.
 
-매개 변수를 사용하여 워크플로우를 호출하려면 를 사용하여 페이로드에 추가하십시오. **&quot;parameters&quot;** 특성. 구문은 매개 변수의 이름 뒤에 해당 값으로 구성됩니다(지원되는 유형은 다음과 같습니다. **문자열**, **숫자**, **부울** 및 **날짜/시간**).
+매개 변수를 사용하여 워크플로우를 호출하려면 **&quot;parameters&quot;** 특성을 사용하여 페이로드에 추가하십시오. 구문은 매개 변수의 이름 뒤에 해당 값으로 구성됩니다. 지원되는 유형은 **string**, **number**, **boolean** 및 **date/time**&#x200B;입니다.
 
 ```
   -X POST <TRIGGER_URL>
@@ -55,7 +56,7 @@ Campaign Standard API를 사용하면 다음을 트리거할 수 있습니다. *
 
 >[!NOTE]
 >
->페이로드에 매개 변수를 추가할 때 **이름** 및 **유형** 값은 외부 신호 활동에서 선언된 정보와 일치합니다. 또한 페이로드 크기는 64Ko를 초과할 수 없습니다.
+>매개 변수를 페이로드에 추가할 때 해당 **name** 및 **type** 값이 외부 신호 활동에서 선언된 정보와 일치하는지 확인하십시오. 또한 페이로드 크기는 64Ko를 초과할 수 없습니다.
 
 <br/>
 

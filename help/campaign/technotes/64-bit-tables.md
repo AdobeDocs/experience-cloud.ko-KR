@@ -2,13 +2,13 @@
 title: Adobe Campaign 웹 사용자 인터페이스
 description: 64비트 테이블
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 47b06a42fad73254025d8e21d14724f6fe93345b
+exl-id: ab5f01fd-4ad5-46e9-b132-011fe0f7bbd2
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
-
 
 # 64비트 스키마 {#64-bit-tables}
 
@@ -27,23 +27,21 @@ Campaign Standard에서 Campaign v8로 간편하게 전환하기 위해 몇 개�
 
 | 스키마 이름 | 속성 이름 |
 |--- |--- |
-| nms:broadLogRcp | id |
-| nms:trackingLogRcp | id |
-| nms:excludeLogRcp | id |
-| nms:broadLogVisitor | id |
-| nms:trackingLogVisitor | id |
+| nms:broadLogRcp | ID |
+| nms:trackingLogRcp | ID |
+| nms:excludeLogRcp | ID |
+| nms:broadLogVisitor | ID |
+| nms:trackingLogVisitor | ID |
 | nms:propositionRcp | interactionId |
 | nms:propositionVisitor | interactionId |
-| nms:webTrack링 로그 | id |
+| nms:webTrack링 로그 | ID |
 | nms:tmpBroadcast | message-id |
 | nms:tmpMarketingPressure | message-id |
 | nms:tmpBroadcastExclusion | message-id |
 | nms:tmpBroadcastPaper | message-id |
-| nms:broadLogAppSubRcp | id |
-| nms:trackingLogAppSubRcp | id |
-| nms:excludeLogAppSubRcp | id |
+| nms:broadLogAppSubRcp | ID |
+| nms:trackingLogAppSubRcp | ID |
+| nms:excludeLogAppSubRcp | ID |
 | nms:webEvent | broadLogSrc-id, broadLogRemkt-id |
 | nms:broadLogMid | mktBroadLogId |
 | nms:mirrorPageSearch | remoteMessageId |
-
-

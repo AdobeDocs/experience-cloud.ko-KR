@@ -7,7 +7,8 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: d7b2231d-46ff-4966-9ea7-27a775e5236b
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 2%
@@ -18,19 +19,19 @@ ht-degree: 2%
 
 Adobe Campaign에는 다양한 리소스를 통해 데이터를 정의하는 데이터 모델이 사전 정의되어 있습니다. 리소스를 확장하여 제공되는 데이터 모델을 보강하여 구매 또는 제품 테이블과 같은 사용자 지정 필드 또는 사용자 지정 테이블을 추가할 수 있습니다.
 
-사용자 지정 리소스는 API를 통해 **/profileAndServicesExt** 끝점 및 사용자 지정 리소스 이름입니다.
+사용자 지정 리소스는 **/profileAndServicesExt** 끝점 및 사용자 지정 리소스 이름을 사용하여 API를 통해 액세스할 수 있습니다.
 
 `https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServicesExt/<resourceName>/`
 
 >[!NOTE]
 >
->기본 제공 리소스가 아닌 리소스의 경우 항상 <b>&quot;cus&quot;</b> 리소스 이름 앞에 접두사를 추가합니다.
+>기본 제공 리소스가 아닌 리소스의 경우 항상 리소스 이름 앞에 <b>&quot;cus&quot;</b> 접두사를 사용하십시오.
 
 사용자 지정 리소스는 프로필 테이블에 연결되어 있는 한 모든 작업을 수행할 수 있습니다. 예를 들어 아래 표 구조를 고려해 보겠습니다.
 
 ![대체 텍스트](assets/cusresources.png)
 
-이 경우 의 모든 리소스는 **거래**, **거래 세부 정보** 및 **제품** 테이블이 연결된 경우에만 사용할 수 있습니다. **프로필** 테이블.
+이 경우 **Transaction**, **TransactionDetails** 및 **Product** 테이블의 모든 리소스는 **Profile** 테이블에 연결되어 있으면 사용할 수 있습니다.
 
 <br/>
 

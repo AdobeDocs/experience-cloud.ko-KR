@@ -3,8 +3,8 @@ title: Experience Cloud Triggers 만들기 및 관리
 description: Adobe Experience Cloud Triggers UI 살펴보기
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
 source-git-commit: 94ca96baaef706ace2ed131a5c2974371a5e0e57
-workflow-type: ht
-source-wordcount: '505'
+workflow-type: tm+mt
+source-wordcount: '497'
 ht-degree: 100%
 
 ---

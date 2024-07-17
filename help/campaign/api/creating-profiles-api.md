@@ -7,7 +7,8 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: 69e8d034-6bdd-4b82-bcd7-1ef4be0a59b3
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -16,13 +17,13 @@ ht-degree: 0%
 
 # API를 사용하여 프로필 만들기 {#creating-profiles-api}
 
-프로필 만들기는 **POST** 프로필 리소스에 대한 요청입니다.
+프로필 리소스에서 **POST** 요청을 사용하여 프로필을 만듭니다.
 
 >[!CAUTION]
 >
->을(를) 연결하려는 경우 <b>orgUnit</b> 작성된 프로필로, 이 필드로 프로필 리소스를 확장해야 하며, 확장을 게시한 후에서 POST 요청을 수행합니다. <b>ProfileAndServicesExt</b> 엔드포인트.
+><b>orgUnit</b>을(를) 생성된 프로필에 연결하려면 이 필드로 프로필 리소스를 확장하고 확장을 게시한 후 <b>ProfileAndServicesExt</b> 끝점에서 POST 요청을 수행해야 합니다.
 >
->프로필의 리소스 확장에 대한 자세한 내용은 <a href="https://helpx.adobe.com/campaign/standard/administration/using/organizational-units.html#partitioning-profiles">Campaign 설명서</a>.
+>프로필의 리소스 확장에 대한 자세한 내용은 <a href="https://helpx.adobe.com/campaign/standard/administration/using/organizational-units.html#partitioning-profiles">Campaign 설명서</a>를 참조하세요.
 
 <br/>
 

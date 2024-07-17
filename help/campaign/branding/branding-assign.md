@@ -6,7 +6,8 @@ context-tags: branding,overview;branding,main
 role: Admin
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 51abadc86b97097d13824651d8c50d4ddd014a51
+exl-id: 8f6a5255-0245-497b-880f-d91ea82ee19e
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 18%
@@ -27,27 +28,27 @@ ht-degree: 18%
 
 >[!BEGINTABS]
 
->[!TAB Adobe Campaign]
+>[!TAB Adobe Campaign V8]
 
 게재 템플릿을 만들려면 기본 제공 템플릿을 복제하거나, 기존 게재를 템플릿으로 변환하거나, 처음부터 게재 템플릿을 만들 수 있습니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/create-templates)
 
-일단 템플릿이 생성되면 브랜드에 연결할 수 있습니다. 다음 작업을 수행하십시오.
+일단 템플릿이 생성되면 브랜드에 연결할 수 있습니다. 방법은 다음과 같습니다.
 
-1. 다음으로 이동 **[!UICONTROL 리소스]** `>` **[!UICONTROL 템플릿]** `>` **[!UICONTROL 게재 템플릿]** Adobe Campaign 탐색기를 참조하십시오.
+1. Adobe Campaign 탐색기에서 **[!UICONTROL 리소스]** `>` **[!UICONTROL 템플릿]** `>` **[!UICONTROL 게재 템플릿]**(으)로 이동합니다.
 
 1. 게재 템플릿을 선택하거나 기존 템플릿을 복제합니다.
 
    ![](assets/branding_assign_V8_1.png)
 
-1. 액세스 **[!UICONTROL 속성]** 선택한 게재 템플릿
+1. 선택한 게재 템플릿의 **[!UICONTROL 속성]**&#x200B;에 액세스합니다.
 
    ![](assets/branding_assign_V8_2.png)
 
-1. 다음에서 **[!UICONTROL 일반]** 탭에서 브랜드를 선택합니다. **[!UICONTROL 브랜딩]** 드롭다운.
+1. **[!UICONTROL 일반]** 탭의 **[!UICONTROL 브랜딩]** 드롭다운에서 브랜드를 선택합니다.
 
    ![](assets/branding_assign_V8_3.png)
 
-1. 구성이 완료되면 다음을 선택합니다. **확인**.
+1. 구성이 완료되면 **확인**&#x200B;을 선택합니다.
 
 이제 이 템플릿을 사용하여 게재를 보낼 수 있습니다.
 
@@ -55,17 +56,17 @@ ht-degree: 18%
 
 게재 템플릿을 만들려면 기본 제공 템플릿을 복제하거나, 기존 게재를 템플릿으로 변환하거나, 처음부터 게재 템플릿을 만들 수 있습니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/delivery-template)
 
-일단 템플릿이 생성되면 브랜드에 연결할 수 있습니다. 다음 작업을 수행하십시오.
+일단 템플릿이 생성되면 브랜드에 연결할 수 있습니다. 방법은 다음과 같습니다.
 
-1. 다음으로 이동 **[!UICONTROL 템플릿]** 탭, **[!UICONTROL 게재]** 왼쪽 메뉴에서 게재 템플릿을 선택합니다.
+1. **[!UICONTROL 게재]** 왼쪽 메뉴에서 **[!UICONTROL 템플릿]** 탭으로 이동한 다음 게재 템플릿을 선택합니다.
 
    ![](assets/branding_assign_web_1.png)
 
-1. 클릭 **[!UICONTROL 설정]**.
+1. **[!UICONTROL 설정]**&#x200B;을 클릭합니다.
 
    ![](assets/branding_assign_web_2.png)
 
-1. 다음에서 **[!UICONTROL 게재]** 탭, 액세스 **[!UICONTROL 브랜딩]** 필드에 추가하고 템플릿에 연결할 브랜드를 선택합니다.
+1. **[!UICONTROL 게재]** 탭에서 **[!UICONTROL 브랜딩]** 필드에 액세스하고 템플릿에 연결할 브랜드를 선택합니다.
 
    ![](assets/branding_assign_web_3.png)
 
@@ -79,35 +80,35 @@ ht-degree: 18%
 
 >[!BEGINTABS]
 
->[!TAB Adobe Campaign]
+>[!TAB Adobe Campaign V8]
 
 새 독립 실행형 게재를 만들려면 아래 단계를 수행하십시오.
 
-1. 새 게재를 만들려면 **[!UICONTROL 캠페인]** 탭.
+1. 새 게재를 만들려면 **[!UICONTROL 캠페인]** 탭으로 이동합니다.
 
-1. 클릭 **[!UICONTROL 게재]** 을(를) 클릭하고 **[!UICONTROL 만들기]** 기존 게재 목록 위에 있는 단추입니다.
+1. **[!UICONTROL 게재]**&#x200B;를 클릭하고 기존 게재 목록 위에 있는 **[!UICONTROL 만들기]** 단추를 클릭합니다.
 
    ![](assets/branding_assign_V8_4.png)
 
 1. 게재 템플릿을 선택합니다.
 
-1. 액세스 **[!UICONTROL 속성]** 선택한 게재 템플릿
+1. 선택한 게재 템플릿의 **[!UICONTROL 속성]**&#x200B;에 액세스합니다.
 
    ![](assets/branding_assign_V8_5.png)
 
-1. 다음에서 **[!UICONTROL 일반]** 탭에서 브랜드를 선택합니다. **[!UICONTROL 브랜딩]** 드롭다운.
+1. **[!UICONTROL 일반]** 탭의 **[!UICONTROL 브랜딩]** 드롭다운에서 브랜드를 선택합니다.
 
    ![](assets/branding_assign_V8_6.png)
 
-1. 구성이 완료되면 다음을 선택합니다. **확인**.
+1. 구성이 완료되면 **확인**&#x200B;을 선택합니다.
 
-1. 게재를 개인화할 수 있습니다. 전자 메일 만들기에 대한 자세한 내용은 [이메일 디자인 및 보내기](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email) 섹션.
+1. 게재를 개인화할 수 있습니다. 전자 메일 만들기에 대한 자세한 내용은 [전자 메일 디자인 및 보내기](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email) 섹션을 참조하세요.
 
 >[!TAB Adobe Campaign 웹]
 
 새 독립 실행형 게재를 만들려면 아래 단계를 수행하십시오.
 
-1. 다음으로 이동 **[!UICONTROL 게재]** 왼쪽 레일에서 메뉴를 클릭하고 **[!UICONTROL 게재 만들기]** 단추를 클릭합니다.
+1. 왼쪽 레일의 **[!UICONTROL 게재]** 메뉴로 이동한 다음 **[!UICONTROL 게재 만들기]** 단추를 클릭합니다.
 
    ![](assets/branding_assign_web_4.png)
 
@@ -115,11 +116,11 @@ ht-degree: 18%
 
 1. **[!UICONTROL 게재 만들기]** 버튼을 클릭하여 확인합니다.
 
-1. 다음에서 **[!UICONTROL 속성]** 페이지, 클릭 **[!UICONTROL 설정]**.
+1. **[!UICONTROL 속성]** 페이지에서 **[!UICONTROL 설정]**&#x200B;을 클릭합니다.
 
    ![](assets/branding_assign_web_5.png)
 
-1. 다음에서 **[!UICONTROL 게재]** 탭, 액세스 **[!UICONTROL 브랜딩]** 필드.
+1. **[!UICONTROL 배달]** 탭에서 **[!UICONTROL 브랜딩]** 필드에 액세스합니다.
 
    ![](assets/branding_assign_web_6.png)
 
@@ -127,6 +128,6 @@ ht-degree: 18%
 
    ![](assets/branding_assign_web_7.png)
 
-1. 게재를 개인화할 수 있습니다. 전자 메일 만들기에 대한 자세한 내용은 [첫 번째 이메일 만들기](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email) 섹션.
+1. 게재를 개인화할 수 있습니다. 전자 메일 만들기에 대한 자세한 내용은 [첫 번째 전자 메일 만들기](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email) 섹션을 참조하세요.
 
 >[!ENDTABS]

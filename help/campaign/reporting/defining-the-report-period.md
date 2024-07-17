@@ -4,7 +4,8 @@ description: 보고서 기간을 사용하면 선택한 날짜에 따라 데이�
 audience: end-user
 level: Intermediate
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+exl-id: 36506f7d-aeeb-41cf-b971-6e42e1c7cdc8
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 3%

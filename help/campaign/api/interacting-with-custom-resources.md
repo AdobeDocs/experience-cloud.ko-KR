@@ -7,7 +7,8 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: 19bfeecb-da60-479c-a929-0cfb72ef59e3
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -16,7 +17,7 @@ ht-degree: 0%
 
 # 사용자 지정 리소스와 상호 작용 {#interacting-with-custom-resources}
 
-다음 **/customSources** 끝점을 사용하면 REST에 Campaign 사용자 지정 리소스를 표시할 수 있습니다. 이 API를 기반으로 사용자 지정 엔티티와 외부 엔드포인트 간의 통합을 사용할 수 있습니다.
+**/customResources** 끝점을 사용하면 REST의 Campaign 사용자 지정 리소스를 표시할 수 있습니다. 이 API를 기반으로 사용자 지정 엔티티와 외부 엔드포인트 간의 통합을 사용할 수 있습니다.
 
 /customResources 끝점의 동작은 /profileAndServices 끝점과 동일합니다.
 

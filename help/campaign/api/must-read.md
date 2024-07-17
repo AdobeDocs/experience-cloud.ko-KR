@@ -7,7 +7,8 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: 9e2d1b59-55a5-4715-adfb-35191a9df536
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%
@@ -30,13 +31,13 @@ ht-degree: 0%
 
 ## 리소스 표시
 
-모든 API 리소스는 다음 위치에서 사용할 수 있습니다. **JSON** URL 확장명 또는 HTTP Accept 헤더 내에서:
+모든 API 리소스는 **JSON**&#x200B;에서 URL 확장을 사용하거나 HTTP Accept 헤더 내에서 사용할 수 있습니다.
 
 `GET /profileAndServices/<resourceName>.json`
 
 >[!NOTE]
 >
->URL에 확장명이 없으면 **json 형식이 기본 형식입니다.** content-type에 사용됩니다.
+>URL에 확장이 없으면 **json 형식은 콘텐츠 형식의 기본 형식입니다**.
 
 <br/>
 
@@ -58,7 +59,7 @@ ht-degree: 0%
 
 * Adobe Campaign에서 생성한 자동 기본 키 값은 외부 데이터베이스 또는 웹 사이트에 저장해서는 안 됩니다. 데이터베이스 정의에 특정 키 필드를 생성하고 개발 중에 사용해야 합니다.
 
-## 사용자 지정 키 {#custom-keys}
+## 사용자 정의 키 {#custom-keys}
 
 프로필 리소스가 사용자 지정 키 필드로 확장된 경우, 이 필드를 Adobe Campaign에서 생성한 자동 기본 키 대신 키로 사용할 수 있습니다.
 
@@ -66,7 +67,7 @@ ht-degree: 0%
 
 키 값이 원본 키와 다른 경우 PATCH 작업을 사용하여 사용자 지정 키를 수정할 수 없거나 Adobe에서 제공한 비즈니스 키 대신 고유한 비즈니스 키를 URI로 사용하는 경우 수정할 수 없습니다.
 
-다음에 대한 사용자 지정 키 사용 **최상위 프로필 리소스** 만 해당. URL은 API에 의해 반환되며 직접 작성해서는 안 됩니다.
+**최상위 프로필 리소스**&#x200B;에만 사용자 지정 키를 사용하십시오. URL은 API에 의해 반환되며 직접 작성해서는 안 됩니다.
 
 <br/>
 

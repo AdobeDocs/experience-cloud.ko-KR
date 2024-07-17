@@ -7,7 +7,8 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: d6ebce3c-1e84-4b3b-a68d-90df4680af64
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 1%
@@ -18,13 +19,13 @@ ht-degree: 1%
 
 기본적으로 25개의 리소스가 목록에 로드됩니다.
 
-다음 **_lineCount** 매개 변수를 사용하면 응답에 나열된 리소스 수를 제한할 수 있습니다.  그런 다음 를 사용할 수 있습니다. **다음** 다음 결과를 표시할 노드입니다.
+**_lineCount** 매개 변수를 사용하면 응답에 나열된 리소스 수를 제한할 수 있습니다.  그런 다음 **next** 노드를 사용하여 다음 결과를 표시할 수 있습니다.
 
 >[!NOTE]
 >
->에 반환된 URL 값을 항상 사용합니다. **다음** 페이지 매김 요청을 수행할 노드입니다.
+>페이지 매김 요청을 수행하려면 항상 **next** 노드에서 반환된 URL 값을 사용하십시오.
 >
->다음 **_lineStart** 요청은 계산되며 항상 다음에 반환된 URL 내에서 사용되어야 합니다. **다음** 노드.
+>**_lineStart** 요청은 계산되며 항상 **next** 노드에 반환된 URL 내에서 사용해야 합니다.
 
 <br/>
 
@@ -40,7 +41,7 @@ ht-degree: 1%
 -H 'X-Api-Key: <API_KEY>'
 ```
 
-요청에 대한 응답으로, **다음** 페이지 매김을 수행할 노드입니다.
+페이지 매김을 수행할 **next** 노드를 사용한 요청에 대한 응답입니다.
 
 ```
 {
@@ -61,7 +62,7 @@ ht-degree: 1%
 }
 ```
 
-기본적으로 **다음** 많은 양의 데이터가 있는 테이블과 상호 작용할 때는 노드를 사용할 수 없습니다. 페이지 매김을 수행하려면 **_forcePagination=true** 매개 변수를 호출 URL에 추가합니다.
+기본적으로 **next** 노드는 많은 양의 데이터가 있는 테이블과 상호 작용할 때 사용할 수 없습니다. 페이지 매김을 수행하려면 호출 URL에 **_forcePagination=true** 매개 변수를 추가해야 합니다.
 
 ```
 -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/profile?_forcePagination=true \
@@ -73,4 +74,4 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->위의 표가 큰 것으로 간주되는 레코드 수는 Campaign Standard에서 정의됩니다 **XtkBigTableThreshold** 옵션을 선택합니다. 기본값은 100,000 레코드입니다.
+>테이블 크기가 큰 것으로 간주되는 레코드 수가 Campaign Standard **XtkBigTableThreshold** 옵션에 정의되어 있습니다. 기본값은 100,000 레코드입니다.

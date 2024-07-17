@@ -7,7 +7,8 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: c6968252-a012-4029-bbb8-66f4f693e99b
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 48%
@@ -22,7 +23,7 @@ ht-degree: 48%
 >
 >API 호출을 수행하기 전에 라이선스 계약에 해당하는 크기 제한 사항을 확인하십시오. 자세한 정보는 이 [페이지](https://helpx.adobe.com/kr/legal/product-descriptions/campaign-standard.html#ITInfrastructureResourcesbyActiveProfilesTiers)를 참조하십시오.
 
-Campaign REST API는 다음을 허용하는 것을 목표로 합니다. **통합 만들기** Adobe Campaign 및 **자체 에코시스템 구축** Adobe Campaign과 사용하는 기술 패널을 연결하여
+Campaign REST API는 사용자가 사용하는 기술 패널과 Adobe Campaign을 연결하여 Adobe Campaign에 대한 **통합을 만들고** **고유한 에코시스템을 구축**&#x200B;할 수 있도록 해줍니다.
 
 Adobe Campaign REST API를 사용하면 다음 기능에 액세스할 수 있습니다.
 

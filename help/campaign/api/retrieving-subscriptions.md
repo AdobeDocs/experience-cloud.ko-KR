@@ -4,7 +4,8 @@ description: API로 구독을 검색하는 방법 알아보기
 role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: 6d935074-3196-45c5-97cd-ccb7c80bbba8
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->REST API는 사용할 URL이 포함된 &quot;href&quot; 속성을 반환합니다. <b>항상 응답에 포함된 URL을 사용하여 후속 API 요청을 만듭니다</b>.
+>REST API는 사용할 URL이 포함된 &quot;href&quot; 속성을 반환합니다. <b>항상 응답에 포함된 URL을 사용하여 후속 API를 요청하십시오</b>.
 
 <br/>
 

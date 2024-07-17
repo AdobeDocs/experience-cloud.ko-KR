@@ -21,23 +21,23 @@ ht-degree: 10%
 * Adobe Experience Platform과 통합
 * 일관된 사용자 인터페이스 및 경험
 
-주요 기능 및 개념 차이에 대한 자세한 내용은 [이 페이지](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration).
+주요 기능 및 개념 차이에 대한 자세한 내용은 [이 페이지](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration)를 참조하세요.
 
 ## 새로운 기능
 
-에서 제공하는 모든 기능 및 성능을 확인합니다. [Campaign 웹 사용자 인터페이스](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/campaign-web-home) 및 [Campaign v8](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/campaign-home).
+[Campaign 웹 사용자 인터페이스](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/campaign-web-home) 및 [Campaign v8](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/campaign-home)에서 제공하는 모든 기능과 기능을 살펴보십시오.
 
 Campaign Standard에서 v8로 주요 기능을 추가하여 원활하게 전환할 수 있습니다.
 
 >[!BEGINTABS]
 
->[!TAB 다이내믹 보고]
+>[!TAB 동적 보고]
 
 완전히 맞춤화가 가능한 실시간 보고서를 제공하는 동적 보고에 액세스하여 마케팅 활동의 영향을 측정할 수 있습니다.
 
 [![이미지](assets/do-not-localize/learn-more-button.svg)](reporting/get-started-reporting.md)
 
->[!TAB 중앙 집중식 브랜딩]
+>[!TAB 중앙 브랜딩]
 
 이제 기술 관리자는 하나 또는 여러 브랜드를 정의하여 브랜드 이미지에 영향을 주는 매개 변수를 중앙 집중화할 수 있습니다.
 
@@ -61,7 +61,7 @@ Rest API를 사용하여 Adobe Campaign을 위한 통합을 만들고 사용하�
     </td>
     <td>
     <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/gs-workflows"><img src="assets/do-not-localize/menu-workflows.jpeg"></a>
-    <div><strong>다시 상상한 워크플로우 캔버스</strong><br/></div><br/>
+    <div><strong>다시 상상한 워크플로 캔버스</strong><br/></div><br/>
     </td>
     <td>
     <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/start-design/get-started-email-designer"><img src="assets/do-not-localize/menu-email.png"></a>

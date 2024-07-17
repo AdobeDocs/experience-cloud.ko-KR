@@ -7,7 +7,8 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: cdb050b7-d327-42f7-b534-d32d988c8ffb
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -18,7 +19,7 @@ ht-degree: 0%
 
 ## 필터 메타데이터 검색 중
 
-필터는 각 리소스에 사용할 수 있습니다. 리소스와 연결된 필터를 식별하려면 리소스 메타데이터에 대해 GET 요청을 수행해야 합니다. 이 요청은 주어진 리소스에 대해 모든 필터가 정의된 URL을 반환합니다. 메타데이터에 대한 자세한 내용은 [이 섹션](metadata-mechanism.md).
+필터는 각 리소스에 사용할 수 있습니다. 리소스와 연결된 필터를 식별하려면 리소스 메타데이터에 대해 GET 요청을 수행해야 합니다. 이 요청은 주어진 리소스에 대해 모든 필터가 정의된 URL을 반환합니다. 메타데이터에 대한 자세한 정보는 [이 섹션](metadata-mechanism.md)을 참조하세요.
 
 필터의 메타데이터를 식별하고 사용 방법을 결정하려면 이전에 반환된 URL에 대해 GET 요청을 수행해야 합니다.
 
@@ -65,10 +66,10 @@ URL에 대해 GET 요청을 수행합니다. 프로필 리소스에 대한 필�
 
 각 필터에 대해 동일한 메타데이터 구조를 사용할 수 있습니다.
 
-* 다음 **@formType** 및 **@webPage** 필드는 기술 필드입니다.
-* 다음 **데이터** 필드는 필터 사용 방법에 대한 샘플을 제공합니다.
-* 다음 **메타데이터** node는 필터 매개 변수에 대해 설명합니다.
-* 다음 **조건** 노드는 필터의 용도를 설명합니다. 메타데이터 노드에 설명된 필터 매개 변수는 필터 조건을 만드는 데 사용됩니다. 각 필터 조건에 대해 **enabledIf** true인 경우 **expr** 이 적용됩니다.
+* **@formType** 및 **@webPage** 필드는 기술 필드입니다.
+* **data** 필드에 필터 사용 방법에 대한 샘플이 제공됩니다.
+* **metadata** 노드는 필터 매개 변수를 설명합니다.
+* **condition** 노드는 필터의 용도를 설명합니다. 메타데이터 노드에 설명된 필터 매개 변수는 필터 조건을 만드는 데 사용됩니다. 각 필터 조건에 대해 **enabledIf**&#x200B;이(가) true이면 **expr**&#x200B;이(가) 적용됩니다.
 
 <br/>
 
@@ -132,7 +133,8 @@ URL에 대해 GET 요청을 수행합니다. 프로필 리소스에 대한 필�
   }
   ```
 
-* 이메일 또는 성 필드에 &quot;Doe&quot;가 포함된 &quot;프로필&quot; 리소스를 검색하기 위한 샘플 GET 요청(byText 필터는 이메일 및 성 필드를 모두 검색합니다).
+* 에 &quot;Doe&quot;가 포함된 &quot;profile&quot; 리소스를 검색하기 위한 샘플 GET 요청
+이메일 또는 성 필드(byText 필터는 이메일 및 성 필드를 모두 검색합니다).
 
   ```
   -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/profile/byText?text=Doe \
@@ -200,8 +202,8 @@ URL에 대해 GET 요청을 수행합니다. 프로필 리소스에 대한 필�
 
 자세한 내용은 Campaign Standard 설명서를 참조하십시오.
 
-* [필터 정의 구성](https://helpx.adobe.com/campaign/standard/developing/using/configuring-filter-definition.html).
-* [사용 사례: 복합 식별 키로 리소스 호출](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/uc-calling-resource-id-key.html).
+* [필터 정의를 구성하는 중](https://helpx.adobe.com/campaign/standard/developing/using/configuring-filter-definition.html).
+* [사용 사례: 복합 식별 키를 사용하여 리소스를 호출합니다](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/uc-calling-resource-id-key.html).
 
 <br/>
 

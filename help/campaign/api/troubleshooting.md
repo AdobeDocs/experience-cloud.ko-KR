@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # API 문제 해결 {#troubleshooting}
 
-* **Adobe.io 콘솔로 이동하면 다음 오류가 발생합니다. &quot;Adobe I/O 콘솔은 엔터프라이즈 계정의 구성원을 선택하는 데만 사용할 수 있습니다. 액세스 권한이 있어야 한다고 생각되면 시스템 관리자에게 문의하십시오.&quot;**
+* **Adobe.io 콘솔로 이동하면 다음 오류가 발생합니다. &quot;Adobe I/O 콘솔은 엔터프라이즈 계정의 구성원을 선택하는 데만 사용할 수 있습니다. 액세스 권한이 있다고 생각되면 시스템 관리자에게 문의하십시오.&quot;**
 
 관리자는 조직의 API 키만 만들 수 있습니다. 이 메시지가 표시되고 API 키를 만들려고 하며 조직의 관리자 중 한 명에게 물어보려는 경우.
 
-* **Adobe.io에 대한 요청을 수행하면 {&quot;error_code&quot;:&quot;403023&quot;,&quot;message&quot;:&quot;프로필이 유효하지 않습니다&quot;}가 표시됩니다**
+* **Adobe.io에 대한 요청을 수행하면 {&quot;error_code&quot;:&quot;403023&quot;,&quot;message&quot;:&quot;프로필이 유효하지 않습니다&quot;}**
 
 즉, 특정 Campaign 제품의 IMS 프로비저닝에 문제가 있습니다. IMS 팀에서 이를 해결해야 합니다.
 
@@ -77,13 +77,13 @@ Adobe 자세한 내용을 보려면 토큰으로 IMS API를 호출하여 IMS 프
 
 Adobe.io가 잘못된 URI를 선언합니다. 요청하는 URI가 유효하지 않을 가능성이 높습니다. Campaign 서비스를 선택하면 Adobe.io에서 가능한 organization_ids 목록이 있는 선택기가 표시됩니다. 선택한 항목이 URL에 입력한 내용인지 확인해야 합니다.
 
-* **Adobe.io에 대한 요청을 수행하면 {&quot;error_code&quot;:&quot;401013&quot;,&quot;message&quot;:&quot;Oauth 토큰이 유효하지 않습니다&quot;} 메시지가 표시됩니다**
+* **Adobe.io에 대한 요청을 수행하면 {&quot;error_code&quot;:&quot;401013&quot;,&quot;message&quot;:&quot;Oauth 토큰이 유효하지 않습니다&quot;}**
 
 토큰이 잘못되었거나(토큰 생성에 사용한 부적절한 IMS 호출) 토큰이 만료되었습니다.
 
 * **만든 후 내 프로필이 표시되지 않음**
 
-인스턴스 구성에 따라 생성된 프로필을 **orgUnit**. 작성에서 이 필드를 추가하는 방법을 이해하려면 다음을 참조하십시오. [이 섹션](creating-profiles-api.md).
+인스턴스 구성에 따라 만들어진 프로필을 **orgUnit**&#x200B;에 연결해야 합니다. 생성 시 이 필드를 추가하는 방법을 이해하려면 [이 섹션](creating-profiles-api.md)을 참조하세요.
 
 <!-- * (error duplicate key : quand tu crées un profile qui existe déjà , il faut faire un patch pour updater le profile plutôt qu'un POST)
 

@@ -4,7 +4,8 @@ description: 열기 보고서를 통해 다양한 기준에 따라 가장 많이
 audience: end-user
 level: Intermediate
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+exl-id: dcd794bb-05be-430f-868e-b63d242debc6
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 46%

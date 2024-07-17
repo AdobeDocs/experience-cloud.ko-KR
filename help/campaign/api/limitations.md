@@ -8,7 +8,8 @@ role: Data Engineer
 level: Experienced
 mini-toc-levels: 1
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 4ddde59006a72f34090a0ed4a765447c69c5f029
+exl-id: 45acebb1-9325-4e26-8fe9-cc73f745d801
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '1165'
 ht-degree: 1%
@@ -27,7 +28,7 @@ Campaign Standard에서 할당된 제품 프로필과 관계없이 API에 대한
 
 ### 임차인 ID
 
-마이그레이션 후 향후 통합을 위해 를 사용하는 것이 좋습니다. **Campaign v8 테넌트 ID** REST URL에서 이전 Campaign Standard 테넌트 ID를 바꿉니다.
+마이그레이션 후 향후 통합을 위해 이전 Campaign Standard 테넌트 ID를 대체하여 REST URL의 **Campaign v8 테넌트 ID**&#x200B;를 사용하는 것이 좋습니다.
 
 ### 키 사용
 
@@ -44,7 +45,7 @@ PKey 값의 관리는 Campaign Standard과 Campaign v8에서 다릅니다. Campa
 
 >[!AVAILABILITY]
 >
->현재, **트랜잭션 메시지** REST API를 사용할 수 없습니다.
+>지금은 **트랜잭션 메시지** REST API를 사용할 수 없습니다.
 >
 >아래에 나열된 REST API는 더 이상 사용되지 않으며 사용할 수 없습니다.
 >* 마케팅 기록
@@ -53,7 +54,7 @@ PKey 값의 관리는 Campaign Standard과 Campaign v8에서 다릅니다. Campa
 
 ## 필터링
 
-* REST API 페이로드에서 필터를 사용하려면 Campaign v8에서 편집하고 페이로드에 사용할 이름을 제공해야 합니다. 이렇게 하려면 다음에서 필터의 추가 매개 변수에 액세스합니다. **[!UICONTROL 매개 변수]** 을 누르고 원하는 이름을 입력합니다 **[!UICONTROL REST API의 필터 이름]** 필드.
+* REST API 페이로드에서 필터를 사용하려면 Campaign v8에서 편집하고 페이로드에 사용할 이름을 제공해야 합니다. 이렇게 하려면 **[!UICONTROL 매개 변수]** 탭에서 필터의 추가 매개 변수에 액세스하고 **[!UICONTROL REST API의 필터 이름]** 필드에 원하는 이름을 제공합니다.
 
   ![](assets/api-filtering.png)
 
@@ -113,13 +114,13 @@ Campaign v8에서 동일한 요청 본문 구조를 사용하고 &quot;차량&qu
 | URI에 존재하지 않는 원시 ID 사용 | 404 - RST-360011 오류가 발생했습니다. 관리자에게 문의하십시오. &#39;adobe_nl:0&#39; 키(스키마가 &#39;service&#39;이고 이름이 &#39;adobe_nl&#39;인 문서)에서 경로가 &#39;Service&#39;인 문서를 찾을 수 없음 | 404 - &#39;adobe_nl&#39; 키(스키마가 &#39;service&#39;이고 이름이 &#39;adobe_nl&#39;인 문서)에서 &#39;Service&#39; 경로가 있는 문서를 찾을 수 없음 |
 | 요청 본문에 존재하지 않는 원시 ID 사용 | 404 - RST-360011 오류가 발생했습니다. 관리자에게 문의하십시오. 경로가 &#39;Service&#39;인 문서를 &#39;adobe_nl&#39; 키(스키마가 &#39;service&#39;이고 이름이 &#39;adobe_nl&#39;인 문서)에서 찾을 수 없습니다. | 404 - &#39;adobe_nl&#39; 키(스키마가 &#39;service&#39;이고 이름이 &#39;adobe_nl&#39;인 문서)에서 &#39;Service&#39; 경로가 있는 문서를 찾을 수 없음 |
 | - | 500 - RST-360011 오류가 발생했습니다. 관리자에게 문의하십시오. | 500 - 오류가 발생했습니다. 관리자에게 문의하십시오. |
-| 잘못된 성별(또는 기타) 열거형 값이 있는 프로필/서비스 삽입 | 500 - RST-360011 오류가 발생했습니다. 관리자에게 문의하십시오. &#39;invalid&#39; 값이 &#39;nms에 유효하지 않습니다.:recipient:&#39;@gender&#39; 필드의 성별 열거 | 500 - 오류가 발생했습니다. 관리자에게 문의하십시오. |
+| 잘못된 성별(또는 기타) 열거형 값이 있는 프로필/서비스 삽입 | 500 - RST-360011 오류가 발생했습니다. 관리자에게 문의하십시오. &#39;invalid&#39; 값은 &#39;@gender&#39; 필드의 &#39;nms:recipient:gender&#39; 열거에 사용할 수 없습니다. | 500 - 오류가 발생했습니다. 관리자에게 문의하십시오. |
 
 ## 프로필 - 시간대
 
-Campaign Standard 시 시간대는 JSON 응답의 일부로 표시됩니다. **profileAndServices/profile** REST API 호출
+Campaign Standard을 사용하면 시간대가 **profileAndServices/profile** REST API 호출의 JSON 응답의 일부로 표시됩니다.
 
-Campaign v8에서 시간대는 사용자에게 의 일부로만 표시됩니다. **profileAndServicesExt/profile** REST API 호출 일부가 아닙니다. **profileAndServices/profile** 확장 스키마에 추가되고 있으므로 REST API 호출입니다.
+Campaign v8에서 시간대는 **profileAndServicesExt/profile** REST API 호출의 일부로만 표시됩니다. 확장 스키마에 추가되고 있으므로 **profileAndServices/profile** REST API 호출의 일부가 아닙니다.
 
 ## 워크플로우 - 외부 신호 트리거
 

@@ -4,7 +4,8 @@ description: 모든 지표의 공식 목록을 사용하여 보고서 결과를 
 level: Intermediate
 audience: end-user
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 031d5b692d9b9e4420b14ba1ab892fbafed57ec0
+exl-id: 06fb21a5-ae98-4c14-97f0-7f851d60ae7d
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 1%
@@ -26,13 +27,13 @@ ht-degree: 1%
   <tr> 
    <th> <strong>레이블</strong> <br/> </th> 
    <th> <strong>필드 이름</strong> <br/> </th> 
-   <th> <strong>지표 계산 공식</strong> <br/> </th> 
+   <th> <strong>지표 계산 수식</strong> <br/> </th> 
    <th> <strong>댓글</strong><br/> </th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td> 계정 비활성화<br/> </td> 
+   <td> 사용하지 않는 계정<br/> </td> 
    <td> @disabled<br/> </td> 
    <td> count(@failureReason=4)<br/> </td> 
    <td> </td> 
@@ -56,13 +57,13 @@ ht-degree: 1%
    <td> </td> 
   </tr> 
   <tr> 
-   <td> 바운스 + 오류 비율<br/> </td> 
+   <td> 바운스 + 오류율<br/> </td> 
    <td> @rateBounces<br/> </td> 
    <td> @bounces/@sent<br/> </td> 
    <td> </td> 
   </tr> 
   <tr> 
-   <td> 클릭<br/> </td> 
+   <td> <br/> 클릭 </td> 
    <td> @clicks<br/> </td> 
    <td> count(@trackingUrlType=1 또는 10 또는 11)<br/> </td> 
    <td> </td> 
@@ -71,10 +72,10 @@ ht-degree: 1%
    <td> 클릭스루 비율<br/> </td> 
    <td> @clickthrough<br/> </td> 
    <td> @uniqueclicks/@delivered<br/> </td> 
-   <td> 요금 계산의 분모는 게재된 것만 기준으로 합니다.<br/> </td> 
+   <td> 요율 계산의 분모는 배달된 것만 기반으로 합니다.<br/> </td> 
   </tr> 
   <tr> 
-   <td> 전달됨<br/> </td> 
+   <td> 배달됨<br/> </td> 
    <td> @delivered<br/> </td> 
    <td> count(@status=1)<br/> </td> 
    <td> </td> 
@@ -113,10 +114,10 @@ ht-degree: 1%
    <td> 미러 페이지<br/> </td> 
    <td> @mirrorPage<br/> </td> 
    <td> count(@trackingUrlType=6)<br/> </td> 
-   <td> 요금 계산의 분모는 게재된 것만 기준으로 합니다.<br/> </td> 
+   <td> 요율 계산의 분모는 배달된 것만 기반으로 합니다.<br/> </td> 
   </tr> 
   <tr> 
-   <td> 미러 페이지 비율<br/> </td> 
+   <td> 미러 페이지 속도<br/> </td> 
    <td> @rateMirrorPage<br/> </td> 
    <td> @mirrorPage/@delivered<br/> </td> 
    <td> </td> 
@@ -128,16 +129,16 @@ ht-degree: 1%
    <td> </td> 
   </tr> 
   <tr> 
-   <td> 열기<br/> </td> 
+   <td> <br/> 열기 </td> 
    <td> @uniqueOpens<br/> </td> 
-   <td> count(@trackingUrlType=2 + 고유(@trackingUrlType=1,2,3,6,10,11) - 고유(@trackingUrlType=2))<br/> </td> 
+   <td> count(@trackingUrlType=2 + unique(@trackingUrlType=1,2,3,6,10,11) - unique(@trackingUrlType=2))<br/> </td> 
    <td> </td> 
   </tr> 
   <tr> 
    <td> 열람률<br/> </td> 
    <td> @rateOpens<br/> </td> 
    <td> @opens/@delivered<br/> </td> 
-   <td> 요금 계산의 분모는 게재된 것만 기준으로 합니다.<br/> </td> 
+   <td> 요율 계산의 분모는 배달된 것만 기반으로 합니다.<br/> </td> 
   </tr> 
   <tr> 
    <td> 격리<br/> </td> 
@@ -146,7 +147,7 @@ ht-degree: 1%
    <td> </td> 
   </tr> 
   <tr> 
-   <td> 격리율<br/> </td> 
+   <td> 격리 비율<br/> </td> 
    <td> @rateQuarantine<br/> </td> 
    <td> @quarantine/@sent<br/> </td> 
    <td> 요금 계산의 분모는 보낸 개수(배달된 + 바운스 수)를 기반으로 합니다.<br/> </td> 
@@ -188,13 +189,13 @@ ht-degree: 1%
    <td> </td> 
   </tr> 
   <tr> 
-   <td> 고유 열람 수<br/> </td> 
+   <td> 고유 열기 수<br/> </td> 
    <td> @uniqueopens<br/> </td> 
    <td> unique(@trackingUrlType=1,2,3,6,10,11)<br/> </td> 
    <td> </td> 
   </tr> 
   <tr> 
-   <td> 연결할 수 없음 <br/> </td> 
+   <td> 연결할 수 없는 <br/> </td> 
    <td> @unreachable<br/> </td> 
    <td> count(@failureReason=3)<br/> </td> 
    <td> </td> 
@@ -206,10 +207,10 @@ ht-degree: 1%
    <td> </td> 
   </tr> 
   <tr> 
-   <td> 구독 취소율<br/> </td> 
+   <td> 구독 취소 비율<br/> </td> 
    <td> @rateUnsubscribes<br/> </td> 
    <td> @unsubscribes/@delivered<br/> </td> 
-   <td> 요금 계산의 분모는 게재된 것만 기준으로 합니다.<br/> </td> 
+   <td> 요율 계산의 분모는 배달된 것만 기반으로 합니다.<br/> </td> 
   </tr> 
   <tr> 
    <td> 알 수 없는 사용자<br/> </td> 

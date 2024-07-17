@@ -7,7 +7,8 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: de97a194-d497-4665-906e-53178fd3b119
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -18,7 +19,7 @@ ht-degree: 0%
 
 리소스에 대한 작업을 수행하는 데 사용할 수 있는 동사는 다음과 같습니다.
 
-* `GET`: 하나의 요소 또는 요소의 컬렉션을 검색합니다.
+* `GET`: 요소 하나 또는 요소 컬렉션을 검색합니다.
 * `POST`: 매개 변수를 사용하여 리소스를 만듭니다.
 * `PATCH`: 매개 변수를 사용하여 리소스를 업데이트합니다.
 * `DELETE`: 리소스를 삭제합니다.

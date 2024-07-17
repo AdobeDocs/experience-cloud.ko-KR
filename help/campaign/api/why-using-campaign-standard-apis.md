@@ -7,10 +7,11 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: ef045e5d-cd02-44a0-9a1e-d468483a38d9
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '481'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -20,7 +21,7 @@ Adobe Campaign Standard은 기존 시스템을 Campaign 플랫폼과 통합하�
 
 등록 또는 옵트아웃 페이지와 같은 공개 웹 사이트는 프로필 정보를 저장하기 위해 백엔드 시스템에 연결해야 합니다. Adobe Campaign과 같은 백엔드 시스템은 프로필 데이터를에 수집하고 이에 대해 사용자 지정 작업을 수행할 수 있는 유연성과 기능을 갖추고 있습니다.
 
-여기 몇 가지 예가 있습니다.
+다음은 몇 가지 예입니다.
 
 * 잠재 고객 온라인 등록.
 * 기존 고객 프로필 및 마케팅 커뮤니케이션 환경 설정 관리.
@@ -51,19 +52,19 @@ Campaign Standard API 요청을 숙지하는 데 도움이 되는 요청 컬렉�
 >
 >이 예제에서는 Postman을 사용합니다. 그러나 좋아하는 REST 클라이언트를 자유롭게 사용할 수 있습니다.
 
-1. 다음을 클릭하여 JSON 컬렉션 다운로드 [여기](https://helpx.adobe.com/content/dam/help/en/campaign/kb/working-with-acs-api/_jcr_content/main-pars/download_section/download-1/KB_postman_collection.json.zip).
+1. [여기](https://helpx.adobe.com/content/dam/help/en/campaign/kb/working-with-acs-api/_jcr_content/main-pars/download_section/download-1/KB_postman_collection.json.zip)를 클릭하여 JSON 컬렉션을 다운로드합니다.
 
-1. Postman을 연 다음 **파일** / **가져오기** 메뉴 아래의 제품에서 사용할 수 있습니다.
+1. Postman을 열고 **파일** / **가져오기** 메뉴를 선택합니다.
 
 1. 다운로드한 파일을 창으로 끌어서 놓습니다. 미리 디자인된 API 요청, 사용할 준비가 되었습니다.
 
    ![대체 텍스트](assets/postman_collection.png)
 
-1. 다음 항목 선택 **프로필 만들기** 을(를) 요청한 다음 POST 요청 및 을 **헤더** 사용자 고유의 정보가 포함된 탭(&lt;organization>, &lt;api_key>, &lt;access_token>). 이 작업에 대한 자세한 정보는 [이 섹션](setting-up-api-access.md)을 참조하십시오.
+1. **프로필 만들기** 요청을 선택한 다음 POST 요청과 **헤더** 탭을 사용자 정보(&lt;ORGANIZATION>, &lt;API_KEY>, &lt;ACCESS_TOKEN>)로 업데이트하십시오. 이 작업에 대한 자세한 정보는 [이 섹션](setting-up-api-access.md)을 참조하십시오.
 
    ![대체 텍스트](assets/postman_uc1.png)
 
-1. 다음을 입력합니다. **본문** 새 프로필에 추가할 정보가 있는 탭을 클릭한 다음 **보내기** 단추를 클릭하여 요청을 실행합니다.
+1. 새 프로필에 추가할 정보로 **본문** 탭을 입력한 다음 **보내기** 단추를 클릭하여 요청을 실행합니다.
 
    ![대체 텍스트](assets/postman_uc2.png)
 
