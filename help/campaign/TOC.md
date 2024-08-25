@@ -71,8 +71,8 @@ ht-degree: 71%
       + [구독 수행](api/perform-subscriptions.md)
       + [구독 삭제](api/deleting-subscriptions.md)
    + [트랜잭션 메시지 관리](api/managing-transactional-messages.md)
-   + 워크플로우 관리 {#managing-workflows}
-      + [워크플로우 제어](api/controlling-a-workflow.md)
+   + 워크플로 관리 {#managing-workflows}
+      + [워크플로 제어](api/controlling-a-workflow.md)
       + [신호 활동 트리거](api/triggering-a-signal-activity.md)
 + 기술 노트 {#technotes}
    + [64비트 스키마](technotes/64-bit-tables.md)

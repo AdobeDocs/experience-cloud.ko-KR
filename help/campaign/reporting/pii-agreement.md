@@ -4,13 +4,13 @@ description: 다이내믹 보고 사용 계약에 대한 자세한 내용
 level: Beginner
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
 audience: end-user
-source-git-commit: c6a6cb7da640c9c29af71487e468f38ebf51d4f6
+exl-id: 9fcef466-f306-480e-b42e-d18daa8bcf06
+source-git-commit: dbdf1c4f8b676c73a7cc3a46af2838ebb9326457
 workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 1%
 
 ---
-
 
 # 동적 보고 사용 계약 {#pii-agreement}
 

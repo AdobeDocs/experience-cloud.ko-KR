@@ -2,7 +2,8 @@
 title: 숨겨진 다운로드 파일
 description: 참조용으로만 숨겨진 다운로드 파일
 hide: y
-source-git-commit: 28434780a9ce7e8332f88a21fbaae4f65cef34b7
+exl-id: f4b0aa11-ae9b-4074-902d-a5be412d07f7
+source-git-commit: dbdf1c4f8b676c73a7cc3a46af2838ebb9326457
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%

@@ -1,5 +1,5 @@
 ---
-title: 워크플로우 제어
+title: 워크플로 제어
 description: API를 사용하여 워크플로우를 제어하는 방법을 알아봅니다.
 audience: developing
 content-type: reference
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 ---
 
-# 워크플로우 제어 {#controlling-a-workflow}
+# 워크플로 제어 {#controlling-a-workflow}
 
 워크플로 ID 및 필수 실행 명령이 포함된 POST 요청을 통해 REST API에서 직접 워크플로를 제어할 수 있습니다.
 
