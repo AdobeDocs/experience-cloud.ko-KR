@@ -5,14 +5,18 @@ audience: end-user
 level: Intermediate
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
 exl-id: 36506f7d-aeeb-41cf-b971-6e42e1c7cdc8
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+source-git-commit: 62c2f2e7a6f5dd347749e963a655b717cd5c7310
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '238'
 ht-degree: 3%
 
 ---
 
 # 보고서 기간 정의{#defining-the-report-period}
+
+>[!NOTE]
+>
+>지난 13개월 동안 데이터 보고를 사용할 수 있습니다. 데이터 보존 기간에 대한 자세한 내용은 Adobe 컨설턴트 또는 기술 관리자에게 문의하십시오.
 
 보고서를 시작하거나 액세스하기 전에 기간을 적용해야 합니다. 지정된 기간은 보고서의 오른쪽 상단에서 액세스할 수 있습니다.
 

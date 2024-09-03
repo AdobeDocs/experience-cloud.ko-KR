@@ -7,10 +7,10 @@ role: Admin
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
 exl-id: 7afc802d-e90c-48c8-aa04-3ea543dfdfbc
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+source-git-commit: 62c2f2e7a6f5dd347749e963a655b717cd5c7310
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 57%
+source-wordcount: '377'
+ht-degree: 42%
 
 ---
 
@@ -56,10 +56,8 @@ Adobe Campaign V8의 브랜드는 **[!UICONTROL 관리 > 플랫폼 > 브랜딩]*
 
   ![](assets/branding_3.png)
 
-<!--![](assets/branding_05.png)-->
+* **[!UICONTROL URL 구성 추적]** 메뉴를 사용하면 Adobe Analytics 및 Google Analytics과 같은 Web Analytics 도구와의 통합을 위한 추가 매개 변수를 정의하여 URL 추적을 개선할 수 있습니다.
 
-<!--
-* **[!UICONTROL Tracking URL configs]**, which defines the configuration of the URLs tracking for your brand.
+  **[!UICONTROL 추가 URL 매개 변수]** 메뉴를 사용하여 적용 가능성 조건과 함께 추가 매개 변수를 키-값 쌍으로 만드십시오. 각 매개 변수 이름은 고유해야 하며 비어 있지 않아야 하고, 각 매개 변수 값은 비어 있지 않아야 합니다. 적용 가능성 조건은 비어 있을 수 있지만 이러한 값 중 JST 태그를 포함할 수 있는 값은 없습니다.
 
-  The additional parameters that allow the links to be tracked on external systems such as Web Analytics tools like Adobe Analytics or Google Analytics are defined here.
--->
+  이러한 매개 변수는 **[!UICONTROL 도메인 이름 목록]**&#x200B;에 지정된 모든 도메인 이름과 일치하는 추적된 URL에 적용되며, 여기에는 정규 표현식이 포함될 수 있습니다.

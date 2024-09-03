@@ -7,18 +7,14 @@ role: Admin
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
 exl-id: 8f6a5255-0245-497b-880f-d91ea82ee19e
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+source-git-commit: 62c2f2e7a6f5dd347749e963a655b717cd5c7310
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '471'
 ht-degree: 18%
 
 ---
 
 # 브랜드 할당 {#branding-assign}
-
->[!IMPORTANT]
->
->브랜딩 옵션은 현재 이메일 및 푸시 게재로 제한됩니다.
 
 ## 템플릿에 브랜드 연결 {#linking-a-brand-to-a-template}
 
