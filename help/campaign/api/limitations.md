@@ -9,9 +9,9 @@ level: Experienced
 mini-toc-levels: 1
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
 exl-id: 45acebb1-9325-4e26-8fe9-cc73f745d801
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+source-git-commit: 6e4e214731b9772014d01dde89b3f80e4c4e93a6
 workflow-type: tm+mt
-source-wordcount: '1165'
+source-wordcount: '1063'
 ht-degree: 1%
 
 ---
@@ -128,10 +128,10 @@ Campaign Standard 워크플로 GET API는 워크플로 인스턴스 변수 및 �
 
 Campaign v8은 광고 워크플로 인스턴스 변수를 지원하지 않지만 개발자는 해당 변수를 알고 있어야 합니다. 따라서 마이그레이션 후 POST 요청 본문의 매개 변수 정보는 GET API 응답에서 매개 변수 정보를 사용하지 않고 구성해야 합니다.
 
-## 트랜잭션 메시지 
+<!--## Transactional messages
 
-* Campaign Standard을 사용하면 POST 요청은 요청 본문의 요소 및 속성에 대해 빈 필드를 반환합니다. Campaign v8에서 응답은 대신 요청 본문의 값과 일치하는 값을 반환합니다.
+* With Campaign Standard, a POST request returns empty fields for elements and attributes in the request body. With Campaign v8, the response returns values that match the ones in the request body instead.
 
-* 이벤트 구성을 게시할 때 API 미리 보기 패널에 요청 본문 구문과 함께 REST URL이 표시됩니다.
+* When publishing an event configuration, the API preview panel displays the REST URL alongside the request body syntax.
 
-  Campaign v8은 이벤트 구성 필드 정의를 지원하지 않으므로(이벤트 만들기는 eventType 열거에 값을 추가하는 것일 뿐) 이벤트 유형을 추가할 때 API 미리 보기 패널이 없습니다. 이벤트 트랜잭션 메시지가 게시되면 트랜잭션 메시지 사용자 인터페이스에 REST URL이 표시됩니다.
+    Since Campaign v8 does not support event configuration fields definition (event creation is just adding a value to eventType enumeration), there is no API preview panel when adding an event type. The REST URL is displayed  in the transactional message user interface once an event transactional message is published.-->

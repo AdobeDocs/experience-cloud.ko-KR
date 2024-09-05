@@ -8,9 +8,9 @@ role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
 exl-id: ef045e5d-cd02-44a0-9a1e-d468483a38d9
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 6e4e214731b9772014d01dde89b3f80e4c4e93a6
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '469'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Adobe Campaign Standard은 기존 시스템을 Campaign 플랫폼과 통합하�
 
 * 잠재 고객 온라인 등록.
 * 기존 고객 프로필 및 마케팅 커뮤니케이션 환경 설정 관리.
-* 이벤트 기반 트랜잭션 통신 트리거 - 주문 확인, 예약 일정, 암호 재설정 등.
+  <!--* Event based transactional communication triggering – order confirmation, booking Itinerary, password reset, etc.-->
 * 장바구니 포기 전자 메일 통신까지.
 
 랜딩 페이지에 등록하면 고객 또는 잠재 고객이 이름과 이메일 주소를 등록할 수 있습니다. Campaign Standard이 프로필 정보 및 환경 설정을 캡처하면 사용자의 관심사에 따라 개인화된 메시지를 보낼 수 있습니다.
