@@ -3,10 +3,10 @@ title: Adobe Campaign 웹 사용자 인터페이스
 description: Adobe Campaign 웹 사용자 인터페이스 살펴보기
 badge: label="제한된 가용성" type="Informative" url="campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
 exl-id: eecf4e13-820d-4454-9f11-f50be565bb79
-source-git-commit: 619453901147f83d691156a3b870d36b6caa1868
+source-git-commit: 57d64cb5436381e1dbad9add0d8fe117e6f11ecf
 workflow-type: tm+mt
 source-wordcount: '276'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 10%
 * Adobe Experience Platform과 통합
 * 일관된 사용자 인터페이스 및 경험
 
-주요 기능 및 개념 차이에 대한 자세한 내용은 [이 페이지](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration)를 참조하세요.
+주요 기능 및 개념 차이에 대한 자세한 내용은 [이 페이지](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/start/acs-migration)를 참조하세요.
 
 ## 새로운 기능
 
@@ -79,3 +79,4 @@ Rest API를 사용하여 Adobe Campaign을 위한 통합을 만들고 사용하�
     <td align="center"><a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/gs-personalization"><img src="assets/do-not-localize/learn-more-button.svg"></a></td>
     </tr>
 </table>
+
