@@ -1,6 +1,6 @@
 ---
 title: Campaign REST API 시작
-description: Campaign과 다양한 기술의 통합을 통해 고유한 에코시스템을 구축할 수 있습니다.
+description: Campaign과 다양한 기술의 통합을 통해 고유한 에코시스템을 빌드할 수 있습니다.
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
@@ -8,9 +8,9 @@ role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
 exl-id: c6968252-a012-4029-bbb8-66f4f693e99b
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: ea8b978d8f71942c8d034804ca269957a09a52db
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '234'
 ht-degree: 48%
 
 ---
@@ -32,6 +32,7 @@ Adobe Campaign REST API를 사용하면 다음 기능에 액세스할 수 있습
 <td valign="top"><a href="creating-a-service.md"><img width="60px" alt="조건" src="assets/icon_services.svg"/></a><p><a href="creating-a-service.md">서비스 및 구독</a></p></td>
 <td valign="top"><a href="interacting-with-custom-resources.md"><img width="60px" alt="조건" src="assets/icon_customresources.svg"/></a><p><a href="interacting-with-custom-resources.md">사용자 정의 리소스</a></p></td>
 <td valign="top"><a href="controlling-a-workflow.md"><img width="60px" alt="조건" src="assets/icon_workflows.svg"/></a><p><a href="controlling-a-workflow.md">워크플로</a></p></td>
+<td valign="top"><a href="managing-transactional-messages.md"><img width="60px" alt="조건" src="assets/icon_transactionalmessage.svg"/></a><p><a href="managing-transactional-messages.md">트랜잭션 메시지 </a></p></td>
 </tr></table>
 
 Campaign REST API를 사용하려면 Adobe I/O 계정이 필요합니다. 이는 API 기능을 앞으로 나아가고 검색하기 위한 필수 첫 단계입니다.

@@ -9,9 +9,9 @@ level: Experienced
 mini-toc-levels: 1
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
 exl-id: 45acebb1-9325-4e26-8fe9-cc73f745d801
-source-git-commit: 6e4e214731b9772014d01dde89b3f80e4c4e93a6
+source-git-commit: 952706ffafc1e7cd6a759bfbbb9c9200191544d9
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1065'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Campaign Standard에서 할당된 제품 프로필과 관계없이 API에 대한
 
 마이그레이션을 수행하면 기존 또는 미리 만든 기술 계정에 두 개의 제품 프로필이 추가됩니다(트랜잭션 API에 액세스하기 위한 관리자 및 메시지 센터). 제품 프로필 매핑을 검토하고 관리자 제품 프로필을 기술 계정과 매핑하지 않으려는 경우 필요한 제품 프로필을 할당합니다.
 
-### 임차인 ID
+### 테넌트 ID
 
 마이그레이션 후 향후 통합을 위해 이전 Campaign Standard 테넌트 ID를 대체하여 REST URL의 **Campaign v8 테넌트 ID**&#x200B;를 사용하는 것이 좋습니다.
 
@@ -42,6 +42,7 @@ PKey 값의 관리는 Campaign Standard과 Campaign v8에서 다릅니다. Campa
 * **서비스 및 구독**
 * **사용자 정의 리소스**
 * **워크플로**
+* **트랜잭션 메시지**
 
 >[!AVAILABILITY]
 >

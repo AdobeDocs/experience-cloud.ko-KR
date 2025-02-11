@@ -4,20 +4,22 @@ description: API를 사용하여 트랜잭션 메시지를 관리하는 방법�
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-hidefromtoc: true
-hide: true
 role: Data Engineer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
 exl-id: 00d39438-a232-49f1-ae5e-1e98c73397e3
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 6f9c9dd7dcac96980bbf5f7228e021471269d187
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '678'
 ht-degree: 1%
 
 ---
 
 # 트랜잭션 메시지 관리 {#managing-transactional-messages}
+
+>[!AVAILABILITY]
+>
+>현재 REST API를 사용하는 트랜잭션 메시지는 이메일 채널 및 트랜잭션 이벤트에만 사용할 수 있습니다(데이터 보강은 Adobe Campaign V8 작동 방식과 유사한 페이로드만 통해 사용 가능).
 
 트랜잭션 이벤트를 만들고 게시한 후에는 이 이벤트의 트리거를 웹 사이트에 통합해야 합니다.
 
@@ -140,4 +142,3 @@ POST 요청에 대한 응답입니다.
 * **deliveryFailed**: 이벤트를 처리하는 동안 게재 오류가 발생했습니다.
 * **routingFailed**: 라우팅 단계가 실패했습니다. 지정된 이벤트 유형을 찾을 수 없는 경우 이러한 문제가 발생할 수 있습니다.
 * **tooOld**: 이벤트를 처리하기 전에 이벤트가 만료되었습니다. 이 문제는 다양한 이유로 발생할 수 있습니다. 예를 들어 전송이 여러 번 실패하거나(이벤트가 더 이상 최신 상태가 아님) 서버가 오버로드된 후 더 이상 이벤트를 처리할 수 없는 경우입니다.
-* **targetingFailed**: Campaign Standard에서 메시지 타깃팅에 사용 중인 링크를 보강하지 못했습니다.
