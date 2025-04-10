@@ -6,11 +6,11 @@ content-type: reference
 topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
-badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
+badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: 00d39438-a232-49f1-ae5e-1e98c73397e3
-source-git-commit: 6f9c9dd7dcac96980bbf5f7228e021471269d187
+source-git-commit: 110fcdcbefef53677cf213a39f45eb5d446807c2
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '752'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->현재 REST API를 사용하는 트랜잭션 메시지는 이메일 채널 및 트랜잭션 이벤트에만 사용할 수 있습니다(데이터 보강은 Adobe Campaign V8 작동 방식과 유사한 페이로드만 통해 사용 가능).
+>현재 REST API를 사용하는 트랜잭션 메시지는 이메일 및 SMS 채널에서 사용할 수 있습니다. 트랜잭션 이벤트에만 사용할 수 있습니다(데이터 보강은 Adobe Campaign V8이 작동하는 방식과 유사한 페이로드만 통해 사용 가능).
 
 트랜잭션 이벤트를 만들고 게시한 후에는 이 이벤트의 트리거를 웹 사이트에 통합해야 합니다.
 
@@ -40,11 +40,9 @@ POST https://mc.adobe.io/<ORGANIZATION>/campaign/<transactionalAPI>/<eventID>
 
 * **&lt;transactionalAPI>**: 트랜잭션 메시지 API 끝점입니다.
 
-  트랜잭션 메시지 API 끝점의 이름은 인스턴스 구성에 따라 다릅니다. 값 &quot;mc&quot; 다음에 개인 조직 ID가 오면 해당합니다. 조직 ID로 &quot;geometrixx&quot;를 사용하는 Geometrixx 회사의 예를 살펴보겠습니다. 이 경우 POST 요청은 다음과 같습니다.
+  트랜잭션 메시지 API 끝점의 이름은 인스턴스 구성에 따라 다릅니다. 값 &quot;mc&quot; 다음에 개인 조직 ID가 오면 해당합니다. 조직 ID가 &quot;geometrixx&quot;인 Geometrixx 회사의 예를 살펴보겠습니다. 이 경우 POST 요청은 다음과 같습니다.
 
   `POST https://mc.adobe.io/geometrixx/campaign/mcgeometrixx/<eventID>`
-
-  트랜잭션 메시지 API 엔드포인트는 API 미리보기 중에도 표시됩니다.
 
 * **&lt;eventID>**: 보낼 이벤트 유형입니다. 이 ID는 이벤트 구성을 만들 때 생성됩니다
 
@@ -65,7 +63,7 @@ POST https://mc.adobe.io/<ORGANIZATION>/campaign/<transactionalAPI>/<eventID>
 
 ### POST 요청 본문
 
-이벤트 데이터는 JSON POST 본문 내에 포함되어 있습니다. 이벤트 구조는 해당 정의에 따라 다릅니다. 리소스 정의 화면의 API 미리보기 버튼에서 요청 샘플을 제공합니다.
+이벤트 데이터는 JSON POST 본문 내에 포함되어 있습니다. 이벤트 구조는 해당 정의에 따라 다릅니다.
 
 이벤트에 연결된 트랜잭션 메시지 전송을 관리하기 위해 다음과 같은 선택적 매개 변수를 이벤트 콘텐츠에 추가할 수 있습니다.
 
@@ -76,9 +74,43 @@ POST https://mc.adobe.io/<ORGANIZATION>/campaign/<transactionalAPI>/<eventID>
 >
 >만료 및 예약됨 매개 변수의 값은 ISO 8601 형식을 따릅니다. ISO 8601은 날짜와 시간을 구분하기 위해 대문자 &quot;T&quot;의 사용을 지정합니다. 그러나 가독성을 높이기 위해 입력 또는 출력에서 제거할 수 있습니다.
 
+### 통신 채널 매개 변수
+
+사용할 채널에 따라 페이로드에는 아래 매개 변수가 포함되어야 합니다.
+
+* 이메일 채널: &quot;mobilePhone&quot;
+* SMS 채널: &quot;email&quot;
+
+페이로드에 &quot;mobilePhone&quot;만 포함된 경우 SMS 통신 채널이 트리거됩니다. 페이로드에 &quot;이메일&quot;만 포함된 경우 이메일 통신 채널이 트리거됩니다.
+
+아래 예제는 SMS 통신이 트리거되는 페이로드를 보여 줍니다.
+
+```
+curl --location 'https://mc.adobe.io/<ORGANIZATION>/campaign/mcAdobe/EVTcartAbandonment' \
+--header 'Authorization: Bearer <ACCESS_TOKEN>' \
+--header 'Cache-Control: no-cache' \
+--header 'X-Api-Key: <API_KEY>' \
+--header 'Content-Type: application/json;charset=utf-8' \
+--header 'Content-Length: 79' \
+--data '
+{
+  "mobilePhone":"+9999999999",
+  "scheduled":"2017-12-01 08:00:00.768Z",
+  "expiration":"2017-12-31 08:00:00.768Z",
+  "ctx":
+  {
+    "cartAmount": "$ 125",
+    "lastProduct": "Leather motorbike jacket",
+    "firstName": "Jack"
+  }
+}'
+```
+
+페이로드에 &quot;email&quot;과 &quot;mobilePhone&quot;이 모두 포함된 경우 기본 통신 방법은 이메일이 됩니다. 두 필드가 모두 있을 때 SMS를 보내려면 &quot;wishedChannel&quot; 매개 변수를 사용하여 페이로드에 명시적으로 지정해야 합니다.
+
 ### POST 요청에 대한 응답
 
-POST 응답은 트랜잭션 이벤트를 만든 시점의 상태를 반환합니다. 현재 상태(이벤트 데이터, 이벤트 상태...)를 검색하려면 GET 요청에서 POST 응답이 반환하는 기본 키를 사용하십시오.
+POST 응답은 트랜잭션 이벤트를 만든 시점의 상태를 반환합니다. 현재 상태(이벤트 데이터, 이벤트 상태...)를 검색하려면 GET 요청의 POST 응답에서 반환되는 기본 키를 사용하십시오.
 
 `GET https://mc.adobe.io/<ORGANIZATION>/campaign/<transactionalAPI>/<eventID>/`
 
@@ -86,7 +118,7 @@ POST 응답은 트랜잭션 이벤트를 만든 시점의 상태를 반환합니
 
 ***샘플 요청***
 
-POST을 보내도록 요청합니다.
+이벤트를 전송하기 위한 POST 요청.
 
 ```
 -X POST https://mc.adobe.io/<ORGANIZATION>/campaign/mcAdobe/EVTcartAbandonment \
@@ -97,7 +129,10 @@ POST을 보내도록 요청합니다.
 -H 'Content-Length:79'
 
 {
-  "email":"test@example.com",
+  "
+  
+  
+  ":"test@example.com",
   "scheduled":"2017-12-01 08:00:00.768Z",
   "expiration":"2017-12-31 08:00:00.768Z",
   "ctx":
