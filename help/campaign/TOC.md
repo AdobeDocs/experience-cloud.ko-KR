@@ -65,7 +65,7 @@ ht-degree: 71%
       + [프로필 검색](api/retrieving-profiles.md)
       + [프로필 업데이트](api/updating-profiles.md)
       + [프로필 만들기](api/creating-profiles-api.md)
-   + 서비스 및 구독 {#managing-services-and-subscriptiopns} 관리
+   + 서비스 및 구독 관리 {#managing-services-and-subscriptiopns}
       + [서비스 만들기](api/creating-a-service.md)
       + [구독 검색](api/retrieving-subscriptions.md)
       + [구독 수행](api/perform-subscriptions.md)
