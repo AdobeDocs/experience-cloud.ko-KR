@@ -17,6 +17,6 @@ Experience Cloud Triggers를 사용하여 파이프라인을 통해 Adobe Campai
 
 **유용한 링크:**
 
-* [Adobe Campaign Standard + Experience Cloud Triggers 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html)
-* [Adobe Campaign Classic v7 + Experience Cloud Triggers 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html)
-* [Adobe Campaign v8 + Experience Cloud Triggers 설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/ac-triggers.html)
+* [Adobe Campaign Standard + Experience Cloud Triggers 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=ko)
+* [Adobe Campaign Classic v7 + Experience Cloud Triggers 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html?lang=ko)
+* [Adobe Campaign v8 + Experience Cloud Triggers 설명서](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/ac-triggers.html?lang=ko)

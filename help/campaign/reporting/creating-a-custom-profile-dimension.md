@@ -28,7 +28,7 @@ ht-degree: 3%
 
    ![](assets/custom_field_1.png)
 
-1. 사용자 지정 수신자 스키마를 식별하고 선택합니다. 기본 제공 nms:recipient 스키마를 아직 확장하지 않은 경우 [이 프로시저](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema)를 참조하세요.
+1. 사용자 지정 수신자 스키마를 식별하고 선택합니다. 기본 제공 nms:recipient 스키마를 아직 확장하지 않은 경우 [이 프로시저](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema)를 참조하세요.
 
 1. 스키마 편집기에 사용자 정의 필드를 추가합니다.
 
@@ -42,7 +42,7 @@ ht-degree: 3%
 
 1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
-1. 그런 다음 사용자 정의 broadLogRcp 스키마를 식별하고 선택합니다. 기본 제공 게재 로그 스키마를 아직 확장하지 않은 경우 [이 절차](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema)를 참조하세요.
+1. 그런 다음 사용자 정의 broadLogRcp 스키마를 식별하고 선택합니다. 기본 제공 게재 로그 스키마를 아직 확장하지 않은 경우 [이 절차](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema)를 참조하세요.
 
 1. 스키마 편집기에 수신자 스키마와 동일한 사용자 지정 필드를 추가합니다.
 
@@ -50,7 +50,7 @@ ht-degree: 3%
 
 1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
-1. 스키마에 수정 사항을 적용하려면 **[!UICONTROL 도구]** > **[!UICONTROL 고급]** > **[!UICONTROL 데이터베이스 구조 업데이트]**&#x200B;를 통해 데이터베이스 업데이트 마법사를 시작하고 데이터베이스 구조 업데이트를 실행하십시오. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/update-database-structure)
+1. 스키마에 수정 사항을 적용하려면 **[!UICONTROL 도구]** > **[!UICONTROL 고급]** > **[!UICONTROL 데이터베이스 구조 업데이트]**&#x200B;를 통해 데이터베이스 업데이트 마법사를 시작하고 데이터베이스 구조 업데이트를 실행하십시오. [자세히 알아보기](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/developer/shemas-forms/update-database-structure)
 
    ![](assets/custom_field_4.png)
 

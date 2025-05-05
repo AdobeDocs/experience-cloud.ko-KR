@@ -41,7 +41,7 @@ ht-degree: 100%
 
 1. 이 트리거에 사용된 Analytics **[!UICONTROL 보고서 세트]**&#x200B;를 선택합니다. 이 설정은 사용할 보고 데이터를 식별합니다.
 
-   [보고서 세트에 대해 자세히 알아보십시오](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html){target="_blank"}.
+   [보고서 세트에 대해 자세히 알아보십시오](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html?lang=ko){target="_blank"}.
 
 1. 유효 기간 동안 **[!UICONTROL 액션이 없을 경우 트리거]**&#x200B;를 선택합니다.
 

@@ -26,7 +26,7 @@ ht-degree: 18%
 
 >[!TAB Adobe Campaign V8]
 
-게재 템플릿을 만들려면 기본 제공 템플릿을 복제하거나, 기존 게재를 템플릿으로 변환하거나, 처음부터 게재 템플릿을 만들 수 있습니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/create-templates)
+게재 템플릿을 만들려면 기본 제공 템플릿을 복제하거나, 기존 게재를 템플릿으로 변환하거나, 처음부터 게재 템플릿을 만들 수 있습니다. [자세히 알아보기](https://experienceleague.adobe.com/ko/docs/campaign/campaign-v8/send/create-templates)
 
 일단 템플릿이 생성되면 브랜드에 연결할 수 있습니다. 방법은 다음과 같습니다.
 
@@ -50,7 +50,7 @@ ht-degree: 18%
 
 >[!TAB Adobe Campaign 웹]
 
-게재 템플릿을 만들려면 기본 제공 템플릿을 복제하거나, 기존 게재를 템플릿으로 변환하거나, 처음부터 게재 템플릿을 만들 수 있습니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/delivery-template)
+게재 템플릿을 만들려면 기본 제공 템플릿을 복제하거나, 기존 게재를 템플릿으로 변환하거나, 처음부터 게재 템플릿을 만들 수 있습니다. [자세히 알아보기](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/msg/delivery-template)
 
 일단 템플릿이 생성되면 브랜드에 연결할 수 있습니다. 방법은 다음과 같습니다.
 
@@ -98,7 +98,7 @@ ht-degree: 18%
 
 1. 구성이 완료되면 **확인**&#x200B;을 선택합니다.
 
-1. 게재를 개인화할 수 있습니다. 전자 메일 만들기에 대한 자세한 내용은 [전자 메일 디자인 및 보내기](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email) 섹션을 참조하세요.
+1. 게재를 개인화할 수 있습니다. 전자 메일 만들기에 대한 자세한 내용은 [전자 메일 디자인 및 보내기](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/msg/email/create-email) 섹션을 참조하세요.
 
 >[!TAB Adobe Campaign 웹]
 
@@ -124,6 +124,6 @@ ht-degree: 18%
 
    ![](assets/branding_assign_web_7.png)
 
-1. 게재를 개인화할 수 있습니다. 전자 메일 만들기에 대한 자세한 내용은 [첫 번째 전자 메일 만들기](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email) 섹션을 참조하세요.
+1. 게재를 개인화할 수 있습니다. 전자 메일 만들기에 대한 자세한 내용은 [첫 번째 전자 메일 만들기](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/msg/email/create-email) 섹션을 참조하세요.
 
 >[!ENDTABS]

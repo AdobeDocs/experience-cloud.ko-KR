@@ -26,7 +26,7 @@ ht-degree: 18%
 
 Campaign에서 조직의 새 엔터티를 추가하거나 다른 하위 도메인에서 보내야 하는 새 유형의 이메일을 만들 수 있습니다. 이렇게 하려면 아래 단계를 수행합니다.
 
-1. **새 하위 Adobe 구성** - 도메인에서 사용할 새 하위 도메인의 경우 첫 번째 단계는 하위 도메인을 구성하는 것입니다. [Campaign Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/subdomains-branding.html?lang=ko)을 통해 수행하거나 Adobe 기술 담당자에게 문의할 수 있습니다. 하위 도메인 구성 [에 대한 자세한 내용은 이 페이지](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/campaign/ac-domain-name-setup)를 참조하세요.
+1. **새 하위 Adobe 구성** - 도메인에서 사용할 새 하위 도메인의 경우 첫 번째 단계는 하위 도메인을 구성하는 것입니다. [Campaign Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/subdomains-branding.html?lang=ko)을 통해 수행하거나 Adobe 기술 담당자에게 문의할 수 있습니다. 하위 도메인 구성 [에 대한 자세한 내용은 이 페이지](https://experienceleague.adobe.com/ko/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/campaign/ac-domain-name-setup)를 참조하세요.
 
    >[!NOTE]
    >
