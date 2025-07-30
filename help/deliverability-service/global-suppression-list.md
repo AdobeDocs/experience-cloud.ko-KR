@@ -3,10 +3,10 @@ title: 글로벌 금지 목록
 description: 글로벌 금지 목록 살펴보기
 hide: true
 exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
-source-git-commit: b66e2525694c771ebb7ac5190b7259ef5658d81a
+source-git-commit: 9d12eece2ca9f8f36951f8575bb0ac42bc10a728
 workflow-type: tm+mt
 source-wordcount: '618'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >이 필드에는 32~126 사이로 구성된 모든 ASCII 인쇄 가능 문자가 허용됩니다. 전체 목록은 [이 페이지](https://en.wikipedia.org/wiki/Wikipedia:ASCII#ASCII_printable_characters){target="_blank"}에서 확인할 수 있습니다.
+   >이 필드에는 32~126 사이로 구성된 모든 ASCII 인쇄 가능 문자가 허용됩니다. 예를 들어 [이 페이지](https://en.wikipedia.org/wiki/Wikipedia:ASCII#ASCII_printable_characters){target="_blank"}에서 전체 목록을 찾을 수 있습니다.
 
 1. **[!UICONTROL 제출]**&#x200B;을 클릭하여 확인합니다.
 
@@ -81,7 +81,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >**댓글** 열에는 32~126 사이로 구성된 모든 ASCII 문자가 허용됩니다. 전체 목록은 [이 페이지](https://en.wikipedia.org/wiki/Wikipedia:ASCII#ASCII_printable_characters){target="_blank"}에서 확인할 수 있습니다.
+   >**댓글** 열에는 32~126 사이로 구성된 모든 ASCII 문자가 허용됩니다. 예를 들어 [이 페이지](https://en.wikipedia.org/wiki/Wikipedia:ASCII#ASCII_printable_characters){target="_blank"}에서 전체 목록을 찾을 수 있습니다.
 
 1. 완료되면 CSV 파일을 드래그 앤 드롭한 다음 **[!UICONTROL 제출]**&#x200B;을 클릭하여 확인합니다.
 
