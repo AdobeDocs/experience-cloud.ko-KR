@@ -4,11 +4,11 @@ description: API를 사용하여 트랜잭션 메시지를 관리하는 방법�
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-role: Data Engineer
+role: Developer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: 00d39438-a232-49f1-ae5e-1e98c73397e3
-source-git-commit: 110fcdcbefef53677cf213a39f45eb5d446807c2
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 1%

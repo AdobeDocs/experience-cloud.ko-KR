@@ -1,11 +1,11 @@
 ---
 title: 구독 검색
 description: API로 구독을 검색하는 방법 알아보기
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
+badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: 6d935074-3196-45c5-97cd-ccb7c80bbba8
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 이 절차는 두 단계로 구성됩니다.
 
 1. 원하는 서비스에 대한 구독 URL을 검색합니다.
-1. 구독 URL에 대한 GET 요청을 수행합니다. 서비스에 대한 구독 목록을 각 관련 프로필과 함께 반환합니다.
+1. 구독 URL에 대해 GET 요청을 수행합니다. 서비스에 대한 구독 목록을 각 관련 프로필과 함께 반환합니다.
 
 >[!CAUTION]
 >
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ***샘플 요청***
 
-서비스를 검색하려면 GET 요청을 수행하십시오.
+GET 요청을 수행하여 서비스를 검색합니다.
 
 ```
 -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/service/<PKEY> \
@@ -53,7 +53,7 @@ ht-degree: 0%
   },
 ```
 
-구독 URL에 대한 GET 요청을 수행합니다.
+구독 URL에 대해 GET 요청을 수행합니다.
 
 ```
 -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/service/<PKEY>/subscriptions \
@@ -85,13 +85,13 @@ ht-degree: 0%
 이 절차는 두 단계로 구성됩니다.
 
 1. 주어진 프로필에 대한 구독 URL을 검색합니다.
-1. URL에 대해 GET 요청을 수행합니다. 프로필에 대한 구독 목록과 각 관련 서비스를 반환합니다.
+1. URL에서 GET 요청을 수행합니다. 프로필에 대한 구독 목록과 각 관련 서비스를 반환합니다.
 
 <br/>
 
 ***샘플 요청***
 
-프로필을 검색하려면 GET 요청을 수행하십시오.
+GET 요청을 수행하여 프로필을 검색합니다.
 
 ```
 -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/profile/<PKEY> \
@@ -115,7 +115,7 @@ ht-degree: 0%
   }
 ```
 
-구독 URL에 대한 GET 요청을 수행합니다.
+구독 URL에 대해 GET 요청을 수행합니다.
 
 ```
 -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/profile/<PKEY>/subscriptions \

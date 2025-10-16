@@ -4,11 +4,11 @@ description: 카운트 작업을 수행하는 방법을 알아봅니다.
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
+badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: d6354249-3b0d-4532-951f-b0fae953f7e1
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 2%
@@ -23,7 +23,7 @@ Adobe Campaign REST API는 요청의 레코드 수를 카운트할 수 있습니
 
 ***샘플 요청***
 
-**messageType** 값이 &quot;sms&quot;인 모든 서비스를 계산하려면 **byChannel** 필터로 GET 요청을 수행하십시오.
+&quot;sms&quot;와 동일한 **messageType** 값이 있는 모든 서비스를 계산하려면 **byChannel** 필터로 GET 요청을 수행하십시오.
 
 ```
 -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/service/byChannel?channel=sms \
@@ -54,7 +54,7 @@ Adobe Campaign REST API는 요청의 레코드 수를 카운트할 수 있습니
 }
 ```
 
-**count** 노드의 URL에 대해 GET 요청을 수행하여 결과 수를 검색합니다.
+**count** 노드의 URL에서 GET 요청을 수행하여 결과 수를 검색합니다.
 
 ```
 -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/service/byChannel/_count?channel=sms&_lineStart=@iKTZ2q3IiSEDqZ5Nw1vdoGnQCqF-8DAUJRaVwR9obqqTxhMy \

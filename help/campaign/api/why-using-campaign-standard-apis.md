@@ -4,11 +4,11 @@ description: Campaign Standard API 및 이를 사용하는 이유에 대해 자�
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
+badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: ef045e5d-cd02-44a0-9a1e-d468483a38d9
-source-git-commit: 6e4e214731b9772014d01dde89b3f80e4c4e93a6
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 1%
@@ -28,7 +28,7 @@ Adobe Campaign Standard은 기존 시스템을 Campaign 플랫폼과 통합하�
   <!--* Event based transactional communication triggering – order confirmation, booking Itinerary, password reset, etc.-->
 * 장바구니 포기 전자 메일 통신까지.
 
-랜딩 페이지에 등록하면 고객 또는 잠재 고객이 이름과 이메일 주소를 등록할 수 있습니다. Campaign Standard이 프로필 정보 및 환경 설정을 캡처하면 사용자의 관심사에 따라 개인화된 메시지를 보낼 수 있습니다.
+랜딩 페이지에 등록하면 고객 또는 잠재 고객이 이름과 이메일 주소를 등록할 수 있습니다. Campaign Standard이 프로필 정보 및 환경 설정을 캡처하면 개인의 관심사에 따라 개인화된 메시지를 보낼 수 있습니다.
 
 이 요소는 아래 요소로 빌드됩니다.
 
@@ -46,7 +46,7 @@ Adobe Campaign Standard은 기존 시스템을 Campaign 플랫폼과 통합하�
 
 Campaign Standard API 요청을 숙지하는 데 도움이 되는 요청 컬렉션을 사용할 수 있습니다. JSON 형식의 이 컬렉션은 일반적인 사용 사례를 나타내는 미리 디자인된 API 요청을 제공합니다.
 
-아래 단계에서는 컬렉션을 가져와 Campaign Standard 데이터베이스에서 프로필을 만드는 데 사용하는 단계별 사용 사례를 설명합니다.
+아래 단계에서는 컬렉션을 가져오고 사용하여 Campaign Standard 데이터베이스에서 프로필을 만드는 단계별 사용 사례를 설명합니다.
 
 >[!NOTE]
 >
@@ -72,6 +72,6 @@ Campaign Standard API 요청을 숙지하는 데 도움이 되는 요청 컬렉�
 
    ![대체 텍스트](assets/postman_uc3.png)
 
-1. Campaign Standard 인스턴스를 열고 페이로드의 모든 정보와 함께 프로필이 생성되었는지 확인합니다.
+1. Campaign Standard 인스턴스를 열고 페이로드의 모든 정보를 사용하여 프로필이 생성되었는지 확인합니다.
 
    ![대체 텍스트](assets/postman_uc4.png)

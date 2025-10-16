@@ -1,11 +1,11 @@
 ---
 title: 프로필 업데이트
 description: API를 사용하여 프로필을 업데이트하는 방법에 대해 자세히 알아보기
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
+badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: fa3796ee-a00c-4d70-bf3d-e8d2099f1116
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 1%
@@ -22,13 +22,13 @@ ht-degree: 1%
 
 1. 두 번째 요청에서는 페이로드에 완료된 정보가 있는 프로필에 대해 **PATCH 요청**&#x200B;을 수행합니다.
 
-1. PATCH 요청이 GET을 업데이트했는지 확인하기 위해 최종 프로필 요청을 수행할 수 있습니다.
+1. PATCH 요청이 프로필을 업데이트했는지 확인하기 위해 최종 GET 요청을 수행할 수 있습니다.
 
 <br/>
 
 ***샘플 요청***
 
-프로필 검색에 대한 샘플 GET 요청.
+프로필 검색을 위한 샘플 GET 요청.
 
 ```
 -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/profile/<PKEY>\
@@ -54,7 +54,7 @@ ht-degree: 1%
 }
 ```
 
-&quot;phone&quot; 속성을 업데이트하라는 PATCH 요청입니다.
+PATCH에서 &quot;phone&quot; 속성을 업데이트하도록 요청합니다.
 
 ```
 -X PATCH https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/profile/<PKEY> \

@@ -1,11 +1,11 @@
 ---
 title: 프로필 검색
 description: API를 사용하여 프로필을 검색하는 방법에 대해 자세히 알아보기
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
+badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: 19679804-f728-49fa-b26e-8f31b67c29bf
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 4%
@@ -24,7 +24,7 @@ ht-degree: 4%
 
 ***샘플 요청***
 
-* 모든 프로필을 검색하기 위한 샘플 GET 요청입니다.
+* 모든 프로필을 검색하기 위한 샘플 GET 요청.
 
   ```
   -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/profile \
@@ -50,7 +50,7 @@ ht-degree: 4%
   }
   ```
 
-* 처음 10개의 이메일 값을 검색하는 샘플 GET 요청입니다.
+* 처음 10개의 이메일 값을 검색하는 샘플 GET 요청.
 
   ```
   -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/profile/email?_lineCount=10 \

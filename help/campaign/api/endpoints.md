@@ -4,11 +4,11 @@ description: API 엔드포인트에 대해 자세히 알아보십시오.
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
+badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: 9f6d3da6-374d-47f5-bc8f-b31b19cbb5ca
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 9%
@@ -26,8 +26,8 @@ Adobe Campaign REST API에 사용할 수 있는 엔드포인트:
 
 기본적으로 **profileAndServices** 및 **profileAndServicesExt** API에 사용할 수 있는 기본 리소스는 다음과 같습니다.
 
-* **/profile**: Campaign 데이터베이스의 프로필과 상호 작용합니다. 서비스에 프로필을 추가하려면 **/service** 끝점을 사용하세요. Campaign의 프로필에 대한 자세한 내용은 [Campaign 설명서](https://helpx.adobe.com/kr/campaign/standard/audiences/using/about-profiles.html)를 참조하세요.
-* **/service**: 구독 서비스를 관리합니다. Campaign의 서비스에 대한 자세한 내용은 [Campaign 설명서](https://helpx.adobe.com/kr/campaign/standard/audiences/using/creating-a-service.html)를 참조하세요.
+* **/profile**: Campaign 데이터베이스의 프로필과 상호 작용합니다. 서비스에 프로필을 추가하려면 **/service** 끝점을 사용하세요. Campaign의 프로필에 대한 자세한 내용은 [Campaign 설명서](https://helpx.adobe.com/campaign/standard/audiences/using/about-profiles.html)를 참조하세요.
+* **/service**: 구독 서비스를 관리합니다. Campaign의 서비스에 대한 자세한 내용은 [Campaign 설명서](https://helpx.adobe.com/campaign/standard/audiences/using/creating-a-service.html)를 참조하세요.
 
 >[!NOTE]
 >

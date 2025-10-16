@@ -4,11 +4,11 @@ description: Campaign Standard API에 대한 액세스를 설정하는 방법을
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
+badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: efbbd0cd-9c56-4ad0-8bcb-efba4b63c28b
-source-git-commit: 18979fea28f4f3adce1139293203a59876831313
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 27%
@@ -21,11 +21,11 @@ Adobe Campaign Standard API 액세스는 아래 단계를 통해 설정됩니다
 
 >[!IMPORTANT]
 >
->[Adobe Developer](https://developer.adobe.com/)에서 인증서를 관리하려면 조직에 대한 **시스템 관리자** 권한 또는 Admin Console에 있는 [개발자 계정](https://helpx.adobe.com/jp/enterprise/using/manage-developers.html)이 있는지 확인하십시오.
+>[Adobe Developer](https://developer.adobe.com/)에서 인증서를 관리하려면 조직에 대한 **시스템 관리자** 권한 또는 Admin Console의 [개발자 계정](https://helpx.adobe.com/jp/enterprise/using/manage-developers.html)이 있는지 확인하십시오.
 
 1. **디지털 인증서가 있는지 확인**&#x200B;하고, 필요한 경우 만들 수 있습니다. 인증서와 함께 제공된 공개 및 비공개 키는 다음 단계에서 필요합니다.
-1. [Adobe Developer](https://developer.adobe.com/)에서 **Adobe Campaign 서비스에 대한 새 통합을 만들고** 구성합니다. 그러면 자격 증명이 생성됩니다(API 키, 클라이언트 암호 등).
-1. **다음 [구현 단계](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/)에 따라 OAuth 서버 간 자격 증명을 만듭니다**
+1. **Adobe Developer**&#x200B;에서 [Adobe Campaign 서비스에 대한 새 통합을 만들고](https://developer.adobe.com/) 구성합니다. 그러면 자격 증명이 생성됩니다(API 키, 클라이언트 암호 등).
+1. **다음**&#x200B;구현 단계[에 따라 OAuth 서버 간 자격 증명을 만듭니다](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/)
 
    >[!IMPORTANT]
    >
@@ -44,12 +44,12 @@ Adobe Campaign Standard API 액세스는 아래 단계를 통해 설정됩니다
 -H 'X-Api-Key: <API_KEY>'
 ```
 
-* **&lt;조직>**: 개인 조직 ID이며 각 인스턴스에 대해 Adobe이 제공한 조직 ID가 하나입니다.
+* **&lt;조직>**: 개인 조직 ID이며, Adobe에서 각 인스턴스에 대해 하나의 조직 ID를 제공합니다.
 
    * &lt;조직> : 프로덕션 인스턴스,
    * &lt;ORGANIZATION-mkt-stage>: 단계 인스턴스입니다.
 
-  조직 ID 값은 관리자 또는 Adobe 기술 담당자에게 문의하십시오. 라이선스 목록에서 새 통합을 만들 때 Adobe I/O으로 검색할 수도 있습니다(<a href="https://developer.adobe.com/developer-console/docs/guides/authentication/">Adobe Developer 설명서</a> 참조).
+  조직 ID 값은 관리자 또는 Adobe 기술 담당자에게 문의하십시오. 라이선스 목록에서 새 통합을 만들 때 Adobe I/O에서 검색할 수도 있습니다(<a href="https://developer.adobe.com/developer-console/docs/guides/authentication/">Adobe Developer 설명서</a> 참조).
 
 * **&lt;ACCESS_TOKEN>**: POST 요청을 통해 JSON 웹 토큰을 교환할 때 검색된 개인 액세스 토큰입니다.
 

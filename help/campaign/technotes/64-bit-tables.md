@@ -1,18 +1,18 @@
 ---
 title: Adobe Campaign 웹 사용자 인터페이스
 description: 64비트 테이블
-badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
+badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: ab5f01fd-4ad5-46e9-b132-011fe0f7bbd2
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 6%
+source-wordcount: '163'
+ht-degree: 7%
 
 ---
 
-# 64비트 스키마 {#64-bit-tables}
+# 64비트 스키마 {#sixty-four-bit-tables}
 
-Campaign Standard에서 Campaign v8로 간편하게 전환하기 위해 몇 개의 표가 32비트에서 64비트로 변경되었습니다. 실제로, Campaign Standard은 여러 기본 스키마에서 64비트 PK를 지원하는 반면, Campaign v8은 대부분의 스키마에서 32비트 PK를 지원합니다.
+Campaign Standard에서 Campaign v8로 간편하게 전환하기 위해 몇 개의 표가 32비트에서 64비트로 변경되었습니다. 실제로 Campaign Standard은 여러 기본 스키마에서 64비트 PK를 지원하는 반면, Campaign v8은 대부분의 스키마에서 32비트 PK를 지원합니다.
 
 ## 제한 사항
 
@@ -34,7 +34,7 @@ Campaign Standard에서 Campaign v8로 간편하게 전환하기 위해 몇 개�
 | nms:trackingLogVisitor | ID |
 | nms:propositionRcp | interactionId |
 | nms:propositionVisitor | interactionId |
-| nms:webTrack링 로그 | ID |
+| nms:webTrackingLog | ID |
 | nms:tmpBroadcast | message-id |
 | nms:tmpMarketingPressure | message-id |
 | nms:tmpBroadcastExclusion | message-id |

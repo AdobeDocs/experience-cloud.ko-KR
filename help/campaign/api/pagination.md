@@ -4,11 +4,11 @@ description: 페이지 매김 작업을 수행하는 방법에 대해 알아봅�
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
+badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: d6ebce3c-1e84-4b3b-a68d-90df4680af64
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 1%
@@ -31,7 +31,7 @@ ht-degree: 1%
 
 ***샘플 요청***
 
-프로필 리소스의 1개 레코드를 표시하는 샘플 GET 요청.
+프로필 리소스의 레코드 1개를 표시하는 샘플 GET 요청.
 
 ```
 -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/profile?_lineCount=1 \
@@ -74,4 +74,4 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->테이블 크기가 큰 것으로 간주되는 레코드 수가 Campaign Standard **XtkBigTableThreshold** 옵션에 정의되어 있습니다. 기본값은 100,000 레코드입니다.
+>테이블 크기가 큰 것으로 간주되는 레코드 수는 Campaign Standard **XtkBigTableThreshold** 옵션에 정의되어 있습니다. 기본값은 100,000 레코드입니다.
