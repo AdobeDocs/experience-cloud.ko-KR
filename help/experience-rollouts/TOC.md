@@ -2,10 +2,10 @@
 audience: user
 user-guide-title: Adobe Experience 롤아웃
 user-guide-description: Adobe Experience 롤아웃을 사용하여 애플리케이션 전반에서 기능 플래그, 제어된 롤아웃 및 타겟팅된 릴리스를 관리하는 방법을 알아봅니다.
-source-git-commit: cd1d882942705f51440ae99f4ce6daf467d3283c
+source-git-commit: db719ba7b9db91aea818d8ef216a28fcedc6aa65
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 6%
+source-wordcount: '340'
+ht-degree: 5%
 
 ---
 
@@ -77,10 +77,6 @@ ht-degree: 6%
       + [환경에 애플리케이션 연결](guides/cross-environment/associate-environments.md)
       + [환경 간 기능 플래그 보기](guides/cross-environment/view-feature-flags-across-environments.md)
       + [기능 플래그 가져오기](guides/cross-environment/import-feature-flags.md)
-   + 자동화된 롤아웃 {#automated-rollouts}
-      + [자동화된 롤아웃 만들기](guides/automated-rollouts/create-automated-rollout.md)
-      + [자동화된 롤아웃 개념](guides/automated-rollouts/automated-rollout-concept.md)
-      + [롤아웃 계획 모니터링 및 편집](guides/automated-rollouts/monitor-edit-rollout-plan.md)
    + 지원 {#support}
       + [문제 해결](guides/support/troubleshooting.md)
       + [지원 받기](guides/support/get-support.md)
@@ -93,14 +89,14 @@ ht-degree: 6%
          + [Node.js SDK 통합 안내서](guides/sdk-releases/nodejs/nodejs-sdk-integration-guide.md)
          + [Node.js SDK 릴리스 노트](guides/sdk-releases/nodejs/nodejs-sdk-release-notes.md)
       + [SDK 벤치마킹](guides/sdk-releases/java-sdk-benchmarking.md)
-<!--+ Feature API {#feature-api}
-  + [GET Feature API V3](feature-api/get-feature-api-v3.md)
-  + [GET Feature API V2](feature-api/get-feature-api-v2.md)
-+ Management API {#management-api}
-  + [Feature management APIs overview](management-api/feature-management-apis-overview.md)
-  + [Feature flags management API](management-api/feature-flags-management-api.md)
-  + [Feature group management API](management-api/feature-group-management-api.md)
-  + [Release management APIs](management-api/release-management-apis.md)
-  + [Get client ID for an application](management-api/get-client-id.md)
-  + [Get desired audience criteria](management-api/get-audience-criteria.md)
-  + [Management patch API](management-api/management-patch-api.md)-->
++ 기능 API {#feature-api}
+   + [GET 기능 API V3](feature-api/get-feature-api-v3.md)
+   + [GET 기능 API V2](feature-api/get-feature-api-v2.md)
++ 관리 API {#management-api}
+   + [기능 관리 API 개요](management-api/feature-management-apis-overview.md)
+   + [기능 플래그 관리 API](management-api/feature-flags-management-api.md)
+   + [기능 그룹 관리 API](management-api/feature-group-management-api.md)
+   + [릴리스 관리 API](management-api/release-management-apis.md)
+   + [애플리케이션에 대한 클라이언트 ID 가져오기](management-api/get-client-id.md)
+   + [원하는 대상 기준 가져오기](management-api/get-audience-criteria.md)
+   + [관리 패치 API](management-api/management-patch-api.md)

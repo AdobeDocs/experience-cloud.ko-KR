@@ -1,9 +1,9 @@
 ---
 title: 기능 그룹 관리 API
 description: 기능 그룹의 롤아웃 계획을 가져오고, 만들고, 업데이트하고, 삭제하고, 제어할 끝점을 포함하여 경험 롤아웃 기능 그룹 관리 API에 대한 API 참조입니다.
-source-git-commit: 8a92b7a3e8c52da8bb2474f52c831e159420b878
+source-git-commit: db719ba7b9db91aea818d8ef216a28fcedc6aa65
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '575'
 ht-degree: 14%
 
 ---
@@ -90,28 +90,6 @@ ht-degree: 14%
 }
 ```
 
-**샘플 — 자동 롤아웃:**
-
-```json
-{
-  "params": { "rolloutType": "automated", "label": "my-automated-group", "tags": [] },
-  "status": "SAVED",
-  "type": "group",
-  "name": "my.automated.group",
-  "variations": [{ "variantPercentage": 100, "variantName": "Variant 1", "features": [] }],
-  "phaseRollOutPlan": {
-    "phaseRollOutBlocks": [
-      { "isPhaseBlock": true, "phaseRule": { "audience": [] }, "waitRule": null, "blockId": 1, "blockName": "", "isBlockActivated": false },
-      { "isPhaseBlock": false, "phaseRule": null, "waitRule": { "waitDuration": { "val": "2", "unit": "HOURS" } }, "blockId": 2, "blockName": "", "isBlockActivated": false },
-      { "isPhaseBlock": true, "phaseRule": { "audience": [] }, "waitRule": null, "blockId": 3, "blockName": "", "isBlockActivated": false }
-    ],
-    "rollOutPlanState": "DRAFT"
-  },
-  "clients": [],
-  "org": { "id": 95 }
-}
-```
-
 ### 응답 {#create-response}
 
 | 상태 | 설명 |
@@ -136,29 +114,6 @@ ht-degree: 14%
 | `200` | 성공. 응답 본문은 업데이트된 피쳐 그룹 개체입니다. |
 | `400` | 잘못된 페이로드. |
 | `403` | 권한이 부족합니다. |
-
-## 롤아웃 계획 일시 중지, 재시작 또는 중단 {#pause-resume-abort}
-
-진행 중인 자동 또는 A/B 테스트 롤아웃 계획의 실행을 제어합니다.
-
-| 작업 | 엔드포인트 |
-|---|---|
-| **다시 시작** | `POST /m/api/v1/mgmt/phaserollout/resume` |
-| **일시 중지** | `POST /m/api/v1/mgmt/phaserollout/pause` |
-| **중단** | `POST /m/api/v1/mgmt/phaserollout/abort` |
-
-### 요청 본문 {#control-request-body}
-
-```json
-{
-  "entityId": 10282,
-  "fgEntityType": "GROUP"
-}
-```
-
-### 응답 {#control-response}
-
-성공 시 `true`을(를) 반환합니다.
 
 ## 기능 그룹 삭제 {#delete-group}
 
@@ -230,4 +185,3 @@ ht-degree: 14%
 * [기능 관리 API 개요](feature-management-apis-overview.md)
 * [기능 플래그 관리 API](feature-flags-management-api.md)
 * [관리 패치 API](management-patch-api.md)
-* [자동화된 롤아웃 만들기](../guides/automated-rollouts/create-automated-rollout.md)

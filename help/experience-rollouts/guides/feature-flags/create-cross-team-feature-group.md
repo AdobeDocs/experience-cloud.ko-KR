@@ -1,9 +1,9 @@
 ---
 title: 팀 간 기능 그룹 만들기
 description: Adobe Experience Rollouts에서 팀 간 기능 그룹을 만들어 서로 다른 팀이 소유한 애플리케이션 간에 기능 플래그를 조정하는 방법을 알아봅니다.
-source-git-commit: a1ed4582217001ffcf500cd7b634d9959adbe028
+source-git-commit: db719ba7b9db91aea818d8ef216a28fcedc6aa65
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '594'
 ht-degree: 1%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 1%
 제목, 키, 설명 및 선택적으로 태그를 제공합니다. 다음 옵션을 구성합니다.
 
 * **롤아웃 비율** — 대상자가 기능을 받는 양을 설정합니다.
-* **롤아웃 유형** — 수동 또는 자동화를 선택합니다. 자동 롤아웃 작동 방식에 대한 자세한 내용은 [자동 롤아웃](../automated-rollouts/automated-rollout-concept.md)을 참조하십시오.
+* **롤아웃 유형** — 수동으로 설정합니다. 비율은 롤아웃이 진행됨에 따라 단계별로 관리됩니다.
 
 >[!NOTE]
 >
@@ -91,4 +91,3 @@ ht-degree: 1%
 
 * [릴리스 및 팀 간 기능 그룹](releases-and-cross-team-feature-groups.md)
 * [기능 그룹 만들기](create-a-feature-group.md)
-* [자동화된 롤아웃 만들기](../automated-rollouts/create-automated-rollout.md)
