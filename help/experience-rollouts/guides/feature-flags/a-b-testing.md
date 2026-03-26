@@ -1,13 +1,13 @@
 ---
 title: 기능 플래그를 사용하여 A/B 테스트
 description: 기능 플래그 세트에 대해 여러 변형을 구성하여 Adobe Experience 롤아웃의 기능 그룹을 사용하여 A/B 테스트를 실행하는 방법을 알아봅니다.
-source-git-commit: d311efb995b20ffc17370d68d57dd84a8605896c
+exl-id: bb849049-229c-40ff-bbfe-7996f868bcc3
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '367'
 ht-degree: 1%
 
 ---
-
 
 # 기능 플래그를 사용하여 A/B 테스트 {#a-b-testing}
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 * 콘솔에 액세스할 수 있습니다. [콘솔에 로그인](../console/log-in-to-the-console.md)을 참조하세요.
 * 팀에 속해 있고 애플리케이션이 온보딩되었습니다.
-* **개발자** 또는 **제품 릴리스 소유자** 역할이 있습니다. [사용자 역할](../teams/user-roles.md) 참조
+* **개발자** 또는 **제품 릴리스 소유자** 역할이 있습니다.
 * 테스트할 기능 플래그를 만들었습니다. [첫 번째 기능 플래그 만들기](create-your-first-feature-flag.md)를 참조하십시오.
 
 ## 1단계: 여러 변형이 있는 기능 그룹 만들기 {#create}

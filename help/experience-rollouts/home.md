@@ -2,9 +2,9 @@
 title: Adobe Experience 롤아웃
 description: Adobe Experience 롤아웃을 사용하여 제어된 롤아웃, 기능 플래그 및 타겟팅된 대상 관리를 통해 안전하고 점진적으로 기능을 전달하는 방법을 알아봅니다.
 exl-id: c400d75d-d928-4cf6-a094-1a2f443389f0
-source-git-commit: 65effd7e3b12404359e3693820bbf9e5080bea03
+source-git-commit: 4a3133f014a9bb9d6ed26eb9d9f763db79ce63b3
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '343'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ Adobe Experience Rollouts를 통해 제품 팀은 재배포나 중단 없이 새
 
 3. **응용 프로그램과 통합** - 런타임 시 기능 플래그를 검색하고 적용할 수 있도록 앱을 Experience Rollouts API 또는 SDK에 연결합니다. 응용 프로그램 유형에 대한 [통합 단계](guides/integrate/integration-steps.md)(으)로 시작합니다.
 
-첫 번째 플래그가 활성 상태가 되면 대상을 세분화하고, 점진적인 롤아웃을 구성하고, [릴리스 상태](guides/feature-flags/release-states.md)를 통해 저장에서 전체 롤아웃으로 승격할 수 있습니다.
+첫 번째 플래그가 라이브되면 대상을 세분화하고, 점진적 롤아웃을 구성하고, 저장에서 전체 롤아웃으로 승격할 수 있습니다.
 
 ## 도움이 필요하십니까?
 

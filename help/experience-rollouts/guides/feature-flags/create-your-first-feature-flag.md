@@ -1,13 +1,13 @@
 ---
 title: 첫 번째 기능 플래그 만들기
 description: Adobe Experience 롤아웃에서 기능 플래그를 만들고, 대상자를 설정하고, 사용자에게 롤아웃하기 전에 테스트하는 방법을 알아봅니다.
-source-git-commit: ae420329b94b24fcd173734b414aecf1c5fc16ca
+exl-id: ae115120-8da9-465e-a556-c17591ea7054
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
-
 
 # 첫 번째 기능 플래그 만들기 {#create-feature-flag}
 
@@ -16,9 +16,8 @@ ht-degree: 0%
 기능 플래그를 만들기 전에 다음을 완료하십시오.
 
 * 경험 롤아웃 콘솔에 액세스할 수 있습니다. [콘솔에 로그인](../console/log-in-to-the-console.md)을 참조하십시오.
-* 팀에 속해 있습니다. [팀 관리](../teams/manage-teams.md)를 참조하세요.
 * 응용 프로그램이 온보딩되었습니다. [응용 프로그램 온보딩](../applications/onboard-your-application.md)을 참조하십시오.
-* **개발자** 또는 **제품 릴리스 소유자** 역할이 있습니다. [사용자 역할](../teams/user-roles.md) 참조
+* **개발자** 또는 **제품 릴리스 소유자** 역할이 있습니다.
 
 ## 1단계: 기능 플래그 만들기 {#create}
 
@@ -61,4 +60,3 @@ ht-degree: 0%
 
 * [점진적으로 롤아웃할 기능 설정](set-feature-gradual-rollout.md)
 * [기능 그룹 만들기](create-a-feature-group.md)
-* [사용자 역할](../teams/user-roles.md)

@@ -1,13 +1,13 @@
 ---
 title: 애플리케이션 관리
 description: 새 애플리케이션 추가 및 팀 소유권 이해를 포함하여 Adobe Experience Rollouts에서 애플리케이션을 관리하는 방법을 알아봅니다.
-source-git-commit: 53edbee220e7ef17c4a3ea066743192c1e9681f4
+exl-id: 6109fdd5-b5f5-41ca-8690-8aa78df50499
+source-git-commit: 8dc03f77f4e13ac9196df0910b1c00904b57a934
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '167'
 ht-degree: 1%
 
 ---
-
 
 # 애플리케이션 관리 {#manage-applications}
 
@@ -28,10 +28,8 @@ ht-degree: 1%
 이 소유권 모델은 기능 그룹을 구성하는 방식에도 영향을 줍니다.
 
 * **팀 내** — 제품 릴리스 소유자는 동일한 팀이 소유한 응용 프로그램 간에 기능 플래그를 그룹화할 수 있습니다. 여러 기능을 제어하려면 [기능 그룹](../../concepts/feature-groups-to-control-multiple-features.md)을 참조하세요.
-* **팀 간** — 다른 팀이 소유한 응용 프로그램에서 기능 플래그를 그룹화해야 하는 경우 **기능 관리자** 역할이 필요한 팀 간 기능 그룹을 사용하십시오.
 
 ## 참조 - {#see-also}
 
 * [애플리케이션 온보드](onboard-your-application.md)
 * [여러 기능을 제어하는 기능 그룹](../../concepts/feature-groups-to-control-multiple-features.md)
-* [사용자 역할](../teams/user-roles.md)

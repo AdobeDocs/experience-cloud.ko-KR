@@ -1,13 +1,13 @@
 ---
 title: 지원 받기
 description: 셀프서비스 리소스를 포함한 Adobe Experience Rollouts에 대한 지원을 받는 방법 및 지원이 필요할 때 지원 요청을 제출하는 방법에 대해 알아봅니다.
-source-git-commit: d824d85c6701edc9be314713bb8e9624b183e2d2
+exl-id: f4ba9c00-941b-4c33-b42f-087113d58b0d
+source-git-commit: 4a3133f014a9bb9d6ed26eb9d9f763db79ce63b3
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
-
 
 # 지원 받기 {#get-support}
 
@@ -19,8 +19,7 @@ ht-degree: 1%
 
 * **이 설명서 검색** - 검색 기능을 사용하여 안내서, 개념 설명 및 방법 콘텐츠를 찾을 수 있습니다.
 * **기능 워크벤치 사용** - 코드를 작성하지 않고 특정 사용자에 대한 기능 플래그 평가 문제를 진단합니다. 지침은 [문제 해결](troubleshooting.md)을 참조하세요.
-* **릴리스 상태 확인** — 기능이 의도한 대상에 대해 올바른 상태인지 확인합니다. [릴리스 상태](../feature-flags/release-states.md)를 참조하세요.
-* **대상 규칙 확인** - 기능에 대한 대상 기준 및 백분율 구성을 검토하십시오. [릴리스 대상 규칙 업데이트](../feature-flags/update-release-audience-rules.md)를 참조하십시오.
+* **기능 플래그 상태 확인** — 기능 플래그가 게시되었고 대상 규칙이 올바르게 구성되었는지 확인합니다.
 
 ## 지원 요청 제출 {#submit-request}
 

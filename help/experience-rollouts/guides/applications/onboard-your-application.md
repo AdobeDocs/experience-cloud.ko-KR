@@ -1,17 +1,17 @@
 ---
 title: 애플리케이션 온보드
 description: 팀이 기능 플래그를 만들고 관리할 수 있도록 새 애플리케이션을 Adobe Experience Rollouts에 온보딩하는 방법을 알아봅니다.
-source-git-commit: 9bfe0e55e89c1d7fbd77cde63831a6a186820e24
+exl-id: d88c27a5-f490-4504-9764-5e4ce98fdf20
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '219'
 ht-degree: 1%
 
 ---
 
-
 # 애플리케이션 온보드 {#onboard-your-application}
 
-새 응용 프로그램을 추가하려면 **관리자** 역할이 있어야 합니다. 역할을 확인하거나 팀 관리자에게 요청하려면 [사용자 역할](../teams/user-roles.md)을 참조하세요.
+새 응용 프로그램을 추가하려면 **관리자** 역할이 있어야 합니다. 역할을 확인하거나 업데이트해야 하는 경우 팀 관리자에게 문의하십시오.
 
 ## 새 애플리케이션 추가 {#add-application}
 
@@ -45,5 +45,4 @@ ht-degree: 1%
 ## 참조 - {#see-also}
 
 * [애플리케이션 관리](manage-applications.md)
-* [사용자 역할](../teams/user-roles.md)
 * [콘솔에 로그인](../console/log-in-to-the-console.md)

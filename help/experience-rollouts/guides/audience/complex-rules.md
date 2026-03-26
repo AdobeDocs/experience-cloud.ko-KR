@@ -1,13 +1,13 @@
 ---
 title: 복잡한 대상 규칙
 description: 대량 값 제한 및 여러 조건에서 규칙을 분할하는 방법을 포함하여 Adobe Experience 롤아웃에서 크거나 복잡한 대상 규칙 세트로 작업하는 방법에 대해 알아봅니다.
-source-git-commit: 3f3f7145b3c58dc721cbeb850e9e8571e3255bb1
+exl-id: 37e037b6-45eb-4261-b580-30d94d8e55da
+source-git-commit: 4a3133f014a9bb9d6ed26eb9d9f763db79ce63b3
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
-
 
 # 복잡한 대상 규칙 {#complex-rules}
 
@@ -36,4 +36,3 @@ ht-degree: 0%
 
 * [기능 플래그 및 기능 그룹의 대상자](audience-in-feature-flags-and-feature-groups.md)
 * [대상 기준에 백분율 규칙 추가](adding-percentage-rules.md)
-* [릴리스 대상 규칙 업데이트](../feature-flags/update-release-audience-rules.md)

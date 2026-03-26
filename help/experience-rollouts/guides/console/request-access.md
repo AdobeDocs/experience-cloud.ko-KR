@@ -1,13 +1,13 @@
 ---
 title: 액세스 요청
 description: Adobe Experience Rollouts 팀에 대한 액세스 권한을 요청하는 방법과 신규 구성원이 사용할 수 있는 역할에 대해 알아봅니다.
-source-git-commit: 1c8fd9b42d08f657b4e6b16efae86faa04d15565
+exl-id: 30d05c90-2913-4e88-a8f9-28a142297337
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '256'
 ht-degree: 1%
 
 ---
-
 
 # 액세스 요청 {#request-access}
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 액세스를 요청하기 전에 다음을 확인하십시오.
 
-* 어느 팀에 합류할지 알잖아. 제품 또는 엔지니어링 리드에 확인하거나 [팀 및 해당 관리자](teams-and-admins.md)를 참조하여 팀 및 해당 관리자를 확인하십시오.
+* 어느 팀에 합류할지 알잖아. 제품 또는 엔지니어링 리드에 문의하여 팀과 해당 관리자를 확인하십시오.
 * 액세스해야 하는 환경(**단계**, **프로덕션** 또는 둘 다)을 알고 있습니다.
 
 ## 액세스 요청 {#request-steps}
@@ -35,7 +35,7 @@ ht-degree: 1%
 
 ## 사용 가능한 역할 {#roles}
 
-사용자에게 할당된 역할에 따라 콘솔에서 수행할 수 있는 작업이 결정됩니다. 각 역할 및 해당 권한에 대한 전체 설명은 [사용자 역할](../teams/user-roles.md)을 참조하세요.
+사용자에게 할당된 역할에 따라 콘솔에서 수행할 수 있는 작업이 결정됩니다. 요청할 역할을 잘 모를 경우 팀 관리자에게 문의하십시오.
 
 ## 액세스 권한 부여 후 {#after-access}
 
@@ -43,4 +43,4 @@ ht-degree: 1%
 
 ## 도움이 필요하십니까? {#need-help}
 
-가입할 팀을 잘 모르거나 아직 프로젝트에 대한 팀이 없는 경우 [새 팀 만들기](create-a-new-team.md)를 참조하거나 조직의 Experience Rollouts 관리자에게 문의하세요.
+가입할 팀을 잘 모르거나 프로젝트에 대한 팀이 아직 없는 경우 조직의 경험 롤아웃 관리자에게 문의하십시오.

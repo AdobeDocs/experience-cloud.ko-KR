@@ -1,17 +1,17 @@
 ---
 title: 환경에 애플리케이션 연결
 description: 개발에서 프로덕션에 이르기까지 기능 플래그를 일관되게 관리할 수 있도록 Adobe Experience 롤아웃에서 환경 간에 애플리케이션 인스턴스를 연결하는 방법을 알아봅니다.
-source-git-commit: 5c99061a7f2aaaad98190166ea6fd79b7eb26dec
+exl-id: 53080db1-f257-4369-82ab-57c84395a40a
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '441'
 ht-degree: 1%
 
 ---
 
-
 # 환경에 애플리케이션 연결 {#associate-environments}
 
-환경 간에 애플리케이션 인스턴스를 연결하면 환경 간 가시성과 가져오기 워크플로우를 사용할 수 있습니다. 이를 구성하려면 **관리자** 역할이 있어야 합니다. 역할을 확인해야 하는 경우 [사용자 역할](../teams/user-roles.md)을 참조하세요.
+환경 간에 애플리케이션 인스턴스를 연결하면 환경 간 가시성과 가져오기 워크플로우를 사용할 수 있습니다. 이를 구성하려면 **관리자** 역할이 있어야 합니다. 역할을 확인하거나 업데이트해야 하는 경우 팀 관리자에게 문의하십시오.
 
 이 방법이 유용한 이유에 대한 배경은 [환경 간 개념](cross-environment-concept.md)을 참조하세요.
 

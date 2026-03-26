@@ -1,13 +1,13 @@
 ---
 title: 릴리스 관리 API
 description: 릴리스 및 크로스 팀 기능 그룹을 가져오고, 만들고, 편집하기 위한 엔드포인트를 포함하여 Experience Rollouts 릴리스 관리 API에 대한 API 참조입니다.
-source-git-commit: 8a92b7a3e8c52da8bb2474f52c831e159420b878
+exl-id: e8d1d025-0645-4cf2-921f-d94c9f71282d
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '490'
 ht-degree: 13%
 
 ---
-
 
 # 릴리스 관리 API {#release-management-apis}
 
@@ -146,4 +146,3 @@ ht-degree: 13%
 * [기능 관리 API 개요](feature-management-apis-overview.md)
 * [기능 플래그 관리 API](feature-flags-management-api.md)
 * [기능 그룹 관리 API](feature-group-management-api.md)
-* [팀 간 기능 그룹 만들기](../guides/feature-flags/create-cross-team-feature-group.md)

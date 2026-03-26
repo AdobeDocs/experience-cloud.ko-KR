@@ -1,13 +1,13 @@
 ---
 title: 기능 그룹 만들기
 description: Adobe Experience Rollouts에서 기능 그룹을 만들어 팀 내 여러 애플리케이션에서 여러 기능 플래그를 단일 단위로 관리하는 방법을 알아봅니다.
-source-git-commit: 9bfe0e55e89c1d7fbd77cde63831a6a186820e24
+exl-id: 58148df1-84ee-4a78-a4b4-71f74cd8ce0a
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
-
 
 # 기능 그룹 만들기 {#create-feature-group}
 
@@ -16,9 +16,8 @@ ht-degree: 0%
 피쳐 그룹을 생성하기 전에 다음을 완료합니다.
 
 * 경험 롤아웃 콘솔에 액세스할 수 있습니다. [콘솔에 로그인](../console/log-in-to-the-console.md)을 참조하십시오.
-* 팀에 속해 있습니다. [팀 관리](../teams/manage-teams.md)를 참조하세요.
 * 응용 프로그램이 온보딩되었습니다. [응용 프로그램 온보딩](../applications/onboard-your-application.md)을 참조하십시오.
-* **개발자** 또는 **제품 릴리스 소유자** 역할이 있습니다. [사용자 역할](../teams/user-roles.md) 참조
+* **개발자** 또는 **제품 릴리스 소유자** 역할이 있습니다.
 * 그룹에 추가할 기능 플래그를 만들었습니다. [첫 번째 기능 플래그 만들기](create-your-first-feature-flag.md)를 참조하십시오.
 
 기능 그룹을 소개하려면 [여러 기능을 제어할 기능 그룹](../../concepts/feature-groups-to-control-multiple-features.md)을 참조하세요.
