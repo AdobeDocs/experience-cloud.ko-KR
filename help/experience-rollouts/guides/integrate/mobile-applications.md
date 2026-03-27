@@ -1,19 +1,21 @@
 ---
 title: 모바일 애플리케이션
-description: 기능 API V3를 사용하여 Adobe Experience 롤아웃을 모바일 애플리케이션에 통합하는 방법을 알아봅니다.
-source-git-commit: b82520eebe0070b5f76e0f7daeb2bb79a4bccca0
+description: 모바일 SDK을 사용하여 Adobe Experience Rollouts를 모바일 애플리케이션에 통합하는 방법을 알아봅니다.
+exl-id: 27a43994-25e7-4a2c-b01c-ae98d089413d
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 6%
+source-wordcount: '68'
+ht-degree: 8%
 
 ---
 
-
 # 모바일 애플리케이션 {#mobile-applications}
 
-모바일 애플리케이션은 기능 플래그를 검색하기 위해 **기능 API V3**&#x200B;을(를) 호출하고 애플리케이션 코드에 조건부 논리를 적용하여 경험 롤아웃과 통합됩니다.
+모바일 애플리케이션은 모바일 SDK을 통해 Experience Rollouts 와 통합됩니다.
 
-요청 매개 변수, 응답 형식 및 예제 호출을 포함한 전체 API 참조는 이 안내서의 기능 API 섹션에서 **GET 기능 API V3**&#x200B;을(를) 참조하십시오.
+>[!NOTE]
+>
+>모바일 SDK 설명서는 현재 준비 중이며 곧 제공될 예정입니다. 조기 액세스 지침은 Adobe 담당자에게 문의하십시오.
 
 ## 통합 단계 {#integration-steps}
 

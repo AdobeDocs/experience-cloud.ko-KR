@@ -2,10 +2,10 @@
 audience: user
 user-guide-title: Adobe Experience 롤아웃
 user-guide-description: Adobe Experience 롤아웃을 사용하여 애플리케이션 전반에서 기능 플래그, 제어된 롤아웃 및 타겟팅된 릴리스를 관리하는 방법을 알아봅니다.
-source-git-commit: c654ca1507abcefcff84cef9f99830042939805d
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 6%
+source-wordcount: '242'
+ht-degree: 8%
 
 ---
 
@@ -41,7 +41,6 @@ ht-degree: 6%
       + [웹 서비스](guides/integrate/web-services.md)
       + [SDK](guides/integrate/sdks.md)
       + [통합 단계](guides/integrate/integration-steps.md)
-      + [Adobe Developer Console에서 API 애플리케이션 구독](guides/integrate/subscribe-to-api-application.md)
    + 기능 플래그 {#feature-flags}
       + [기능 및 기능 그룹](guides/feature-flags/features-feature-groups-releases.md)
       + [첫 번째 기능 플래그 만들기](guides/feature-flags/create-your-first-feature-flag.md)
@@ -76,14 +75,3 @@ ht-degree: 6%
          + [Node.js SDK 통합 안내서](guides/sdk-releases/nodejs/nodejs-sdk-integration-guide.md)
          + [Node.js SDK 릴리스 노트](guides/sdk-releases/nodejs/nodejs-sdk-release-notes.md)
       + [SDK 벤치마킹](guides/sdk-releases/java-sdk-benchmarking.md)
-+ 기능 API {#feature-api}
-   + [GET 기능 API V3](feature-api/get-feature-api-v3.md)
-   + [GET 기능 API V2](feature-api/get-feature-api-v2.md)
-+ 관리 API {#management-api}
-   + [기능 관리 API 개요](management-api/feature-management-apis-overview.md)
-   + [기능 플래그 관리 API](management-api/feature-flags-management-api.md)
-   + [기능 그룹 관리 API](management-api/feature-group-management-api.md)
-   + [릴리스 관리 API](management-api/release-management-apis.md)
-   + [애플리케이션에 대한 클라이언트 ID 가져오기](management-api/get-client-id.md)
-   + [원하는 대상 기준 가져오기](management-api/get-audience-criteria.md)
-   + [관리 패치 API](management-api/management-patch-api.md)

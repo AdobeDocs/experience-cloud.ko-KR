@@ -1,13 +1,13 @@
 ---
 title: Node.js SDK 통합 안내서
 description: Experience Rollouts Node.js SDK을 백엔드 서비스에 통합하여 기능 플래그를 검색하고 평가하는 방법에 대해 알아봅니다.
-source-git-commit: 9bfe0e55e89c1d7fbd77cde63831a6a186820e24
+exl-id: 063829fe-6933-45ff-add4-285ca7391778
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '261'
 ht-degree: 1%
 
 ---
-
 
 # Node.js SDK 통합 안내서 {#nodejs-sdk-integration-guide}
 
@@ -15,14 +15,14 @@ Experience Rollouts Node.js SDK 는 Node.js 서비스를 위한 서버측 라이
 
 >[!NOTE]
 >
->Node.js SDK은 서버측에서만 사용하도록 설계되었습니다. 클라이언트측 웹 애플리케이션의 경우 기능 API V3 REST 엔드포인트를 직접 호출합니다.
+>Node.js SDK은 서버측에서만 사용하도록 설계되었습니다. 클라이언트측 웹 애플리케이션의 경우 웹 SDK을 사용합니다. 웹 SDK 설명서는 현재 준비 중이며 곧 제공될 예정입니다.
 
 ## 전제 조건 {#prerequisites}
 
 Node.js SDK을 통합하기 전에 다음을 확인하십시오.
 
 * Node.js 서버측 응용 프로그램
-* Adobe Developer Console을 통해 얻은 **API 키** 및 **서비스 토큰** — [API 애플리케이션 구독](../../integrate/subscribe-to-api-application.md) 참조
+* Adobe Developer Console을 통해 얻은 **API 키** 및 **서비스 토큰** — Experience Rollouts 지원에 문의하여 클라이언트 ID를 허용 목록에추가된으로 받으십시오
 * **응용 프로그램 클라이언트 ID**&#x200B;이(가) Experience Rollouts 콘솔에 등록되었습니다. [응용 프로그램 온보드](../../applications/onboard-your-application.md)를 참조하십시오.
 
 ## SDK 설치 {#install}
@@ -160,5 +160,4 @@ floodgateClient.createInstance(
 
 * [Node.js SDK 릴리스 노트](nodejs-sdk-release-notes.md)
 * [SDK](../../integrate/sdks.md)
-* [API 애플리케이션 구독](../../integrate/subscribe-to-api-application.md)
 * [통합 단계](../../integrate/integration-steps.md)

@@ -1,13 +1,13 @@
 ---
 title: Java SDK 통합 안내서
 description: Experience Rollouts Java SDK을 백엔드 서비스에 통합하여 기능 플래그를 검색하고 평가하는 방법을 알아봅니다.
-source-git-commit: 9bfe0e55e89c1d7fbd77cde63831a6a186820e24
+exl-id: 7c12bd6c-1883-4f1c-985f-a2b0432e61ce
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '425'
 ht-degree: 1%
 
 ---
-
 
 # Java SDK 통합 안내서 {#java-sdk-integration-guide}
 
@@ -19,7 +19,7 @@ Java SDK을 통합하기 전에 다음을 확인합니다.
 
 * JDK 11 이상(SDK 버전 3.0.0 이상 필요, 이전 버전은 JDK 8+ 지원)
 * Maven 기반 빌드 시스템
-* Adobe Developer Console 프로젝트의 **API 키** 및 **서비스 토큰** 클라이언트 ID — [API 애플리케이션 구독](../../integrate/subscribe-to-api-application.md) 참조
+* Adobe Developer Console 프로젝트의 **API 키** 및 **서비스 토큰** 클라이언트 ID — Experience Rollouts 지원에 문의하여 클라이언트 ID를 허용 목록에추가된으로 받으십시오
 * **응용 프로그램 클라이언트 ID**&#x200B;이(가) Experience Rollouts 콘솔에 등록되었습니다. [응용 프로그램 온보드](../../applications/onboard-your-application.md)를 참조하십시오.
 
 ## Maven 종속성 추가 {#maven-dependency}
@@ -188,5 +188,4 @@ try {
 
 * [Java SDK 릴리스 노트](java-sdk-release-notes.md)
 * [SDK](../../integrate/sdks.md)
-* [API 애플리케이션 구독](../../integrate/subscribe-to-api-application.md)
 * [통합 단계](../../integrate/integration-steps.md)

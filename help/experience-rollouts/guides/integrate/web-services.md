@@ -1,13 +1,13 @@
 ---
 title: 웹 서비스
 description: Java 또는 Node.js SDK을 사용하여 Adobe Experience 롤아웃을 백엔드 웹 서비스에 통합하는 방법을 알아봅니다.
-source-git-commit: b82520eebe0070b5f76e0f7daeb2bb79a4bccca0
+exl-id: 2e73fc30-93d4-46dc-8855-950dd1b15064
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 9%
+source-wordcount: '97'
+ht-degree: 12%
 
 ---
-
 
 # 웹 서비스 {#web-services}
 
@@ -22,11 +22,7 @@ ht-degree: 9%
 
 ## 기타 언어 {#other-languages}
 
-백엔드 서비스가 위에 나열되지 않은 언어를 사용하는 경우 를 REST API와 직접 통합할 수 있습니다.
-
-* 기능 API V3 — 전체 참조는 이 안내서의 기능 API 섹션 을 참조하십시오
-
-지원되지 않는 스택과의 통합에 대한 지침이 필요한 경우 경험 롤아웃 지원 센터에 문의하십시오.
+백엔드 서비스가 위에 나열되지 않은 언어를 사용하는 경우, Experience Rollouts 지원에 문의하여 특정 스택과 통합하는 방법에 대한 지침을 확인하십시오.
 
 ## 참조 - {#see-also}
 

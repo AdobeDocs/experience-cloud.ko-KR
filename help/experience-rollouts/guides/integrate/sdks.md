@@ -1,13 +1,13 @@
 ---
 title: SDK
 description: Adobe Experience 롤아웃의 SDK 아키텍처와 Java 및 Node.js에 사용 가능한 SDK에 대해 알아봅니다.
-source-git-commit: b82520eebe0070b5f76e0f7daeb2bb79a4bccca0
+exl-id: 110a440d-b52a-4e1e-a94f-86f9741a223a
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '312'
 ht-degree: 2%
 
 ---
-
 
 # SDK {#sdks}
 
@@ -48,15 +48,6 @@ Java SDK에 대한 주요 사양:
 Node.js SDK은 npm을 통해 배포됩니다.
 
 설치 지침은 [Node.js SDK 통합 안내서](../sdk-releases/nodejs/nodejs-sdk-integration-guide.md)를 참조하십시오.
-
-## SDK과 REST API 간 선택 {#sdk-vs-api}
-
-| 시나리오 | 권장 사항 |
-|---|---|
-| 백엔드 Java 또는 Node.js 서비스 | 자동 캐싱 및 간소화된 통합에 적절한 SDK 사용 |
-| 기타 백엔드 언어 | 기능 API V3를 직접 사용 — 이 안내서의 기능 API 섹션 을 참조하십시오. |
-| 웹 또는 모바일 애플리케이션 | 기능 API V3를 직접 사용 — 이 안내서의 기능 API 섹션 을 참조하십시오. |
-| 데스크탑 애플리케이션 | 기능 API V2를 직접 사용 — 이 안내서의 기능 API 섹션 을 참조하십시오. |
 
 ## 참조 - {#see-also}
 
