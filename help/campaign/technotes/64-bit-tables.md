@@ -3,10 +3,10 @@ title: Adobe Campaign 웹 사용자 인터페이스
 description: 64비트 테이블
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: ab5f01fd-4ad5-46e9-b132-011fe0f7bbd2
-source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
+source-git-commit: 6baa9bef7eae1ab8ffe9ecd426c6ba4580e8c9d7
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 7%
+source-wordcount: '175'
+ht-degree: 6%
 
 ---
 

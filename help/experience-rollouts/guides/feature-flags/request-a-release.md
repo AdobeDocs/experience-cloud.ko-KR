@@ -1,24 +1,24 @@
 ---
 title: 릴리스 요청
 description: Adobe Experience 롤아웃에서 새로운 조정된 릴리스를 요청하는 방법 및 제공할 정보에 대해 알아봅니다.
-source-git-commit: d311efb995b20ffc17370d68d57dd84a8605896c
+exl-id: 8eee84b2-fbd5-4713-90ac-92fd7b74c163
+source-git-commit: f4c365e1a0e61ba3dec298dfa8ab0d9e74e1259a
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '255'
 ht-degree: 2%
 
 ---
-
 
 # 릴리스 요청 {#request-a-release}
 
 ## 전제 조건 {#prerequisites}
 
-* **릴리스 관리자** 역할이 있습니다. [사용자 역할](../teams/user-roles.md)을 참조하세요.
+* **릴리스 관리자** 역할이 있습니다. <!-- broken link[User roles](../teams/user-roles.md) --> 참조
 * 응용 프로그램이 온보딩되었습니다. [응용 프로그램 온보딩](../applications/onboard-your-application.md)을 참조하십시오.
 
 >[!TIP]
 >
->릴리스를 요청하기 전에 [릴리스 및 팀 간 기능 그룹](releases-and-cross-team-feature-groups.md)을 검토하세요. 크로스 팀 기능 그룹은 오버헤드가 적으면서 사용자의 요구 사항을 충족할 수 있습니다. 셀프 서비스이며 더 풍부한 대상 타겟팅을 지원합니다.
+>릴리스를 요청하기 전에 <!--[Releases and cross-team feature groups](releases-and-cross-team-feature-groups.md)-->을(를) 검토하세요. 크로스 팀 기능 그룹은 오버헤드가 적으면서 사용자의 요구 사항을 충족할 수 있습니다. 셀프 서비스이며 더 풍부한 대상 타겟팅을 지원합니다.
 
 ## 지원 요청 제출 {#submit}
 
