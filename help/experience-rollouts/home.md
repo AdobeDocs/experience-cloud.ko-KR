@@ -2,9 +2,9 @@
 title: Adobe Experience 롤아웃
 description: Adobe Experience 롤아웃을 사용하여 제어된 롤아웃, 기능 플래그 및 타겟팅된 대상 관리를 통해 안전하고 점진적으로 기능을 전달하는 방법을 알아봅니다.
 exl-id: c400d75d-d928-4cf6-a094-1a2f443389f0
-source-git-commit: 4a3133f014a9bb9d6ed26eb9d9f763db79ce63b3
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '325'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Adobe Experience Rollouts를 통해 제품 팀은 재배포나 중단 없이 새
 
 **릴리스 위험을 줄입니다.** 대규모 변경 사항을 보다 작고 제어된 롤아웃으로 나눕니다. 버그 또는 성능 문제가 나타나면 영향을 받는 기능만 비활성화합니다. 나머지 응용 프로그램은 안정적인 상태를 유지합니다.
 
-**여러 팀을 조정합니다.** 팀 간 기능 그룹을 사용하면 여러 팀이 하나의 조정된 릴리스에 참여할 수 있으며, 각 팀은 공통의 롤아웃 일정 및 대상을 공유하면서 각자의 기능 플래그를 관리합니다.
+**응용 프로그램 간 조정** 기능 그룹을 사용하면 여러 기능 플래그를 함께 관리하여 애플리케이션 간에 공통 롤아웃 대상을 공유할 수 있습니다.
 
 ## 첫 번째 기능 온보드
 
@@ -37,4 +37,4 @@ Adobe Experience Rollouts를 통해 제품 팀은 재배포나 중단 없이 새
 
 ## 도움이 필요하십니까?
 
-문제가 예상대로 작동하지 않으면 [문제 해결 안내서](guides/support/troubleshooting.md)에서 가장 일반적인 문제를 다룹니다. 기타 정보는 [지원팀에 문의](guides/support/contact-support.md)하세요.
+예상대로 작동하지 않는 부분이 있으면 Adobe 담당자에게 지원을 요청하십시오.

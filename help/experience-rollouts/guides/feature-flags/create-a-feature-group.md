@@ -2,9 +2,9 @@
 title: 기능 그룹 만들기
 description: Adobe Experience Rollouts에서 기능 그룹을 만들어 팀 내 여러 애플리케이션에서 여러 기능 플래그를 단일 단위로 관리하는 방법을 알아봅니다.
 exl-id: 58148df1-84ee-4a78-a4b4-71f74cd8ce0a
-source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ## 5단계: 예약(선택 사항) {#schedule}
 
-기능 그룹을 향후 날짜 및 시간에 활성화하도록 예약할 수 있습니다. 자세한 내용은 [일정](schedule.md)을 참조하세요.
+기능 그룹 설정에서 **예약** 옵션을 사용하여 향후 날짜 및 시간에 기능 그룹을 활성화하도록 예약할 수 있습니다.
 
 ## 참조 - {#see-also}
 

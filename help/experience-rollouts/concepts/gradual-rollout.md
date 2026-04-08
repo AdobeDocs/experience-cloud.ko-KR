@@ -1,13 +1,13 @@
 ---
 title: 점진적 롤아웃
 description: 경험 롤아웃의 점진적 롤아웃을 통해 실시간 피드백 및 위험 요소를 최소화하면서 기능을 프로덕션으로 안전하게 전달하는 방법을 알아봅니다.
-source-git-commit: 1c8fd9b42d08f657b4e6b16efae86faa04d15565
+exl-id: ede24236-de19-4008-893c-e67bd82e23e3
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 2%
 
 ---
-
 
 # 점진적 롤아웃 {#gradual-rollout}
 
@@ -18,7 +18,7 @@ ht-degree: 2%
 **안전망**
 먼저 소규모 대상자에게 릴리스하여 피드백을 추적하고 확장을 하기 전에 프로덕션의 동작을 모니터링할 수 있습니다. 문제가 발생하면 영향은 제한되며 코드를 변경하거나 재배포하지 않고 기능을 즉시 끌 수 있습니다.
 
-**백엔드 로드 관리**
+**백 엔드 로드 관리**
 모든 사용자에게 동시에 기능을 열면 서버 로드가 갑자기 급증할 수 있습니다. 점진적인 롤아웃을 통해 트래픽 증가를 시간에 따라 분산하므로 인프라가 원활하게 확장할 수 있습니다.
 
 **실시간 피드백**
@@ -38,4 +38,3 @@ ht-degree: 2%
 ## 참조 - {#see-also}
 
 * [기능을 활성화 및 비활성화하는 기능 플래그](feature-flags-to-enable-disable-features.md)
-* [릴리스 관리](release-management.md)

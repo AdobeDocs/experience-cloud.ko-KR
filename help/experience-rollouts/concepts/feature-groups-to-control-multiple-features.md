@@ -1,13 +1,13 @@
 ---
 title: 여러 기능을 제어하는 기능 그룹
 description: Experience Rollouts의 기능 그룹을 통해 애플리케이션 간에 관련 기능 플래그를 단일 단위로 번들로 제공하고 관리하는 방법에 대해 알아봅니다.
-source-git-commit: 1c8fd9b42d08f657b4e6b16efae86faa04d15565
+exl-id: dfeb7eff-34f1-4cb5-9c3e-a40d1eda3016
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 1%
+source-wordcount: '174'
+ht-degree: 0%
 
 ---
-
 
 # 여러 기능을 제어하는 기능 그룹 {#feature-groups}
 
@@ -21,14 +21,5 @@ ht-degree: 1%
 
 ## 교차 애플리케이션 그룹화 {#cross-application}
 
-기능 그룹은 플래그가 경험 롤아웃에서 **동일한 팀**&#x200B;에 속하는 한 응용 프로그램 간 기능 관리를 지원합니다. 한 팀이 여러 애플리케이션을 소유할 수 있으므로 해당 애플리케이션 간의 관련 플래그를 함께 그룹화할 수 있습니다.
+기능 그룹은 애플리케이션 간 기능 관리를 지원합니다. 여러 애플리케이션의 관련 플래그를 함께 그룹화할 수 있습니다.
 
-## 기능 그룹 및 릴리스 {#vs-releases}
-
-| | 기능 그룹 | 릴리스 |
-|---|---|---|
-| 범위 | 단일 팀 내 | 여러 팀 간 |
-| 사용 사례 | 팀 내에서 플래그 조정 | 대규모 다중 팀 실행 조정 |
-| 권한 필요 | 팀 수준 | 상위(릴리스 관리자) |
-
-그룹화할 기능 플래그가 다른 팀이 소유한 응용 프로그램에 속해 있는 경우 기능 그룹 대신 [릴리스](release-management.md)을(를) 사용하십시오.

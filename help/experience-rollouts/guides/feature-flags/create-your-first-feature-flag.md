@@ -2,9 +2,9 @@
 title: 첫 번째 기능 플래그 만들기
 description: Adobe Experience 롤아웃에서 기능 플래그를 만들고, 대상자를 설정하고, 사용자에게 롤아웃하기 전에 테스트하는 방법을 알아봅니다.
 exl-id: ae115120-8da9-465e-a556-c17591ea7054
-source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '355'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ## 4단계: 예약(선택 사항) {#schedule}
 
-기능 플래그를 향후 날짜 및 시간에 활성화하도록 예약할 수 있습니다. 자세한 내용은 [일정](schedule.md)을 참조하세요.
+기능 플래그 설정에서 **예약** 옵션을 사용하여 향후 날짜 및 시간에 활성화할 기능 플래그를 예약할 수 있습니다.
 
 ## FAQ: 기능 플래그를 개발자로 추가할 수 없음 {#faq}
 
