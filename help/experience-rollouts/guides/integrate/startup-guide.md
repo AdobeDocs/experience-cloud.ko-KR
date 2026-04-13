@@ -1,8 +1,9 @@
 ---
 title: 시작 안내서
 description: 액세스 요청에서 첫 번째 기능 플래그 만들기에 이르기까지, 다음 단계에 따라 애플리케이션을 Adobe Experience 롤아웃과 통합합니다.
+hide: true
 exl-id: 7aa09535-45fa-4ddf-9e3f-a23f8a8ee666
-source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 1%
@@ -52,3 +53,5 @@ ht-degree: 1%
 * [앱의 경험 롤아웃 통합](integrating-in-your-app.md)
 * [통합 단계](integration-steps.md)
 * [SDK](sdks.md)
+
+<!-- -->

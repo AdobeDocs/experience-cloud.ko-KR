@@ -1,13 +1,14 @@
 ---
 title: 기능 및 기능 그룹
 description: Adobe Experience Rollouts의 기능 플래그와 기능 그룹 간의 차이점과 각 기능을 사용해야 하는 시기에 대해 알아봅니다.
-source-git-commit: c654ca1507abcefcff84cef9f99830042939805d
+hide: true
+exl-id: 852aa777-6f8a-47c9-bf54-e645a5ee2f3e
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 4%
 
 ---
-
 
 # 기능 및 기능 그룹 {#features-feature-groups}
 
@@ -44,3 +45,5 @@ ht-degree: 4%
 
 * [첫 번째 기능 플래그 만들기](create-your-first-feature-flag.md)
 * [기능 그룹 만들기](create-a-feature-group.md)
+
+<!-- -->

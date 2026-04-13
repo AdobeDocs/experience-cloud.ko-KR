@@ -1,13 +1,14 @@
 ---
 title: 점진적으로 롤아웃할 기능 설정
 description: Adobe Experience Rollouts의 기능 플래그에 대한 비율 기반 점진적 롤아웃을 구성하는 방법을 알아봅니다.
-source-git-commit: 9bfe0e55e89c1d7fbd77cde63831a6a186820e24
+hide: true
+exl-id: 1e03c533-398d-4a83-9f4a-c0419828b460
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
 
 ---
-
 
 # 점진적으로 롤아웃할 기능 설정 {#gradual-rollout-feature}
 
@@ -24,3 +25,5 @@ ht-degree: 3%
 * [점진적 롤아웃](../../concepts/gradual-rollout.md)
 * [기능 그룹을 설정하여 점진적으로 롤아웃](set-feature-group-gradual-rollout.md)
 * [첫 번째 기능 플래그 만들기](create-your-first-feature-flag.md)
+
+<!-- -->

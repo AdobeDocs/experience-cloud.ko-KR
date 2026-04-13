@@ -3,9 +3,9 @@ title: 글로벌 금지 목록
 description: 글로벌 금지 목록 살펴보기
 hide: true
 exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
-source-git-commit: 9d12eece2ca9f8f36951f8575bb0ac42bc10a728
-workflow-type: ht
-source-wordcount: '618'
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
+workflow-type: tm+mt
+source-wordcount: '630'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 >[!CAUTION]
 >
->글로벌 금지 목록을 조회하고, 내보내고, 관리할 수 있는 권한은 할당된 배포 목록에 따라 다릅니다. 추가 정보
+>글로벌 금지 목록을 조회하고, 내보내고, 관리할 수 있는 권한은 할당된 배포 목록에 따라 다릅니다. 자세히 알아보기
 
 다음 두 개의 탭이 표시됩니다. **[!UICONTROL 이메일]** 및 **[!UICONTROL 도메인]**.
 

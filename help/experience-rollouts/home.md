@@ -2,8 +2,9 @@
 title: Adobe Experience 롤아웃
 description: Adobe Experience 롤아웃을 사용하여 제어된 롤아웃, 기능 플래그 및 타겟팅된 대상 관리를 통해 안전하고 점진적으로 기능을 전달하는 방법을 알아봅니다.
 hide: true
+index: false
 exl-id: c400d75d-d928-4cf6-a094-1a2f443389f0
-source-git-commit: 571439cb5f463567b11b6dd24a9cfbca400f9357
+source-git-commit: 9387119c1d87e07f11ee4a98e2698c804e2fe780
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 1%

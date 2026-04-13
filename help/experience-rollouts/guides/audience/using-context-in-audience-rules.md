@@ -1,8 +1,9 @@
 ---
 title: 대상 규칙에서 컨텍스트 사용
 description: Adobe Experience 롤아웃의 기능 플래그 및 기능 그룹에 대한 대상 규칙의 컨텍스트 변수를 사용하는 방법을 알아봅니다.
+hide: true
 exl-id: 0367f475-9209-4d53-86b4-a739a73a23a7
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -54,3 +55,5 @@ ht-degree: 0%
 
 * [기능 플래그 및 기능 그룹의 대상자](audience-in-feature-flags-and-feature-groups.md)
 * [대상 기준에 백분율 규칙 추가](adding-percentage-rules.md)
+
+<!-- -->

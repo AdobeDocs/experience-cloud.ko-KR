@@ -1,8 +1,9 @@
 ---
 title: 기능을 활성화 및 비활성화하는 기능 플래그
 description: Experience Rollouts의 기능 플래그를 사용하여 기능 가용성을 제어하고, 종속성을 관리하며, 배포 위험을 줄이는 방법을 알아봅니다.
+hide: true
 exl-id: 627775e8-9b17-4bc7-9565-07a438ae8ed7
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -44,3 +45,5 @@ ht-degree: 0%
 1. 개발자는 기능 플래그를 만들고 다른 사용자에게 노출하지 않고 별도로 테스트합니다.
 2. 제품 소유자는 대상을 플래그에 연결하여 정의된 외부 사용자 집합에 기능을 표시합니다.
 3. 필요한 경우 관련 플래그와 함께 관리할 [기능 그룹](feature-groups-to-control-multiple-features.md)에 플래그를 추가합니다.
+
+<!-- -->

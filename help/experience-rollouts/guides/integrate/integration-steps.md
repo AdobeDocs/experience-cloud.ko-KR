@@ -1,8 +1,9 @@
 ---
 title: 통합 단계
 description: 애플리케이션 유형에 대한 통합 단계에 따라 사용 가능한 SDK를 사용하여 Adobe Experience 롤아웃을 웹 서비스, 웹 또는 모바일 앱 또는 데스크탑 애플리케이션에 연결합니다.
+hide: true
 exl-id: d584bdf4-9031-40e7-a7f0-807c619bbba1
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 4%
@@ -43,3 +44,5 @@ ht-degree: 4%
 * [SDK](sdks.md)
 * [웹 서비스](web-services.md)
 * [데스크탑 애플리케이션](desktop-applications.md)
+
+<!-- -->

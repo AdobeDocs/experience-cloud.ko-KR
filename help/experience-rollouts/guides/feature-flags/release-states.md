@@ -1,13 +1,14 @@
 ---
 title: 릴리스 상태
 description: 각 상태의 의미와 허용되는 전환을 포함하여 Adobe Experience 롤아웃 릴리스의 라이프사이클 상태에 대해 알아봅니다.
-source-git-commit: ae420329b94b24fcd173734b414aecf1c5fc16ca
+hide: true
+exl-id: c1311353-9c36-43c5-8e75-3b3ee225da41
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 3%
 
 ---
-
 
 # 릴리스 상태 {#release-states}
 
@@ -46,3 +47,5 @@ ht-degree: 3%
 * [릴리스 요청](request-a-release.md)
 * [전체 워크플로 릴리스](release-workflow-end-to-end.md)
 * [릴리스 대상 규칙 업데이트](update-release-audience-rules.md)
+
+<!-- -->

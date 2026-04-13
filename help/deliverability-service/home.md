@@ -3,9 +3,9 @@ title: Adobe Deliverability Services
 description: Adobe Deliverability Services 살펴보기
 hide: true
 exl-id: 31ea97e7-b0a0-4a92-bc69-a458fdbc1d7c
-source-git-commit: b5436d4e713f2f358a86f039820072225d1686f2
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '173'
 ht-degree: 100%
 
 ---

@@ -1,8 +1,9 @@
 ---
 title: 릴리스 요청
 description: Adobe Experience 롤아웃에서 새로운 조정된 릴리스를 요청하는 방법 및 제공할 정보에 대해 알아봅니다.
+hide: true
 exl-id: 8eee84b2-fbd5-4713-90ac-92fd7b74c163
-source-git-commit: f4c365e1a0e61ba3dec298dfa8ab0d9e74e1259a
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 2%
@@ -46,3 +47,5 @@ ht-degree: 2%
 * [전체 워크플로 릴리스](release-workflow-end-to-end.md)
 * [릴리스 대상 규칙 업데이트](update-release-audience-rules.md)
 * [릴리스 상태](release-states.md)
+
+<!-- -->

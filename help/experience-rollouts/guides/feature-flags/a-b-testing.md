@@ -1,8 +1,9 @@
 ---
 title: 기능 플래그를 사용하여 A/B 테스트
 description: 기능 플래그 세트에 대해 여러 변형을 구성하여 Adobe Experience 롤아웃의 기능 그룹을 사용하여 A/B 테스트를 실행하는 방법을 알아봅니다.
+hide: true
 exl-id: bb849049-229c-40ff-bbfe-7996f868bcc3
-source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 1%
@@ -53,3 +54,5 @@ ht-degree: 1%
 * [기능 그룹 만들기](create-a-feature-group.md)
 * [기능 그룹을 설정하여 점진적으로 롤아웃](set-feature-group-gradual-rollout.md)
 * [분석](analytics.md)
+
+<!-- -->

@@ -1,8 +1,9 @@
 ---
 title: 앱의 경험 롤아웃 통합
 description: 웹 서비스, 웹 속성, 모바일 앱 또는 데스크탑 애플리케이션이든 관계없이 Adobe Experience Rollouts를 애플리케이션에 통합하는 방법을 알아봅니다.
+hide: true
 exl-id: e67a34d8-aaba-41d4-bc34-15b23782caa1
-source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -33,3 +34,5 @@ ht-degree: 0%
 | **웹 응용 프로그램** | 웹 SDK(준비 중) |
 | **모바일 응용 프로그램** | Mobile SDK (준비 중) |
 | **데스크톱 응용 프로그램** | SDK (준비 중) |
+
+<!-- -->

@@ -1,8 +1,9 @@
 ---
 title: 대상 기준에 백분율 규칙 추가
 description: Adobe Experience Rollouts의 대상 기준 내에 백분율 기반 규칙을 추가하여 다양한 대상 세그먼트에 대해 다른 롤아웃 비율을 타깃팅하는 방법에 대해 알아봅니다.
+hide: true
 exl-id: 15a3c26f-31fc-4e73-aa0e-035dcbe7d770
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -63,3 +64,5 @@ ht-degree: 0%
 * [기능 플래그 및 기능 그룹의 대상자](audience-in-feature-flags-and-feature-groups.md)
 * [복잡한 대상 규칙](complex-rules.md)
 * [점진적으로 롤아웃할 기능 설정](../feature-flags/set-feature-gradual-rollout.md)
+
+<!-- -->

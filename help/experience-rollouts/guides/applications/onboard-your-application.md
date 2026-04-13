@@ -1,8 +1,9 @@
 ---
 title: 애플리케이션 온보드
 description: 기능 플래그를 만들고 관리할 수 있도록 새 애플리케이션을 Adobe Experience Rollouts에 온보딩하는 방법을 알아봅니다.
+hide: true
 exl-id: d88c27a5-f490-4504-9764-5e4ce98fdf20
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 2%
@@ -45,3 +46,5 @@ ht-degree: 2%
 
 * [애플리케이션 관리](manage-applications.md)
 * [콘솔에 로그인](../console/log-in-to-the-console.md)
+
+<!-- -->

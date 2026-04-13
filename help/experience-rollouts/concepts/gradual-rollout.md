@@ -1,8 +1,9 @@
 ---
 title: 점진적 롤아웃
 description: 경험 롤아웃의 점진적 롤아웃을 통해 실시간 피드백 및 위험 요소를 최소화하면서 기능을 프로덕션으로 안전하게 전달하는 방법을 알아봅니다.
+hide: true
 exl-id: ede24236-de19-4008-893c-e67bd82e23e3
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 2%
@@ -38,3 +39,5 @@ ht-degree: 2%
 ## 참조 - {#see-also}
 
 * [기능을 활성화 및 비활성화하는 기능 플래그](feature-flags-to-enable-disable-features.md)
+
+<!-- -->

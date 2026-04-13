@@ -1,8 +1,9 @@
 ---
 title: 기능 플래그란 무엇입니까
 description: 기능 플래그가 무엇이며 재배포 없이 런타임에 애플리케이션 기능을 켜거나 끌 수 있는지 알아봅니다.
+hide: true
 exl-id: c4ed4ab5-0d73-4697-b05c-476d6e4010ce
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -20,3 +21,5 @@ ht-degree: 0%
 >[!NOTE]
 >
 >경험 롤아웃에서 기능 플래그는 기능 제어의 가장 작은 단위입니다. 단일 기능을 타깃팅하는 데 단독으로 사용하거나 [기능 그룹](feature-groups-to-control-multiple-features.md)의 다른 플래그와 결합할 수 있습니다.
+
+<!-- -->

@@ -1,8 +1,9 @@
 ---
 title: 첫 번째 기능 플래그 만들기
 description: Adobe Experience 롤아웃에서 기능 플래그를 만들고, 대상자를 설정하고, 사용자에게 롤아웃하기 전에 테스트하는 방법을 알아봅니다.
+hide: true
 exl-id: ae115120-8da9-465e-a556-c17591ea7054
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
@@ -60,3 +61,5 @@ ht-degree: 0%
 
 * [점진적으로 롤아웃할 기능 설정](set-feature-gradual-rollout.md)
 * [기능 그룹 만들기](create-a-feature-group.md)
+
+<!-- -->
