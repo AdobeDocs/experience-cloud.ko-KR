@@ -1,8 +1,9 @@
 ---
 title: 액세스 요청
 description: Adobe Experience Rollouts 팀에 대한 액세스 권한을 요청하는 방법과 신규 구성원이 사용할 수 있는 역할에 대해 알아봅니다.
+hide: true
 exl-id: 30d05c90-2913-4e88-a8f9-28a142297337
-source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 1%
@@ -44,3 +45,5 @@ ht-degree: 1%
 ## 도움이 필요하십니까? {#need-help}
 
 가입할 팀을 잘 모르거나 프로젝트에 대한 팀이 아직 없는 경우 조직의 경험 롤아웃 관리자에게 문의하십시오.
+
+<!-- -->

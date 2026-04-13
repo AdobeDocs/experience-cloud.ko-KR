@@ -1,8 +1,9 @@
 ---
 title: 데스크탑 애플리케이션
 description: SDK을 사용하여 Adobe Experience Rollouts를 데스크탑 애플리케이션에 통합하는 방법을 알아봅니다.
+hide: true
 exl-id: e26c8af8-893a-43f4-905c-7292cc887900
-source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 2%
@@ -25,3 +26,5 @@ ht-degree: 2%
 
 * [통합 단계](integration-steps.md)
 * [시작 안내서](startup-guide.md)
+
+<!-- -->

@@ -1,8 +1,9 @@
 ---
 title: 경험 롤아웃 콘솔에 로그인합니다.
 description: 팀을 찾고, 액세스를 요청하고, 콘솔에 로그인하여 Adobe Experience 롤아웃을 시작하는 방법을 알아봅니다.
+hide: true
 exl-id: 4b109759-43b5-440a-89b4-78c0f0483cd0
-source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 2%
@@ -44,3 +45,5 @@ ht-degree: 2%
 | **팀** | 응용 프로그램을 소유하고 기능 플래그를 관리하는 자체 관리 그룹입니다. 팀은 다양한 사용자 역할과 권한 수준을 가진 평평한 구조를 가지고 있습니다. |
 | **응용 프로그램** | 기능 플래그로 제어할 응용 프로그램입니다. 각 애플리케이션은 팀이 소유합니다. |
 | **기능 플래그/기능 그룹** | 기능 테스트 및 제어된 롤아웃을 위해 Experience Rollouts에서 생성된 아티팩트. |
+
+<!-- -->

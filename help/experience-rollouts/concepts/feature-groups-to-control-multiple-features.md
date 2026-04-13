@@ -1,8 +1,9 @@
 ---
 title: 여러 기능을 제어하는 기능 그룹
 description: Experience Rollouts의 기능 그룹을 통해 애플리케이션 간에 관련 기능 플래그를 단일 단위로 번들로 제공하고 관리하는 방법에 대해 알아봅니다.
+hide: true
 exl-id: dfeb7eff-34f1-4cb5-9c3e-a40d1eda3016
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -23,3 +24,5 @@ ht-degree: 0%
 
 기능 그룹은 애플리케이션 간 기능 관리를 지원합니다. 여러 애플리케이션의 관련 플래그를 함께 그룹화할 수 있습니다.
 
+
+<!-- -->

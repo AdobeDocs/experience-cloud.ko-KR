@@ -1,13 +1,14 @@
 ---
 title: 경험 롤아웃 모드
 description: Adobe Experience 롤아웃의 두 가지 기능 타겟팅 모드(사용자 수준 타겟팅 및 조직 수준 타겟팅)와 각 기능을 사용할 시기에 대해 알아봅니다.
-source-git-commit: bb4541dd7a77edadded2edbc9c71905cf70f2e24
+hide: true
+exl-id: 0fdfa429-d9bd-4990-8f96-cd9deb273aa0
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 3%
 
 ---
-
 
 # 경험 롤아웃 모드 {#modes}
 
@@ -81,3 +82,5 @@ ht-degree: 3%
 
 * 질문이 *&quot;이 기능을 볼 수 있는 사용자는 누구입니까?&quot;* →0&rbrace;사용자 수준 타깃팅 사용&#x200B;**&#x200B;**
 * 질문이 *인 경우 &quot;이 기능을 사용해야 하는 조직 또는 환경은 무엇입니까?&quot;* →0&rbrace;조직 및 환경 수준 타깃팅 사용&#x200B;**&#x200B;**
+
+<!-- -->

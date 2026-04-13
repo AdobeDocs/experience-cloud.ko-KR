@@ -1,8 +1,9 @@
 ---
 title: 애플리케이션 관리
 description: 새 애플리케이션 추가를 포함하여 Adobe Experience 롤아웃에서 애플리케이션을 관리하는 방법을 알아봅니다.
+hide: true
 exl-id: 6109fdd5-b5f5-41ca-8690-8aa78df50499
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 1%
@@ -25,3 +26,5 @@ ht-degree: 1%
 
 * [애플리케이션 온보드](onboard-your-application.md)
 * [여러 기능을 제어하는 기능 그룹](../../concepts/feature-groups-to-control-multiple-features.md)
+
+<!-- -->

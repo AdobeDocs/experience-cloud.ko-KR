@@ -1,8 +1,9 @@
 ---
 title: 기능 플래그 가져오기
 description: 플래그 구성을 수동으로 다시 생성하지 않도록 Adobe Experience Rollouts의 한 샌드박스에서 다른 샌드박스로 기능 플래그를 가져오는 방법을 알아봅니다.
+hide: true
 exl-id: 37c84d75-a565-4202-8c99-f630e05b6bb6
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 1%
@@ -43,3 +44,5 @@ ht-degree: 1%
 
 * [기능 및 기능 그룹](../feature-flags/features-feature-groups-releases.md)
 * [첫 번째 기능 플래그 만들기](../feature-flags/create-your-first-feature-flag.md)
+
+<!-- -->

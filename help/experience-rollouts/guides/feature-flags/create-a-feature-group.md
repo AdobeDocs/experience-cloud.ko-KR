@@ -1,8 +1,9 @@
 ---
 title: 기능 그룹 만들기
 description: Adobe Experience Rollouts에서 기능 그룹을 만들어 팀 내 여러 애플리케이션에서 여러 기능 플래그를 단일 단위로 관리하는 방법을 알아봅니다.
+hide: true
 exl-id: 58148df1-84ee-4a78-a4b4-71f74cd8ce0a
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 0%
@@ -69,3 +70,5 @@ ht-degree: 0%
 * [기능 그룹을 설정하여 점진적으로 롤아웃](set-feature-group-gradual-rollout.md)
 * [기능 플래그를 사용하여 A/B 테스트](a-b-testing.md)
 * [여러 기능을 제어하는 기능 그룹](../../concepts/feature-groups-to-control-multiple-features.md)
+
+<!-- -->

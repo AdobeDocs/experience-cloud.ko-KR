@@ -1,13 +1,14 @@
 ---
 title: Android 통합을 위한 Experience Rollout Extension 안내서
 description: Android에서 Experience Rollout 확장을 Adobe Experience Platform Mobile SDK과 통합하는 방법을 알아봅니다.
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+hide: true
+exl-id: 683ef4d4-e637-4b7b-b694-689c7e65a99e
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '934'
 ht-degree: 7%
 
 ---
-
 
 # Android용 경험 롤아웃 확장 {#android-extension-integration-guide}
 
@@ -474,3 +475,5 @@ String version = Rollout.extensionVersion();
 * [모바일 애플리케이션](../../integrate/mobile-applications.md)
 * [통합 단계](../../integrate/integration-steps.md)
 * [SDK](../../integrate/sdks.md)
+
+<!-- -->

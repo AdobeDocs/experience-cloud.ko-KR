@@ -1,13 +1,14 @@
 ---
 title: 릴리스 대상 규칙 업데이트
 description: 지원되는 규칙 유형 및 이를 결합하는 방법을 포함하여 Adobe Experience 롤아웃에서 릴리스에 대한 대상 기준을 구성하고 업데이트하는 방법에 대해 알아봅니다.
-source-git-commit: bb4541dd7a77edadded2edbc9c71905cf70f2e24
+hide: true
+exl-id: 8d546cd7-af66-47c7-aab3-c667568e8582
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 3%
 
 ---
-
 
 # 릴리스 대상 규칙 업데이트 {#update-release-audience-rules}
 
@@ -76,3 +77,5 @@ AND/OR 논리를 사용하여 여러 대상 기준을 결합할 수 있습니다
 * [릴리스 요청](request-a-release.md)
 * [전체 워크플로 릴리스](release-workflow-end-to-end.md)
 * [릴리스 상태](release-states.md)
+
+<!-- -->

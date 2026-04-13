@@ -1,8 +1,9 @@
 ---
 title: 기능 플래그 및 기능 그룹의 대상자
 description: 컨텍스트 변수를 사용하여 Adobe Experience 롤아웃에서 기능 플래그 및 기능 그룹에 대한 대상 기준을 정의하는 방법을 알아봅니다.
+hide: true
 exl-id: 4a8f7c3f-1ae5-4e65-a070-9fc33133eec0
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 2%
@@ -21,3 +22,5 @@ ht-degree: 2%
 * [대상 기준에 백분율 규칙 추가](adding-percentage-rules.md)
 * [복잡한 대상 규칙](complex-rules.md)
 * [첫 번째 기능 플래그 만들기](../feature-flags/create-your-first-feature-flag.md)
+
+<!-- -->

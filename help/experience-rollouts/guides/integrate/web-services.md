@@ -1,8 +1,9 @@
 ---
 title: 웹 서비스
 description: Java 또는 Node.js SDK을 사용하여 Adobe Experience 롤아웃을 백엔드 웹 서비스에 통합하는 방법을 알아봅니다.
+hide: true
 exl-id: 2e73fc30-93d4-46dc-8855-950dd1b15064
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 10%
@@ -28,3 +29,5 @@ ht-degree: 10%
 * [SDK](sdks.md)
 * [통합 단계](integration-steps.md)
 * [시작 안내서](startup-guide.md)
+
+<!-- -->

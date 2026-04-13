@@ -1,13 +1,14 @@
 ---
 title: 분석
 description: Adobe Experience Rollouts에서 내장된 분석 대시보드를 활성화하고 사용하여 기능 플래그 성능을 추적하고 롤아웃 영향을 측정하는 방법을 알아봅니다.
-source-git-commit: d311efb995b20ffc17370d68d57dd84a8605896c
+hide: true
+exl-id: edddca99-f263-461b-a16f-b46ee7c15f6c
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 1%
 
 ---
-
 
 # Analytics {#analytics}
 
@@ -42,3 +43,5 @@ Analytics는 두 가지 수준에서 활성화되어야 합니다.
 * [첫 번째 기능 플래그 만들기](create-your-first-feature-flag.md)
 * [기능 플래그를 사용하여 A/B 테스트](a-b-testing.md)
 * [기능 그룹 만들기](create-a-feature-group.md)
+
+<!-- -->
