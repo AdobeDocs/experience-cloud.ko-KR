@@ -3,7 +3,7 @@ audience: user
 user-guide-title: Adobe Experience 롤아웃
 user-guide-description: Adobe Experience 롤아웃을 사용하여 애플리케이션 전반에서 기능 플래그, 제어된 롤아웃 및 타겟팅된 릴리스를 관리하는 방법을 알아봅니다.
 hide: true
-source-git-commit: 632654252181c4941632a0dbd1877e721a4d3a71
+source-git-commit: 571439cb5f463567b11b6dd24a9cfbca400f9357
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 8%
@@ -11,7 +11,7 @@ ht-degree: 8%
 ---
 
 
-# Adobe Experience 롤아웃 {#experience-rollouts}
+# Adobe Experience 롤아웃 {#experience-rollouts-docs}
 
 + [개요](home.md)
 + 시작하기 {#get-started}
@@ -60,3 +60,7 @@ ht-degree: 8%
          + [Android 확장 통합 안내서](guides/sdk-releases/android/android-extension-integration-guide.md)
       + iOS 확장 {#ios-extension}
          + [iOS 확장 통합 안내서](guides/sdk-releases/ios/ios-extension-integration-guide.md)
+
+<!-- 
+Bob was here
+-->
