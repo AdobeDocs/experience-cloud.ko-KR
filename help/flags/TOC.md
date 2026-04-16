@@ -3,7 +3,7 @@ audience: user
 user-guide-title: 플래그
 user-guide-description: Adobe Target에서 플래그 를 사용하여 애플리케이션 전반의 기능 플래그, 제어된 롤아웃 및 타깃팅된 릴리스를 관리하는 방법을 알아봅니다.
 hide: true
-source-git-commit: 99576412627fe4576dfd787c02cf5c3501a22d88
+source-git-commit: 8a3a8f0293e32db896f62a63ea6a886868ffe1a3
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 8%
@@ -59,5 +59,5 @@ ht-degree: 8%
    + [iOS 확장 통합 안내서](guides/sdk-releases/ios/ios-extension-integration-guide.md)
 
 <!-- 
-Bob was here
+Bob was here again.
 -->
