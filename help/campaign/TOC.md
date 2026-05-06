@@ -3,7 +3,8 @@ user-guide-title: Adobe Campaign v8
 user-guide-description: Adobe Campaign v8
 breadcrumb-title: Adobe Campaign v8
 solution: Experience Cloud
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 role: User
 source-git-commit: 76932b21cfe714780ff520ace588cd9fcba5c6ae
 workflow-type: tm+mt
