@@ -1,7 +1,7 @@
 ---
 user-guide-title: Experience Cloud 소프트웨어 배포
-hide: y
-source-git-commit: 28434780a9ce7e8332f88a21fbaae4f65cef34b7
+hide: true
+source-git-commit: 76932b21cfe714780ff520ace588cd9fcba5c6ae
 workflow-type: tm+mt
 source-wordcount: '9'
 ht-degree: 44%
