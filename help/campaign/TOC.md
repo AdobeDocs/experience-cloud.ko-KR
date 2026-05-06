@@ -3,11 +3,13 @@ user-guide-title: Adobe Campaign v8
 user-guide-description: Adobe Campaign v8
 breadcrumb-title: Adobe Campaign v8
 solution: Experience Cloud
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 role: User
-source-git-commit: 0650d42102216c353c5843322d01af5af80d2e5c
+source-git-commit: 76932b21cfe714780ff520ace588cd9fcba5c6ae
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 71%
+source-wordcount: 162
+ht-degree: 80%
 
 ---
 
@@ -15,8 +17,8 @@ ht-degree: 71%
 
 + [홈](campaign-standard-migration-home.md)
 + 동적 보고 {#reporting}
-   + [동적 보고서 시작](reporting/get-started-reporting.md)
-   + 보고 기본 정보 {#about-reporting}
+   + [동적 보고서 시작하기](reporting/get-started-reporting.md)
+   + 보고 정보 {#about-reporting}
       + [동적 보고서 기본 정보](reporting/about-dynamic-reports.md)
       + [보고 인터페이스](reporting/reporting-interface.md)
       + [구성 요소 목록](reporting/list-of-components.md)
@@ -41,12 +43,12 @@ ht-degree: 71%
       + [사용자 정의 프로필 차원 만들기](reporting/creating-a-custom-profile-dimension.md)
       + [동적 보고 사용 계약](reporting/pii-agreement.md)
 + 브랜딩 {#branding}
-   + [브랜딩 기본 정보](branding/branding-gs.md)
+   + [브랜딩 정보](branding/branding-gs.md)
    + [브랜드 구성](branding/branding-configure.md)
    + [브랜드 할당](branding/branding-assign.md)
 + REST API {#apis}
    + [REST API 시작](api/get-started-apis.md)
-   + [Recommendations 및 제한 사항](api/limitations.md)
+   + [권장 사항 및 제한 사항](api/limitations.md)
    + [REST API의 장점](api/why-using-campaign-standard-apis.md)
    + [API 액세스 설정](api/setting-up-api-access.md)
    + 전반적 개념 {#global-concepts}
@@ -74,6 +76,6 @@ ht-degree: 71%
    + 워크플로 관리 {#managing-workflows}
       + [워크플로 제어](api/controlling-a-workflow.md)
       + [신호 활동 트리거](api/triggering-a-signal-activity.md)
-+ 기술 노트 {#technotes}
++ 기술 문서 {#technotes}
    + [64비트 스키마](technotes/64-bit-tables.md)
 
