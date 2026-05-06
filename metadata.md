@@ -5,7 +5,7 @@ product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 feature-set: Experience Cloud Services
 type: Documentation
-git-repo: https://github.com/AdobeDocs/experience-cloud.en
+git-repo: https://github.com/AdobeDocs/experience-cloud.ko-KR
 index: true
 mini-toc-levels: 2
 product: experience cloud
