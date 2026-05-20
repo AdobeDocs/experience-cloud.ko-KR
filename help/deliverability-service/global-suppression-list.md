@@ -3,9 +3,12 @@ title: 글로벌 금지 목록
 description: 글로벌 금지 목록 살펴보기
 hide: true
 exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
-source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
+TQID: https://experienceleague.adobe.com/gCmvM2zwg-6CmT-O1HjM24niis-mJRnJEXt3LunUZaI
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '630'
+source-wordcount: 630
 ht-degree: 100%
 
 ---

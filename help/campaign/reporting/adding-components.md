@@ -3,11 +3,20 @@ title: 구성 요소 추가
 description: 구성 요소를 자유 형식 테이블로 드래그하여 놓아 데이터 필터링 및 보고서 작성을 시작하십시오.
 audience: end-user
 level: Intermediate
-badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
+badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: 2b22f147-ed75-40ca-8859-8f4b23bca7c3
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+TQID: https://experienceleague.adobe.com/Mq7ZEHuTsJVuPF8x-wz4452BJ61ffImgSIVtkIgiokM
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: 294
 ht-degree: 4%
 
 ---
@@ -24,7 +33,7 @@ ht-degree: 4%
 
    구성 요소 테이블은 다음 네 가지 범주로 나뉩니다.
 
-   * **Dimension**: 게재 로그에서 수신자의 브라우저, 도메인 또는 게재 성공 등 세부 정보를 가져옵니다.
+   * **차원**: 게재 로그에서 수신자의 브라우저나 도메인 또는 게재 성공 등 세부 정보를 가져옵니다.
    * **지표**: 메시지 상태에 대한 세부 정보를 가져옵니다. 예를 들어 메시지가 게재되고 사용자가 해당 메시지를 연 경우,
    * **[!UICONTROL 세그먼트]**: 받는 사람의 나이 범위에 따라 데이터를 필터링합니다. **[!UICONTROL 세그먼트]**&#x200B;를 자유 형식 테이블 또는 패널의 상단 표시줄에서 직접 끌어서 놓을 수 있습니다.
 

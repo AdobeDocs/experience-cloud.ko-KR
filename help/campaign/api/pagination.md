@@ -8,9 +8,14 @@ role: Developer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: d6ebce3c-1e84-4b3b-a68d-90df4680af64
-source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
+TQID: https://experienceleague.adobe.com/Ft50AgZSedRcL8pvSbeMkWG9Zgz38Dq-3fC7XN2j1-w
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: 168
 ht-degree: 1%
 
 ---
@@ -31,7 +36,7 @@ ht-degree: 1%
 
 ***샘플 요청***
 
-프로필 리소스의 레코드 1개를 표시하는 샘플 GET 요청.
+프로필 리소스의 1개 레코드를 표시하는 샘플 GET 요청.
 
 ```
 -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/profile?_lineCount=1 \

@@ -3,18 +3,27 @@ title: 동적 보고 시작
 description: 빌트인된 보고서 또는 사용자 정의된 동적 보고서에서 캠페인의 성공을 분석합니다.
 audience: end-user
 level: Beginner
-badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
+badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: 6feac90f-f7c1-48b5-94ff-7fef92a2af83
-source-git-commit: b65dbece574778eada43497456ff0eed850a3598
+TQID: https://experienceleague.adobe.com/W4ZvHvvxyFGzL11PAwgDp4hLsUL80aaJBA-aFG9aZy8
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 12%
+source-wordcount: 297
+ht-degree: 21%
 
 ---
 
 # 동적 보고 시작 {#get-started-reporting}
 
-다이내믹 보고는 마케팅 활동의 영향을 측정하기 위해 완전히 맞춤화가 가능한 실시간 보고서를 제공합니다. 프로필 데이터에 대한 액세스를 추가하여 열기 및 클릭과 같은 실용적인 이메일 캠페인 데이터 외에도 성별, 도시 및 연령 등의 프로필 차원별 인구 통계 분석을 활성화합니다.
+다이내믹 보고는 마케팅 활동의 영향을 측정하기 위해 완전히 맞춤화가 가능한 실시간 보고서를 제공합니다. 이 기능은 프로필 데이터에 대한 액세스를 추가하여 열기 및 클릭과 같은 기능적 이메일 캠페인 데이터 외에도 성별, 도시, 연령과 같은 프로필 차원별로 인구통계 분석을 지원합니다.
 
 <table>
 <tr>

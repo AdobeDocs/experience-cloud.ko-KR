@@ -2,12 +2,21 @@
 title: 시각화 추가
 description: 동적 보고서는 그래픽 표현을 보고서에 추가하는 시각화 세트를 제공합니다.
 level: Intermediate
-badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
+badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 audience: end-user
 exl-id: 87b53a84-498e-430b-a3ed-22a3a9422dae
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+TQID: https://experienceleague.adobe.com/-KqpXVulHMMJnerAxfiBt88nUVKuYwrPPew6ISdiguE
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: 230
 ht-degree: 1%
 
 ---

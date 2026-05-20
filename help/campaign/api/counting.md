@@ -8,9 +8,14 @@ role: Developer
 level: Experienced
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: d6354249-3b0d-4532-951f-b0fae953f7e1
-source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
+TQID: https://experienceleague.adobe.com/HgtrtWqn6tdgTQR9lORGusyQswJX2zOWUvPOWXksS8c
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: 95
 ht-degree: 2%
 
 ---
@@ -54,7 +59,7 @@ Adobe Campaign REST API는 요청의 레코드 수를 카운트할 수 있습니
 }
 ```
 
-**count** 노드의 URL에서 GET 요청을 수행하여 결과 수를 검색합니다.
+**count** 노드의 URL에 대해 GET 요청을 수행하여 결과 수를 검색합니다.
 
 ```
 -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/service/byChannel/_count?channel=sms&_lineStart=@iKTZ2q3IiSEDqZ5Nw1vdoGnQCqF-8DAUJRaVwR9obqqTxhMy \

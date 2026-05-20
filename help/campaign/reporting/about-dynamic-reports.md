@@ -5,9 +5,18 @@ level: Beginner
 badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 audience: end-user
 exl-id: d79f8a07-2322-4bc7-9d74-446db24a8d70
-source-git-commit: ccc6baf502ec66815ee3295537937fa101db4596
+TQID: https://experienceleague.adobe.com/9kugKT0mMhm89C9r-WQhJrZFWL-cnm4PpP5Pj6tY9wI
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: 209
 ht-degree: 29%
 
 ---

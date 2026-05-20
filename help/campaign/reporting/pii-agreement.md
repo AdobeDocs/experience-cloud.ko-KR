@@ -1,14 +1,26 @@
 ---
-title: 동적 보고서 시작
+title: 동적 보고서 시작하기
 description: 다이내믹 보고 사용 계약에 대한 자세한 내용
 level: Beginner
-badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
+badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 audience: end-user
 exl-id: 9fcef466-f306-480e-b42e-d18daa8bcf06
-source-git-commit: dbdf1c4f8b676c73a7cc3a46af2838ebb9326457
+TQID: https://experienceleague.adobe.com/AGXqq-XOQU8SmHobDIA-nZqw3eNSa2THnw2jQQP54YA
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 1%
+source-wordcount: 549
+ht-degree: 2%
 
 ---
 
@@ -28,17 +40,17 @@ ht-degree: 1%
 
 아래 표에는 지역에 따라 이 계약에 동의한 후 발생한 사항이 표시됩니다.
 
-|  | 다이내믹 보고 | Microsoft Dynamics 365 커넥터 |
+|  | 동적 보고 | Microsoft Dynamics 365 커넥터 |
 |---|---|---|
 | 아메리카 및 APAC(아시아 태평양) | **사용 가능한 기능**. <br>미국 보고 센터에 푸시된 모든 기본 프로필(예: 도시, 국가/지역, 주, 성별 및 연령 기준 세그먼트) 및 사용자 지정 프로필 정보. | **사용 가능한 기능**. <br>모든 기본 및 사용자 지정 프로필 필드와 Adobe Campaign 이벤트 필드가 미국 데이터 센터에서 처리됩니다. |
-| EMEA(유럽 중동 및 아프리카) | **사용 가능한 기능**. <br>EMEA 보고 센터에 푸시된 모든 기본 제공(예: 도시, 국가/지역, 주, 성별 및 연령 기준 세그먼트) 및 사용자 지정 프로필 정보. | **기능을 사용할 수 있습니다.** <br>EMEA 데이터 센터에서 처리된 기본 및 사용자 지정 프로필 필드와 Adobe Campaign 이벤트 필드. <br>**[!UICONTROL 제어 데이터&#x200B;]**- Adobe I/O 등록 데이터와 미국 데이터 센터에서 전송 및 저장된 고객 최종 사용자 이벤트의 ID가 들어 있습니다. |
+| EMEA(유럽 중동 및 아프리카) | **사용 가능한 기능**. <br>EMEA 보고 센터에 푸시된 모든 기본 제공(예: 도시, 국가/지역, 주, 성별 및 연령 기준 세그먼트) 및 사용자 지정 프로필 정보. | **기능을 사용할 수 있습니다.** <br>EMEA 데이터 센터에서 처리된 기본 및 사용자 지정 프로필 필드와 Adobe Campaign 이벤트 필드입니다. 미국 데이터 센터에 전송되고 저장된 고객 최종 사용자 이벤트의 ID와 Adobe I/O 등록 데이터가 포함된 <br>**[!UICONTROL 제어 데이터&#x200B;]**. |
 
-아래 표에는 지역에 따라 이 계약을 거절한 후 발생한 내용이 표시됩니다. 이 계약을 거부하더라도 게재 및 Microsoft Dynamics 365 통합에 대한 보고를 계속 사용할 수 있습니다.
+아래 표에는 지역에 따라 이 계약을 거절한 후 발생한 내용이 표시됩니다. 이 계약을 거부하더라도 게재 및 Microsoft Dynamics 365 통합에 대한 보고는 계속 사용할 수 있습니다.
 
-| 지역 | 다이내믹 보고 | Microsoft Dynamics 365 커넥터 |
+| 지역 | 동적 보고 | Microsoft Dynamics 365 커넥터 |
 |---|---|---|
-| 아메리카 및 APAC(아시아 태평양) | **사용 가능한 기능**. <br> ExternalID를 제외하고 기본 및 사용자 지정 프로필 정보가 미국 보고 센터로 푸시되지 않았습니다. | **사용 가능한 기능**. <br>외부 ID와 받는 사람 ID를 제외하고 기본 프로필 필드나 사용자 지정 프로필 필드를 미국 데이터 센터로 보내지 않습니다. <br>미러 페이지 ID를 제외하고 미국 데이터 센터에서 처리된 모든 Adobe Campaign 이벤트 필드. |
-| EMEA(유럽 중동 및 아프리카) | **사용 가능한 기능**. <br>기본 및 사용자 지정 프로필 정보가 ExternalID를 제외하고 EMEA 보고 센터로 푸시되지 않았습니다. | **기능을 사용할 수 있습니다.** <br>외부 ID와 받는 사람 ID를 제외하고 기본 프로필 또는 사용자 지정 프로필 필드가 EMEA 데이터 센터로 전송되지 않았습니다. <br>미러 페이지 ID를 제외하고 EMEA 데이터 센터에서 처리된 모든 Adobe Campaign 이벤트 필드. |
+| 아메리카 및 APAC(아시아 태평양) | **사용 가능한 기능**. <br> ExternalID를 제외하고 기본 및 사용자 정의 프로필 정보가 미국 보고 센터로 푸시되지 않습니다. | **사용 가능한 기능**. <br>외부 ID와 받는 사람 ID를 제외하고 기본 프로필 필드나 사용자 지정 프로필 필드를 미국 데이터 센터로 보내지 않습니다. <br>미러 페이지 ID를 제외하고 미국 데이터 센터에서 처리된 모든 Adobe Campaign 이벤트 필드. |
+| EMEA(유럽 중동 및 아프리카) | **사용 가능한 기능**. <br>기본 및 사용자 지정 프로필 정보가 ExternalID를 제외하고 EMEA 보고 센터로 푸시되지 않았습니다. | **기능을 사용할 수 있습니다.** <br>외부 ID와 받는 사람 ID를 제외하고 기본 프로필 또는 사용자 지정 프로필 필드를 EMEA 데이터 센터로 보내지 않습니다. <br>미러 페이지 ID를 제외하고 EMEA 데이터 센터에서 처리된 모든 Adobe Campaign 이벤트 필드. |
 
 이 선택은 최종적이지 않습니다. **[!UICONTROL 관리]** > **[!UICONTROL 플랫폼]** > **[!UICONTROL 옵션]**&#x200B;에서 **[!UICONTROL realtimeReporting_collectPII]** 옵션을 선택하여 언제든지 변경할 수 있습니다.
 
