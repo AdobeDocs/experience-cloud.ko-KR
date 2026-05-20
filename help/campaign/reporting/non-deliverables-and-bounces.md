@@ -1,18 +1,23 @@
 ---
-title: 게재 불가 및 이탈
+title: 비게재 항목 및 바운스
 description: 게재 불가 및 바운스 기본 보고서를 사용하여 게재에 발생할 수 있는 오류에 대해 알아봅니다.
 audience: end-user
 level: Intermediate
-badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
+badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: 325a03dc-1b28-4418-921f-64c029fa8989
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+TQID: https://experienceleague.adobe.com/RCTEfVPm5WmmZdPnCpbIcDhqtnyPrF9TbLN-LlL1w-0
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 4%
+source-wordcount: 136
+ht-degree: 5%
 
 ---
 
-# 게재 불가 및 이탈{#non-deliverables-and-bounces}
+# 비게재 항목 및 바운스{#non-deliverables-and-bounces}
 
 **[!UICONTROL 게재 불가 및 바운스 수]** 보고서는 게재 중 발생한 모든 오류에 대한 세부 정보를 제공합니다.
 

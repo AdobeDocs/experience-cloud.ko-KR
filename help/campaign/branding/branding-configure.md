@@ -5,11 +5,16 @@ audience: administration
 context-tags: branding,overview;branding,main
 role: Admin
 level: Experienced
-badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="마이그레이션된 사용자 Campaign Standard으로 제한됨"
+badge: label="제한된 가용성" type="Informative" url="../campaign-standard-migration-home.md" tooltip="Campaign Standard 마이그레이션된 사용자로 제한됨"
 exl-id: 7afc802d-e90c-48c8-aa04-3ea543dfdfbc
-source-git-commit: 62c2f2e7a6f5dd347749e963a655b717cd5c7310
+TQID: https://experienceleague.adobe.com/hnN2EgVkkBA0Zp6NYqk2ID2XgHjv1EBDrWRW7k7qJ7Q
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: 380
 ht-degree: 42%
 
 ---
@@ -24,7 +29,7 @@ Adobe Campaign V8의 브랜드는 **[!UICONTROL 관리 > 플랫폼 > 브랜딩]*
 
 **[!UICONTROL 브랜드]**&#x200B;는 다음과 같은 특성에 의해 정의됩니다.
 
-* 브랜드를 정의하고 개인화하는 **[!UICONTROL 이미지]**&#x200B;입니다. 이 섹션에는 다음 필드가 포함되어 있습니다.
+* 브랜드를 정의하고 개인화하는 **[!UICONTROL 아이덴티티]**&#x200B;입니다. 이 섹션에는 다음 필드가 포함되어 있습니다.
 
    * 인터페이스에 표시되는 **[!UICONTROL 레이블]**
    * **[!UICONTROL ID]**
@@ -50,7 +55,7 @@ Adobe Campaign V8의 브랜드는 **[!UICONTROL 관리 > 플랫폼 > 브랜딩]*
 
 * **[!UICONTROL 브랜드 구성]**&#x200B;은(는) 랜딩 페이지 액세스를 위한 추적에도 사용되는 서버를 정의합니다. 이 섹션에는 다음 필드가 포함되어 있습니다.
 
-   * **[!UICONTROL 브랜드 하위 도메인]**&#x200B;이(가) 이 브랜드와 관련된 지정된 하위 도메인 URL을 참조합니다. Adobe에서 위임이 요청됩니다.
+   * **[!UICONTROL Brand 하위 도메인]**&#x200B;은(는) Adobe에서 위임이 요청된 이 브랜드와 관련된 지정된 하위 도메인 URL을 참조합니다.
 
   추적, 미러 및 애플리케이션 서버에 대한 구성은 라우팅과 연관된 별도의 외부 계정에 저장됩니다. 이러한 설정은 프로비저닝 중에 적용되므로 수정해서는 안 됩니다. URL을 표시하려면 외부 계정에서 **[!UICONTROL 브랜딩 접두사]** 탭에 액세스하십시오.
 
