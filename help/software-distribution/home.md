@@ -3,8 +3,10 @@ title: 소프트웨어 배포
 description: 소프트웨어 배포를 사용하여 Adobe Experience Cloud 소프트웨어를 다운로드하는 방법을 알아봅니다.
 exl-id: ac559a28-4444-4326-ba92-78afd10ed9ab
 TQID: https://experienceleague.adobe.com/KaFci2oowPXO8w8SZORK-sn-LYZd1TM2Y3JFcISsQZM
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
 source-wordcount: 434

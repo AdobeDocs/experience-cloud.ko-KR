@@ -3,9 +3,13 @@ title: Experience Cloud Triggers 만들기 및 관리
 description: Adobe Experience Cloud Triggers UI 살펴보기
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
 TQID: https://experienceleague.adobe.com/0EG1662w4P--X1uN3hH7JRBFrU0B5JU--LxP0T49tYY
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
 source-wordcount: 516

@@ -4,7 +4,8 @@ description: Adobe Deliverability Services 살펴보기
 hide: true
 exl-id: 31ea97e7-b0a0-4a92-bc69-a458fdbc1d7c
 TQID: https://experienceleague.adobe.com/cBUtLbfjHHnFO2SMjh0bVDJNZFJlnGolwSShLZ0hIew
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
 source-wordcount: 173
