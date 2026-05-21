@@ -9,7 +9,7 @@ git-repo: https://github.com/AdobeDocs/experience-cloud.ko-KR
 index: true
 mini-toc-levels: 2
 product: experience cloud
-source-git-commit: 76932b21cfe714780ff520ace588cd9fcba5c6ae
+source-git-commit: 6144dcbf6f99b379abce1ff5274c161e317cfd0e
 workflow-type: tm+mt
 source-wordcount: 125
 ht-degree: 96%

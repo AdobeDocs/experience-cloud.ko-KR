@@ -5,8 +5,9 @@ breadcrumb-title: Adobe Campaign v8
 solution: Experience Cloud
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+usetq: true
 role: User
-source-git-commit: 76932b21cfe714780ff520ace588cd9fcba5c6ae
+source-git-commit: bc09bb8d32725d3cdfdd6570b550874a24eb0e45
 workflow-type: tm+mt
 source-wordcount: 162
 ht-degree: 80%
