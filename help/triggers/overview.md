@@ -5,27 +5,31 @@ exl-id: f49e3da5-acba-4b60-a875-94a6be979cc0
 TQID: https://experienceleague.adobe.com/qY4I-1h-KYpVx3yNz2c5cQFB9bB3I7sSNQ6RtTIyEPY
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
+    internal-label: Insights
+source-git-commit: 4d6fa2af9541ffd61bfe4b26a84e574ea6a634c8
 workflow-type: tm+mt
-source-wordcount: 280
+source-wordcount: '280'
 ht-degree: 100%
-
 ---
-
 # Experience Cloud 트리거 정보 {#overview}
 
 Experience Cloud 트리거는 중요한 소비자 행태를 확인하고, 정의하고, 모니터링하기 위한 종합적인 솔루션을 제시합니다. 이들 트리거를 통해서 애플리케이션 간 커뮤니케이션을 생성하여 방문자를 다시 끌어들이고 더 개인화되고 흥미로운 사용자 경험을 선사할 수 있습니다.
 
 예를 들면 실시간 의사 결정 및 개인화에서 트리거를 사용할 수 있습니다.
 
-* 장바구니 포기 또는 제품이 삭제된 장바구니 포기를 위한 신속한 리마케팅 캠페인을 구성하여 전환과 수익을 증대할 수 있습니다.
+* 장바구니 포기 또는 제품이 삭제된 장바구니 포기를 위한 신속한 리마케팅 캠페인을 구성하여 전환과 매출을 증대할 수 있습니다.
 * 미작성된 양식과 신청서를 파악하여 개인화된 후속 대응을 통하여 신청이 완료되도록 하고 포기율을 줄일 수 있습니다.
 * 사용자의 사이트에서 추적하고자 하는 모든 활동 또는 활동의 추이를 관찰함으로써 사용자 행태에 대한 귀중한 통찰을 얻고 그러한 활동을 바탕으로 사용자 경험을 최적화할 수 있습니다.
 
