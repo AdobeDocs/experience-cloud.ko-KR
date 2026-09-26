@@ -1,8 +1,9 @@
 ---
 cloud: Experience Cloud
-solution: Experience Cloud
+solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: "Experience Cloud"
 usetq: true
 feature-set: Experience Cloud Services
 type: Documentation
@@ -10,13 +11,11 @@ git-repo: https://github.com/AdobeDocs/experience-cloud.ko-KR
 index: true
 mini-toc-levels: 2
 product: experience cloud
-source-git-commit: 9047fa797ac90201e6ae8e37f712d82cbd5eaa0a
+source-git-commit: 4d6fa2af9541ffd61bfe4b26a84e574ea6a634c8
 workflow-type: tm+mt
-source-wordcount: 125
-ht-degree: 96%
-
+source-wordcount: '120'
+ht-degree: 100%
 ---
-
 
 # 내부용 메타데이터
 

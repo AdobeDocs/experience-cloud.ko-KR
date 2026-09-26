@@ -5,18 +5,20 @@ exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
 TQID: https://experienceleague.adobe.com/0EG1662w4P--X1uN3hH7JRBFrU0B5JU--LxP0T49tYY
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
+    internal-label: Reporting
+source-git-commit: 4d6fa2af9541ffd61bfe4b26a84e574ea6a634c8
 workflow-type: tm+mt
-source-wordcount: 516
+source-wordcount: '516'
 ht-degree: 100%
-
 ---
-
 # Experience Cloud 트리거 만들기 {#create-triggers}
 
 >[!AVAILABILITY]
@@ -39,7 +41,7 @@ ht-degree: 100%
 
    * **[!UICONTROL 포기]**: 방문자가 제품을 보고 장바구니에 아무 것도 담지 않을 경우에 사용할 트리거를 생성할 수 있습니다.
 
-   * **[!UICONTROL 액션]**: 예를 들어 뉴스레터 등록, 이메일 구독 또는 신용카드 신청(확인) 후에 동작할 트리거를 만들 수 있습니다. 유통업의 경우 로열티 프로그램에 등록한 방문자를 대상으로 트리거를 만들 수 있습니다. 미디어 및 엔터테인먼트에서는 특정 프로그램을 시청하고 설문 조사에 응답하기를 원하는 방문자를 대상으로 트리거를 만들 수 있습니다.
+   * **[!UICONTROL 액션]**: 예를 들어 뉴스레터 등록, 이메일 구독 또는 신용카드 신청(확인) 후에 동작할 트리거를 만들 수 있습니다. 리테일 업체의 경우 로열티 프로그램에 등록한 방문자를 대상으로 트리거를 만들 수 있습니다. 미디어 및 엔터테인먼트에서는 특정 프로그램을 시청하고 설문 조사에 응답하기를 원하는 방문자를 대상으로 트리거를 만들 수 있습니다.
 
    * **[!UICONTROL 세션 시작 및 세션 종료]**: 세션 시작 및 세션 종료 이벤트를 위한 트리거를 생성합니다.
 
@@ -76,6 +78,6 @@ ht-degree: 100%
 
    ![](assets/triggers_4.png)
 
-1. 해당 트리거의 상세 보기에서 몇 개의 트리거가 작동하였는지에 대한 보고서에 액세스할 수 있습니다. 필요할 경우 연필 아이콘으로 트리거를 편집할 수 있습니다.
+1. 해당 트리거의 상세 보기에서 몇 개의 트리거가 실행되었는지에 대한 보고서에 액세스할 수 있습니다. 필요할 경우 연필 아이콘으로 트리거를 편집할 수 있습니다.
 
    ![](assets/triggers_5.png)

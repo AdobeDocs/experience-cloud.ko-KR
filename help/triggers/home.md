@@ -5,15 +5,15 @@ exl-id: aad9c013-6671-4e3b-adfc-fab79f2a3ef7
 TQID: https://experienceleague.adobe.com/-QGFb6CKWkwR0SR04D5j76u5YBFsXeDzYIyRb9c6joo
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: 162fbadabf6fdb43faa6507c6b2cc8d1907cd7c9
+    internal-label: User
+source-git-commit: 4d6fa2af9541ffd61bfe4b26a84e574ea6a634c8
 workflow-type: tm+mt
-source-wordcount: 153
+source-wordcount: '153'
 ht-degree: 85%
-
 ---
-
 # Adobe Experience Cloud Triggers{#triggers-home}
 
 Experience Cloud 트리거를 위한 새로운 사용자 인터페이스를 통해서 직관적으로 소비자 행태를 관리하고 사용자 경험을 개인화할 수 있습니다.
